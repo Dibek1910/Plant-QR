@@ -5,7 +5,7 @@
   </h3>
 
   <div class="image-wrapper">
-    <img [src]="plant.image_url" [alt]="plant.name" />
+    <img [src]="plant.image_url" [alt]="plant.name" loading="lazy" />
   </div>
 
   <div class="description" [innerHTML]="plant.descriptionHtml"></div>

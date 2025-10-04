@@ -1,6 +1,8 @@
 <div *ngIf="plant" class="plant-container">
   <h1>{{ plant.name }}</h1>
-  <h3><i>{{ plant.botanical_name }}</i></h3>
+  <h3>
+    <i>{{ plant.botanical_name }}</i>
+  </h3>
 
   <div class="image-wrapper">
     <img [src]="plant.image_url" [alt]="plant.name" />
@@ -13,9 +15,11 @@
     <button (click)="speak('hi-IN')">Hindi</button>
     <button (click)="speak('de-DE')">German</button>
     <button (click)="speak('fr-FR')">French</button>
-    <button (click)="pauseSpeech()">
-      {{ isPaused ? 'Resume' : 'Pause' }}
+  </div>
+  <div class="tts-buttons">
+    <button style="background-color: yellow; color: black;" (click)="pauseSpeech()">
+      {{ isPaused ? "Resume" : "Pause" }}
     </button>
-    <button (click)="stopSpeech()">Stop</button>
+    <button style="background-color: red;" (click)="stopSpeech()">Stop</button>
   </div>
 </div>

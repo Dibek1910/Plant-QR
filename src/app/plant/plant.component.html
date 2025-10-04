@@ -1,0 +1,21 @@
+<div *ngIf="plant" class="plant-container">
+  <h1>{{ plant.name }}</h1>
+  <h3><i>{{ plant.botanical_name }}</i></h3>
+
+  <div class="image-wrapper">
+    <img [src]="plant.image_url" [alt]="plant.name" />
+  </div>
+
+  <div class="description" [innerHTML]="plant.descriptionHtml"></div>
+
+  <div class="tts-buttons">
+    <button (click)="speak('en-IN')">English</button>
+    <button (click)="speak('hi-IN')">Hindi</button>
+    <button (click)="speak('de-DE')">German</button>
+    <button (click)="speak('fr-FR')">French</button>
+    <button (click)="pauseSpeech()">
+      {{ isPaused ? 'Resume' : 'Pause' }}
+    </button>
+    <button (click)="stopSpeech()">Stop</button>
+  </div>
+</div>

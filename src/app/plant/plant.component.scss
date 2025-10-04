@@ -1,0 +1,58 @@
+.plant-container {
+  max-width: 700px;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+  text-align: center;
+  font-family: Arial, sans-serif;
+
+  h1 {
+    color: #2e7d32;
+    margin-bottom: 5px;
+  }
+
+  h3 {
+    color: #555;
+    margin-bottom: 20px;
+  }
+
+  .image-wrapper {
+    margin-bottom: 20px;
+
+    img {
+      max-width: 100%;
+      border-radius: 8px;
+      box-shadow: 0 3px 8px rgba(0,0,0,0.1);
+    }
+  }
+
+  .description {
+    text-align: left;
+    white-space: pre-wrap;
+    background-color: #f0f0f0;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    line-height: 1.5;
+  }
+
+  .tts-buttons {
+    button {
+      background-color: #2e7d32;
+      color: #fff;
+      border: none;
+      padding: 10px 15px;
+      margin: 5px;
+      border-radius: 6px;
+      cursor: pointer;
+      font-weight: bold;
+      transition: background 0.3s;
+
+      &:hover {
+        background-color: #1b5e20;
+      }
+    }
+  }
+}

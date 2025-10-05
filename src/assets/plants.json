@@ -3,63 +3,63 @@
     "id": "PLANT001",
     "name": "Ponytail Palm",
     "botanical_name": "Nolina recurvata",
-    "image_url": "https://cdn.jsdelivr.net/gh/Dibek1910/Plant-QR@main/src/assets/images/1.png",
+    "image_url": "assets/images/1.png",
     "description": "Family: Asparagaceae\nOrigin: Eastern Mexico\nGrowth Habit: Slow-growing, succulent-like tree with a swollen base and long, arching leaves\nLight Required: Bright, indirect sunlight\nWater Required: Low; allow soil to dry out between waterings\nSoil Condition: Well-draining, sandy or cactus mix\nUses: Ornamental indoor/outdoor plant, drought-tolerant landscapes, bonsai"
   },
   {
     "id": "PLANT002",
     "name": "Blue Cactus",
     "botanical_name": "Pilosocereus sp.",
-    "image_url": "https://cdn.jsdelivr.net/gh/Dibek1910/Plant-QR@main/src/assets/images/2.png",
+    "image_url": "assets/images/2.png",
     "description": "Family: Cactaceae\nOrigin: Tropical and subtropical regions of the Americas (Brazil, Caribbean, Mexico)\nGrowth Habit: Columnar, tree-like cactus with striking bluish-green stems and golden spines\nLight Required: Full sun\nWater Required: Low; water sparingly and allow soil to dry out between waterings\nSoil Condition: Well-draining, sandy or cactus mix\nUses: Ornamental plant, xeriscaping, container gardening, desert-themed landscapes"
   },
   {
     "id": "PLANT003",
     "name": "Totem Pole Cactus",
     "botanical_name": "Lophocereus schottii",
-    "image_url": "https://cdn.jsdelivr.net/gh/Dibek1910/Plant-QR@main/src/assets/images/3.png",
+    "image_url": "assets/images/3.png",
     "description": "Family: Cactaceae\nOrigin: Sonoran Desert, Northern Mexico and Southern Arizona\nGrowth Habit: Tall, columnar cactus; often spineless with smooth, bumpy surface (monstrose form)\nLight Required: Full sun\nWater Required: Low; drought-tolerant, water sparingly\nSoil Condition: Well-draining, sandy or cactus mix\nUses: Ornamental plant, xeriscaping, desert gardens, container cultivation"
   },
   {
     "id": "PLANT004",
     "name": "Buddha Belly Plant",
     "botanical_name": "Jatropha podagrica",
-    "image_url": "https://cdn.jsdelivr.net/gh/Dibek1910/Plant-QR@main/src/assets/images/4.png",
+    "image_url": "assets/images/4.png",
     "description": "Family: Euphorbiaceae\nOrigin: Central America\nGrowth Habit: Succulent shrub with a swollen caudex and large lobed leaves\nLight Required: Bright, indirect light to full sun\nWater Required: Moderate; water when soil is dry\nSoil Condition: Well-draining soil\nUses: Ornamental indoor/outdoor plant, medicinal uses (toxic)"
   },
   {
     "id": "PLANT005",
     "name": "Crested Cat Tail Euphorbia",
     "botanical_name": "Euphorbia leucodendron 'Cristata'",
-    "image_url": "https://cdn.jsdelivr.net/gh/Dibek1910/Plant-QR@main/src/assets/images/5.png",
+    "image_url": "assets/images/5.png",
     "description": "Family: Euphorbiaceae\nOrigin: Madagascar\nGrowth Habit: Crested form with sculptural, fan-like growth on cylindrical stems\nLight Required: Bright light to full sun\nWater Required: Low; drought-tolerant\nSoil Condition: Well-draining cactus or succulent mix\nUses: Decorative plant for collectors, xeriscaping, container gardens"
   },
   {
     "id": "PLANT006",
     "name": "Crested Euphorbia",
     "botanical_name": "Euphorbia lactea 'Crest'",
-    "image_url": "https://cdn.jsdelivr.net/gh/Dibek1910/Plant-QR@main/src/assets/images/6.png",
+    "image_url": "assets/images/6.png",
     "description": "Family: Euphorbiaceae\nOrigin: India\nGrowth Habit: Fan-shaped, crested form often grafted onto Euphorbia rootstock\nLight Required: Bright indirect light to partial sun\nWater Required: Low; water sparingly\nSoil Condition: Well-draining soil\nUses: Unique ornamental plant, grown in containers or as grafted specimen"
   },
   {
     "id": "PLANT007",
     "name": "Golden Barrel Cactus",
     "botanical_name": "Echinocactus grusonii",
-    "image_url": "https://cdn.jsdelivr.net/gh/Dibek1910/Plant-QR@main/src/assets/images/7.png",
+    "image_url": "assets/images/7.png",
     "description": "Family: Cactaceae\nOrigin: Mexico\nGrowth Habit: Round, barrel-shaped cactus with prominent ribs and golden spines\nLight Required: Full sun\nWater Required: Low; water only when soil is dry\nSoil Condition: Well-draining, sandy or gritty soil\nUses: Rock gardens, desert landscapes, containers"
   },
   {
     "id": "PLANT008",
     "name": "Ball Cactus",
     "botanical_name": "Notocactus magnificus",
-    "image_url": "https://cdn.jsdelivr.net/gh/Dibek1910/Plant-QR@main/src/assets/images/8.png",
+    "image_url": "assets/images/8.png",
     "description": "Family: Cactaceae\nOrigin: Southern Brazil, Uruguay\nGrowth Habit: Globular to short columnar cactus with ribs and yellow spines\nLight Required: Bright light to full sun\nWater Required: Moderate; allow soil to dry between watering\nSoil Condition: Well-draining cactus mix\nUses: Decorative cactus for pots or succulent arrangements"
   },
   {
     "id": "PLANT009",
     "name": "Barrel Cactus",
     "botanical_name": "Ferocactus sp.",
-    "image_url": "https://cdn.jsdelivr.net/gh/Dibek1910/Plant-QR@main/src/assets/images/9.png",
+    "image_url": "assets/images/9.png",
     "description": "Family: Cactaceae\nOrigin: Southwestern U.S. and Mexico\nGrowth Habit: Large barrel-shaped cactus with heavy ribs and prominent spines\nLight Required: Full sun\nWater Required: Low; drought-tolerant\nSoil Condition: Sandy, well-draining soil\nUses: Landscape feature in arid gardens, containers, erosion control"
   }
 ]

@@ -33,8 +33,8 @@ export class PlantComponent implements OnInit {
       // Display HTML with line breaks
       this.plant.descriptionHtml = this.plant.description.replace(/\n/g, '<br>');
 
-      // Prepare TTS-friendly text with natural pauses
-      this.plant.ttsText = this.plant.description
+      // Prepare TTS-friendly text (HTML stripped)
+      this.plant.ttsText = this.stripHtml(this.plant.description)
         .replace(/\n/g, '. ')        // line breaks → pause
         .replace(/;/g, ',')          // semicolon → comma
         .replace(/Family:/g, 'Family,')
@@ -50,6 +50,13 @@ export class PlantComponent implements OnInit {
       this.error = 'Plant not found';
       this.isLoading = false;
     }
+  }
+
+  // Utility to strip all HTML tags
+  stripHtml(html: string): string {
+    const div = document.createElement('div');
+    div.innerHTML = html;
+    return div.textContent || div.innerText || '';
   }
 
   async speak(lang: string) {

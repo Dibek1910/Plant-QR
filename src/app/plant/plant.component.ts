@@ -62,28 +62,60 @@ export class PlantComponent implements OnInit {
 
     let textToSpeak = this.plant.ttsText;
 
+    // Add natural pauses for smoother rhythm
+    textToSpeak = textToSpeak
+      .replace(/, /g, ', ... ')
+      .replace(/\. /g, '. ... ');
+
     // Translate if needed
     if (lang !== 'en-IN') {
       const targetLang = this.getLanguageCode(lang);
       textToSpeak = await this.translateText(this.plant.ttsText, targetLang);
     }
 
+    // Create utterance
     this.utterance = new SpeechSynthesisUtterance(textToSpeak);
     this.utterance.lang = lang;
 
-    // Pick best voice
+    // Load voices (may be async)
     const voices = speechSynthesis.getVoices();
-    const selectedVoice =
-      voices.find(v => v.lang === lang && v.name.includes('Neural')) ||
-      voices.find(v => v.lang === lang);
+
+    // Smart voice selection for most natural tones
+    const preferredVoices = [
+      'Google UK English Female',
+      'Google US English',
+      'Microsoft Zira Desktop - English (United States)',
+      'Microsoft David Desktop - English (United States)',
+      'Google हिन्दी', // Hindi
+      'Google Deutsch', // German
+      'Google Français', // French
+      'Google русский'  // Russian
+    ];
+
+    let selectedVoice =
+      voices.find(v => v.lang === lang && preferredVoices.includes(v.name)) ||
+      voices.find(v => v.lang === lang) ||
+      voices.find(v => v.lang.startsWith(lang.split('-')[0]));
+
     if (selectedVoice) {
       this.utterance.voice = selectedVoice;
     }
 
-    // Natural tone
-    this.utterance.rate = 0.9;
-    this.utterance.pitch = 1.0;
+    // 🎵 More natural settings
+    this.utterance.rate = 0.88; // Slightly slower, more expressive
+    this.utterance.pitch = 1.02; // Softer, less robotic tone
+    this.utterance.volume = 1.0; // Full clarity
 
+    // Add slight random pauses for natural breathing
+    this.utterance.onboundary = (event) => {
+      if (event.name === 'sentence') {
+        const randPause = Math.random() * 200 + 100;
+        speechSynthesis.pause();
+        setTimeout(() => speechSynthesis.resume(), randPause);
+      }
+    };
+
+    // Speak
     speechSynthesis.speak(this.utterance);
   }
 

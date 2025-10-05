@@ -30,20 +30,14 @@ export class PlantComponent implements OnInit {
     this.plant = plantsData.find(p => p.id === id);
 
     if (this.plant) {
-      // Display HTML with line breaks
+      // Format description with HTML line breaks
       this.plant.descriptionHtml = this.plant.description.replace(/\n/g, '<br>');
 
-      // Prepare TTS-friendly text (HTML stripped)
-      this.plant.ttsText = this.stripHtml(this.plant.description)
-        .replace(/\n/g, '. ')        // line breaks → pause
-        .replace(/;/g, ',')          // semicolon → comma
-        .replace(/Family:/g, 'Family,')
-        .replace(/Origin:/g, 'Origin,')
-        .replace(/Growth Habit:/g, 'Growth Habit,')
-        .replace(/Light Required:/g, 'Light Required,')
-        .replace(/Water Required:/g, 'Water Required,')
-        .replace(/Soil Condition:/g, 'Soil Condition,')
-        .replace(/Uses:/g, 'Uses,');
+      // Use 'details' for TTS only
+      this.plant.ttsText = this.stripHtml(this.plant.details)
+        .replace(/\n/g, '. ')
+        .replace(/;/g, ',')
+        .trim();
 
       this.isLoading = false;
     } else {
@@ -52,7 +46,7 @@ export class PlantComponent implements OnInit {
     }
   }
 
-  // Utility to strip all HTML tags
+  // Strip HTML tags
   stripHtml(html: string): string {
     const div = document.createElement('div');
     div.innerHTML = html;
@@ -62,13 +56,13 @@ export class PlantComponent implements OnInit {
   async speak(lang: string) {
     if (!this.plant) return;
 
-    // Stop previous speech
+    // Stop any ongoing speech
     speechSynthesis.cancel();
     this.isPaused = false;
 
     let textToSpeak = this.plant.ttsText;
 
-    // Translate if not English
+    // Translate if needed
     if (lang !== 'en-IN') {
       const targetLang = this.getLanguageCode(lang);
       textToSpeak = await this.translateText(this.plant.ttsText, targetLang);
@@ -77,16 +71,18 @@ export class PlantComponent implements OnInit {
     this.utterance = new SpeechSynthesisUtterance(textToSpeak);
     this.utterance.lang = lang;
 
-    // Select a more human-like voice if available
+    // Pick best voice
     const voices = speechSynthesis.getVoices();
-    const selectedVoice = voices.find(v => v.lang === lang && v.name.includes('Neural')) || voices.find(v => v.lang === lang);
+    const selectedVoice =
+      voices.find(v => v.lang === lang && v.name.includes('Neural')) ||
+      voices.find(v => v.lang === lang);
     if (selectedVoice) {
       this.utterance.voice = selectedVoice;
     }
 
-    // Make voice slower and more natural
-    this.utterance.rate = 0.85;  // slightly slower
-    this.utterance.pitch = 1.0;  // natural pitch
+    // Natural tone
+    this.utterance.rate = 0.9;
+    this.utterance.pitch = 1.0;
 
     speechSynthesis.speak(this.utterance);
   }
@@ -120,7 +116,9 @@ export class PlantComponent implements OnInit {
 
   async translateText(text: string, targetLang: string): Promise<string> {
     try {
-      const res = await fetch(`https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=${targetLang}&dt=t&q=${encodeURIComponent(text)}`);
+      const res = await fetch(
+        `https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=${targetLang}&dt=t&q=${encodeURIComponent(text)}`
+      );
       const data = await res.json();
       return data[0].map((item: any) => item[0]).join('');
     } catch (error) {

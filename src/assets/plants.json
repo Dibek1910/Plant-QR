@@ -4,62 +4,71 @@
     "name": "Ponytail Palm",
     "botanical_name": "Nolina recurvata",
     "image_url": "assets/images/1.png",
-    "description": "<strong>Family:</strong> Asparagaceae\n<strong>Origin:</strong> Eastern Mexico\n<strong>Growth Habit:</strong> Slow-growing, succulent-like tree with a swollen base and long, arching leaves\n<strong>Light Required:</strong> Bright, indirect sunlight\n<strong>Water Required:</strong> Low; allow soil to dry out between waterings\n<strong>Soil Condition:</strong> Well-draining, sandy or cactus mix\n<strong>Uses:</strong> Ornamental indoor/outdoor plant, drought-tolerant landscapes, bonsai"
+    "description": "<strong>Family:</strong> Asparagaceae\n<strong>Origin:</strong> Eastern Mexico\n<strong>Growth Habit:</strong> Slow-growing, succulent-like tree with a swollen base and long, arching leaves\n<strong>Light Required:</strong> Bright, indirect sunlight\n<strong>Water Required:</strong> Low; allow soil to dry out between waterings\n<strong>Soil Condition:</strong> Well-draining, sandy or cactus mix\n<strong>Uses:</strong> Ornamental indoor/outdoor plant, drought-tolerant landscapes, bonsai",
+    "details": "The Ponytail Palm, despite its name, is not a true palm but a succulent-like tree belonging to the Asparagaceae family. Native to eastern Mexico, it features a bulbous, water-storing base and long, cascading leaves that give it a palm-like look. It thrives in bright, indirect sunlight and needs minimal watering—perfect for forgetful plant owners. The key is to let the soil dry out completely between waterings to avoid root rot. Its sculptural shape and easy care make it a popular choice for modern interiors, offices, and sunny patios."
   },
   {
     "id": "PLANT002",
     "name": "Blue Cactus",
     "botanical_name": "Pilosocereus sp.",
     "image_url": "assets/images/2.png",
-    "description": "<strong>Family:</strong> Cactaceae\n<strong>Origin:</strong> Tropical and subtropical regions of the Americas (Brazil, Caribbean, Mexico)\n<strong>Growth Habit:</strong> Columnar, tree-like cactus with striking bluish-green stems and golden spines\n<strong>Light Required:</strong> Full sun\n<strong>Water Required:</strong> Low; water sparingly and allow soil to dry out between waterings\n<strong>Soil Condition:</strong> Well-draining, sandy or cactus mix\n<strong>Uses:</strong> Ornamental plant, xeriscaping, container gardening, desert-themed landscapes"
+    "description": "<strong>Family:</strong> Cactaceae\n<strong>Origin:</strong> Tropical and subtropical regions of the Americas (Brazil, Caribbean, Mexico)\n<strong>Growth Habit:</strong> Columnar, tree-like cactus with striking bluish-green stems and golden spines\n<strong>Light Required:</strong> Full sun\n<strong>Water Required:</strong> Low; water sparingly and allow soil to dry out between waterings\n<strong>Soil Condition:</strong> Well-draining, sandy or cactus mix\n<strong>Uses:</strong> Ornamental plant, xeriscaping, container gardening, desert-themed landscapes",
+    "details": "This striking Blue Cactus from the Cactaceae family is native to tropical and subtropical regions of the Americas. Its tall, columnar stems have a unique bluish hue and are covered in golden spines, creating a captivating contrast. It thrives best in full sunlight, making it ideal for bright gardens or balconies. Water sparingly, ensuring the soil dries completely between sessions to prevent rot. With its vivid color and sculptural shape, it adds a modern and desert-chic vibe to any outdoor or indoor cactus collection."
   },
   {
     "id": "PLANT003",
     "name": "Totem Pole Cactus",
     "botanical_name": "Lophocereus schottii",
     "image_url": "assets/images/3.png",
-    "description": "<strong>Family:</strong> Cactaceae\n<strong>Origin:</strong> Sonoran Desert, Northern Mexico and Southern Arizona\n<strong>Growth Habit:</strong> Tall, columnar cactus; often spineless with smooth, bumpy surface (monstrose form)\n<strong>Light Required:</strong> Full sun\n<strong>Water Required:</strong> Low; drought-tolerant, water sparingly\n<strong>Soil Condition:</strong> Well-draining, sandy or cactus mix\n<strong>Uses:</strong> Ornamental plant, xeriscaping, desert gardens, container cultivation"
+    "description": "<strong>Family:</strong> Cactaceae\n<strong>Origin:</strong> Sonoran Desert, Northern Mexico and Southern Arizona\n<strong>Growth Habit:</strong> Tall, columnar cactus; often spineless with smooth, bumpy surface (monstrose form)\n<strong>Light Required:</strong> Full sun\n<strong>Water Required:</strong> Low; drought-tolerant, water sparingly\n<strong>Soil Condition:</strong> Well-draining, sandy or cactus mix\n<strong>Uses:</strong> Ornamental plant, xeriscaping, desert gardens, container cultivation",
+    "details": "The Totem Pole Cactus, native to the Sonoran Desert, is a fascinating member of the Cactaceae family known for its tall, smooth, and bumpy surface that resembles carved totem poles. Unlike most cacti, it is often spineless, giving it a unique sculptural appearance. It prefers full sunlight and thrives in dry, sandy conditions with minimal watering. Ideal for desert gardens or container displays, this cactus is prized for its artistic form and minimal maintenance requirements."
   },
   {
     "id": "PLANT004",
     "name": "Buddha Belly Plant",
     "botanical_name": "Jatropha podagrica",
     "image_url": "assets/images/4.png",
-    "description": "<strong>Family:</strong> Euphorbiaceae\n<strong>Origin:</strong> Central America\n<strong>Growth Habit:</strong> Succulent shrub with a swollen caudex and large lobed leaves\n<strong>Light Required:</strong> Bright, indirect light to full sun\n<strong>Water Required:</strong> Moderate; water when soil is dry\n<strong>Soil Condition:</strong> Well-draining soil\n<strong>Uses:</strong> Ornamental indoor/outdoor plant, medicinal uses (toxic)"
+    "description": "<strong>Family:</strong> Euphorbiaceae\n<strong>Origin:</strong> Central America\n<strong>Growth Habit:</strong> Succulent shrub with a swollen caudex and large lobed leaves\n<strong>Light Required:</strong> Bright, indirect light to full sun\n<strong>Water Required:</strong> Moderate; water when soil is dry\n<strong>Soil Condition:</strong> Well-draining soil\n<strong>Uses:</strong> Ornamental indoor/outdoor plant, medicinal uses (toxic)",
+    "details": "The Buddha Belly Plant, belonging to the Euphorbiaceae family, is native to Central America and gets its name from its swollen base, which resembles a belly. This striking succulent shrub bears large, lobed leaves and bright coral-red flowers. It enjoys bright to full sunlight and prefers well-draining soil with moderate watering once the soil is dry. Although visually appealing, it is toxic if ingested. Its unique form and exotic look make it a conversation piece for both indoor and outdoor spaces."
   },
   {
     "id": "PLANT005",
     "name": "Crested Cat Tail Euphorbia",
     "botanical_name": "Euphorbia leucodendron 'Cristata'",
     "image_url": "assets/images/5.png",
-    "description": "<strong>Family:</strong> Euphorbiaceae\n<strong>Origin:</strong> Madagascar\n<strong>Growth Habit:</strong> Crested form with sculptural, fan-like growth on cylindrical stems\n<strong>Light Required:</strong> Bright light to full sun\n<strong>Water Required:</strong> Low; drought-tolerant\n<strong>Soil Condition:</strong> Well-draining cactus or succulent mix\n<strong>Uses:</strong> Decorative plant for collectors, xeriscaping, container gardens"
+    "description": "<strong>Family:</strong> Euphorbiaceae\n<strong>Origin:</strong> Madagascar\n<strong>Growth Habit:</strong> Crested form with sculptural, fan-like growth on cylindrical stems\n<strong>Light Required:</strong> Bright light to full sun\n<strong>Water Required:</strong> Low; drought-tolerant\n<strong>Soil Condition:</strong> Well-draining cactus or succulent mix\n<strong>Uses:</strong> Decorative plant for collectors, xeriscaping, container gardens",
+    "details": "Native to Madagascar, the Crested Cat Tail Euphorbia is a fascinating succulent from the Euphorbiaceae family. It features unique fan-shaped growth patterns on cylindrical stems, creating an almost coral-like structure. Thriving in bright to full sunlight, it requires minimal watering and well-draining soil. Its unusual, sculptural form makes it a favorite among plant collectors and an excellent addition to desert gardens or modern container displays."
   },
   {
     "id": "PLANT006",
     "name": "Crested Euphorbia",
     "botanical_name": "Euphorbia lactea 'Crest'",
     "image_url": "assets/images/6.png",
-    "description": "<strong>Family:</strong> Euphorbiaceae\n<strong>Origin:</strong> India\n<strong>Growth Habit:</strong> Fan-shaped, crested form often grafted onto Euphorbia rootstock\n<strong>Light Required:</strong> Bright indirect light to partial sun\n<strong>Water Required:</strong> Low; water sparingly\n<strong>Soil Condition:</strong> Well-draining soil\n<strong>Uses:</strong> Unique ornamental plant, grown in containers or as grafted specimen"
+    "description": "<strong>Family:</strong> Euphorbiaceae\n<strong>Origin:</strong> India\n<strong>Growth Habit:</strong> Fan-shaped, crested form often grafted onto Euphorbia rootstock\n<strong>Light Required:</strong> Bright indirect light to partial sun\n<strong>Water Required:</strong> Low; water sparingly\n<strong>Soil Condition:</strong> Well-draining soil\n<strong>Uses:</strong> Unique ornamental plant, grown in containers or as grafted specimen",
+    "details": "The Crested Euphorbia is an artistic marvel of nature, featuring a fan-shaped, ruffled crest often grafted onto a Euphorbia rootstock for support. Originating from India, it belongs to the Euphorbiaceae family and thrives in bright indirect light to partial sunlight. This drought-tolerant plant needs well-draining soil and infrequent watering. Its sculptural form and dramatic appearance make it a sought-after ornamental for indoor displays and succulent enthusiasts."
   },
   {
     "id": "PLANT007",
     "name": "Golden Barrel Cactus",
     "botanical_name": "Echinocactus grusonii",
     "image_url": "assets/images/7.png",
-    "description": "<strong>Family:</strong> Cactaceae\n<strong>Origin:</strong> Mexico\n<strong>Growth Habit:</strong> Round, barrel-shaped cactus with prominent ribs and golden spines\n<strong>Light Required:</strong> Full sun\n<strong>Water Required:</strong> Low; water only when soil is dry\n<strong>Soil Condition:</strong> Well-draining, sandy or gritty soil\n<strong>Uses:</strong> Rock gardens, desert landscapes, containers"
+    "description": "<strong>Family:</strong> Cactaceae\n<strong>Origin:</strong> Mexico\n<strong>Growth Habit:</strong> Round, barrel-shaped cactus with prominent ribs and golden spines\n<strong>Light Required:</strong> Full sun\n<strong>Water Required:</strong> Low; water only when soil is dry\n<strong>Soil Condition:</strong> Well-draining, sandy or gritty soil\n<strong>Uses:</strong> Rock gardens, desert landscapes, containers",
+    "details": "The Golden Barrel Cactus, native to Mexico, is a beloved classic in the Cactaceae family. Its spherical shape, lined with pronounced ribs and bright golden spines, makes it an eye-catching focal point. It thrives in full sunlight and prefers dry, sandy soil with minimal watering. Known for its resilience and low maintenance, this cactus is ideal for rock gardens, desert landscapes, or as a striking centerpiece in decorative pots."
   },
   {
     "id": "PLANT008",
     "name": "Ball Cactus",
     "botanical_name": "Notocactus magnificus",
     "image_url": "assets/images/8.png",
-    "description": "<strong>Family:</strong> Cactaceae\n<strong>Origin:</strong> Southern Brazil, Uruguay\n<strong>Growth Habit:</strong> Globular to short columnar cactus with ribs and yellow spines\n<strong>Light Required:</strong> Bright light to full sun\n<strong>Water Required:</strong> Moderate; allow soil to dry between watering\n<strong>Soil Condition:</strong> Well-draining cactus mix\n<strong>Uses:</strong> Decorative cactus for pots or succulent arrangements"
+    "description": "<strong>Family:</strong> Cactaceae\n<strong>Origin:</strong> Southern Brazil, Uruguay\n<strong>Growth Habit:</strong> Globular to short columnar cactus with ribs and yellow spines\n<strong>Light Required:</strong> Bright light to full sun\n<strong>Water Required:</strong> Moderate; allow soil to dry between watering\n<strong>Soil Condition:</strong> Well-draining cactus mix\n<strong>Uses:</strong> Decorative cactus for pots or succulent arrangements",
+    "details": "This cactus belongs to the Cactaceae family and is native to southern Brazil and Uruguay. It has a globular to short columnar growth habit, featuring distinct ribs and striking yellow spines. To thrive, it needs bright light or full sunlight, making it perfect for sunny windowsills or outdoor spots. When it comes to watering, it prefers moderate amounts — the key is to let the soil dry out completely between waterings to avoid root rot. It grows best in a well-draining cactus mix, which helps prevent excess moisture buildup. With its compact form and attractive spines, this cactus makes a wonderful decorative plant for pots or succulent arrangements."
   },
   {
     "id": "PLANT009",
     "name": "Barrel Cactus",
     "botanical_name": "Ferocactus sp.",
     "image_url": "assets/images/9.png",
-    "description": "<strong>Family:</strong> Cactaceae\n<strong>Origin:</strong> Southwestern U.S. and Mexico\n<strong>Growth Habit:</strong> Large barrel-shaped cactus with heavy ribs and prominent spines\n<strong>Light Required:</strong> Full sun\n<strong>Water Required:</strong> Low; drought-tolerant\n<strong>Soil Condition:</strong> Sandy, well-draining soil\n<strong>Uses:</strong> Landscape feature in arid gardens, containers, erosion control"
+    "description": "<strong>Family:</strong> Cactaceae\n<strong>Origin:</strong> Southwestern U.S. and Mexico\n<strong>Growth Habit:</strong> Large barrel-shaped cactus with heavy ribs and prominent spines\n<strong>Light Required:</strong> Full sun\n<strong>Water Required:</strong> Low; drought-tolerant\n<strong>Soil Condition:</strong> Sandy, well-draining soil\n<strong>Uses:</strong> Landscape feature in arid gardens, containers, erosion control",
+    "details": "The Barrel Cactus, part of the Cactaceae family, is native to the arid regions of the southwestern United States and Mexico. It has a large, rounded body with deep ribs and sturdy, prominent spines. This hardy cactus thrives in full sun and well-draining sandy soil, requiring very little water to survive. Its robust structure and architectural shape make it an excellent choice for xeriscaping, rock gardens, or as a striking focal point in desert landscapes."
   }
 ]

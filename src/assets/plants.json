@@ -844,7 +844,7 @@
     "name": "Parodia cactus",
     "botanical_name": "Parodia sp. (possibly misspelled as Paodia)",
     "image_url": "assets/images/107.png",
-    "description": "<strong>Botanical Name:</strong> Parodia sp.\n<strong>Common Name:</strong> Parodia cactus\n<strong>Family:</strong> Cactaceae\n<strong>Origin:</strong> South America (Brazil, Argentina, Uruguay)\n<strong>Growth Habit:</strong> Small globular cactus with colorful flowers\n<strong>Light Required:</strong> Full sun\n<strong>Water Required:</strong> Moderate\n<strong>Soil Condition:</strong> Sandy, well-draining\n<strong>Uses:</strong> Ornamental cactus",
+    "description": "<strong>Botanical Name:</strong> Parodia sp. (possibly misspelled as Paodia)\n<strong>Common Name:</strong> Parodia cactus\n<strong>Family:</strong> Cactaceae\n<strong>Origin:</strong> South America (Brazil, Argentina, Uruguay)\n<strong>Growth Habit:</strong> Small globular cactus with colorful flowers\n<strong>Light Required:</strong> Full sun\n<strong>Water Required:</strong> Moderate\n<strong>Soil Condition:</strong> Sandy, well-draining\n<strong>Uses:</strong> Ornamental cactus",
     "details": "This South American native cactus, often referred to as Parodia, forms small, globular bodies adorned with colorful flowers that can range from yellow to red. It thrives in full sun with moderate watering and requires sandy, well-draining soils. Ideal for ornamental pots or rock gardens, Parodia cacti are easy to maintain while adding bright, eye-catching blooms to any collection. Their globular, ribbed form provides a sculptural element to gardens, making them both a functional and decorative choice for succulent enthusiasts and collectors alike."
   },
   {
@@ -959,42 +959,13 @@
     "description": "<strong>Botanical Name:</strong> Haworthia obtusa\n<strong>Common Name:</strong> Window Haworthia\n<strong>Family:</strong> Asphodelaceae\n<strong>Origin:</strong> South Africa\n<strong>Growth Habit:</strong> Small rosettes with translucent, fleshy leaves forming clusters\n<strong>Light Required:</strong> Bright indirect light\n<strong>Water Required:</strong> Low to moderate; avoid overwatering\n<strong>Soil Condition:</strong> Well-draining, sandy succulent soil\n<strong>Uses:</strong> Indoor ornamental, terrariums, dish gardens",
     "details": "Haworthia obtusa, commonly called the Window Haworthia, forms small, clustered rosettes with fleshy leaves featuring translucent “windows” that allow light into the plant’s inner tissues. Native to South Africa, it thrives in bright indirect light and prefers well-draining sandy succulent soil. Low to moderate watering is ideal, avoiding overwatering. Perfect for indoor ornamental setups, terrariums, or dish gardens, its compact, glassy leaf tips create a subtle, elegant aesthetic. This succulent combines simplicity with architectural intrigue, making it an appealing choice for modern interiors."
   },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   {
     "id": "PLANT122",
     "name": "Zebra Plant",
     "botanical_name": "Haworthia attenuata",
     "image_url": "assets/images/122.png",
     "description": "<strong>Botanical Name:</strong> Haworthia attenuata\n<strong>Common Name:</strong> Zebra Plant\n<strong>Family:</strong> Asphodelaceae\n<strong>Origin:</strong> South Africa\n<strong>Growth Habit:</strong> Rosette succulent with white tubercles (spots) forming stripes on leaves\n<strong>Light Required:</strong> Bright indirect light, tolerates partial shade\n<strong>Water Required:</strong> Low; drought-tolerant\n<strong>Soil Condition:</strong> Well-draining succulent mix\n<strong>Uses:</strong> Indoor ornamental, small pots",
-    "details": "Haworthia attenuata, or Zebra Plant, is a rosette succulent with white striped tubercles. Needs bright indirect light, low watering, and well-draining soil. Ideal for indoor ornaments in small pots."
+    "details": "The Zebra Plant, Haworthia attenuata, is a striking rosette succulent from South Africa, easily recognized by the white tubercles forming horizontal stripes on its dark green leaves. Preferring bright indirect light and tolerating partial shade, it requires minimal watering and well-draining soil. Ideal for small pots and indoor decoration, its textured leaves add visual interest to any space. Hardy, compact, and low-maintenance, it’s perfect for beginners or collectors seeking a classic, sculptural succulent that stands out in any ornamental arrangement."
   },
   {
     "id": "PLANT123",
@@ -1002,7 +973,7 @@
     "botanical_name": "Haworthia venosa var. tessellata",
     "image_url": "assets/images/123.png",
     "description": "<strong>Botanical Name:</strong> Haworthia venosa var. tessellata\n<strong>Common Name:</strong> Tessellated Haworthia\n<strong>Family:</strong> Asphodelaceae\n<strong>Origin:</strong> Namibia, South Africa\n<strong>Growth Habit:</strong> Rosette succulent with translucent, window-like patterns on leaves\n<strong>Light Required:</strong> Bright indirect light\n<strong>Water Required:</strong> Low\n<strong>Soil Condition:</strong> Sandy, well-draining soil\n<strong>Uses:</strong> Ornamental, indoor succulent",
-    "details": "Haworthia venosa tessellata, the Tessellated Haworthia, forms rosettes with window-like leaf patterns. Requires bright indirect light, low watering, and sandy well-draining soil. Excellent for indoor ornamental use."
+    "details": "Native to Namibia and South Africa, Haworthia venosa var. tessellata boasts translucent, window-like patterns on its rosette leaves, giving it a mesmerizing tessellated appearance. Thriving in bright indirect light with minimal water needs, it prefers sandy, well-draining soil. This low-maintenance succulent is ideal as an indoor ornamental, adding elegance to terrariums or tabletop succulent collections. Its unique light-transmitting leaf patterns provide both functional and aesthetic appeal, making it a standout in any curated succulent display."
   },
   {
     "id": "PLANT124",
@@ -1010,7 +981,7 @@
     "botanical_name": "Haworthia viscosa",
     "image_url": "assets/images/124.png",
     "description": "<strong>Botanical Name:</strong> Haworthia viscosa\n<strong>Common Name:</strong> Viscid Haworthia\n<strong>Family:</strong> Asphodelaceae\n<strong>Origin:</strong> South Africa\n<strong>Growth Habit:</strong> Distinctive stacked triangular leaves forming columnar clusters\n<strong>Light Required:</strong> Bright indirect to filtered light\n<strong>Water Required:</strong> Low to moderate\n<strong>Soil Condition:</strong> Sandy, well-draining\n<strong>Uses:</strong> Ornamental, collectors’ plant",
-    "details": "Haworthia viscosa, or Viscid Haworthia, features stacked triangular leaves forming columnar clusters. Thrives in bright indirect to filtered light, low to moderate watering, and sandy well-draining soil. Suitable for ornamental and collector’s purposes."
+    "details": "Haworthia viscosa grows in columnar clusters with distinctive stacked triangular leaves, giving it a geometric, almost architectural form. Indigenous to South Africa, it thrives in bright indirect to filtered light, with low to moderate watering and sandy, well-draining soil. Its striking shape makes it a collector’s favorite and a captivating ornamental addition. Ideal for potted displays or indoor succulent gardens, it brings a tactile and visual element, standing out for its structural symmetry and minimalist beauty."
   },
   {
     "id": "PLANT125",
@@ -1018,7 +989,7 @@
     "botanical_name": "Haworthia fasciata cv. ‘Wide Zebra’",
     "image_url": "assets/images/125.png",
     "description": "<strong>Botanical Name:</strong> Haworthia fasciata cv. ‘Wide Zebra’\n<strong>Common Name:</strong> Wide Zebra Haworthia\n<strong>Family:</strong> Asphodelaceae\n<strong>Origin:</strong> South Africa (cultivar)\n<strong>Growth Habit:</strong> Rosette succulent with broad leaves marked with bold white stripes\n<strong>Light Required:</strong> Bright, indirect light\n<strong>Water Required:</strong> Low; drought-tolerant\n<strong>Soil Condition:</strong> Well-draining succulent mix\n<strong>Uses:</strong> Decorative potted succulent, indoor ornamental",
-    "details": "Haworthia fasciata ‘Wide Zebra’ has broad rosette leaves with bold white stripes. Prefers bright indirect light, low watering, and well-draining succulent mix. Ideal for decorative pots and indoor ornamental displays."
+    "details": "The Wide Zebra Haworthia, a South African cultivar, features broad rosette leaves adorned with bold white stripes. Preferring bright, indirect light and low watering in well-draining soil, it’s perfect for indoor pots or decorative arrangements. Its striking foliage adds bold contrast to succulent collections, while its hardy nature makes it low-maintenance. This cultivar elevates any interior garden with its architectural leaf patterns, offering both elegance and visual drama in small spaces."
   },
   {
     "id": "PLANT126",
@@ -1026,7 +997,7 @@
     "botanical_name": "Haworthia attenuata cv. ‘Green’",
     "image_url": "assets/images/126.png",
     "description": "<strong>Botanical Name:</strong> Haworthia attenuata cv. ‘Green’\n<strong>Common Name:</strong> Green Zebra Plant\n<strong>Family:</strong> Asphodelaceae\n<strong>Origin:</strong> South Africa (cultivar)\n<strong>Growth Habit:</strong> Green-leaved form of attenuata with less pronounced white striping\n<strong>Light Required:</strong> Bright indirect light\n<strong>Water Required:</strong> Low\n<strong>Soil Condition:</strong> Sandy, well-draining\n<strong>Uses:</strong> Indoor ornamental",
-    "details": "Haworthia attenuata ‘Green’ is a green-leaved form of the Zebra Plant with subtle white striping. Prefers bright indirect light, low watering, and well-draining sandy soil. Ideal for indoor ornamental use."
+    "details": "This cultivar of Haworthia attenuata presents a softer, green-leafed form with subtle white striping. Like its parent, it thrives in bright indirect light, requires low watering, and grows in sandy, well-draining soil. Ideal for indoor ornamental use, its understated appearance lends a natural, calming touch to terrariums, small pots, or office desks. Collectors and enthusiasts appreciate this variant for its subtle elegance and hardy, low-maintenance nature."
   },
   {
     "id": "PLANT127",
@@ -1034,7 +1005,7 @@
     "botanical_name": "Haworthia cooperi",
     "image_url": "assets/images/127.png",
     "description": "<strong>Botanical Name:</strong> Haworthia cooperi\n<strong>Common Name:</strong> Cooper’s Haworthia\n<strong>Family:</strong> Asphodelaceae\n<strong>Origin:</strong> South Africa\n<strong>Growth Habit:</strong> Small clumping rosettes with translucent leaf tips resembling glass\n<strong>Light Required:</strong> Bright indirect light\n<strong>Water Required:</strong> Low to moderate\n<strong>Soil Condition:</strong> Well-draining sandy soil\n<strong>Uses:</strong> Indoor pots, terrariums, collectors’ plant",
-    "details": "Haworthia cooperi forms small clumping rosettes with translucent leaf tips that resemble glass. Needs bright indirect light, low to moderate watering, and well-draining sandy soil. Perfect for indoor pots, terrariums, and collectors."
+    "details": "Haworthia cooperi forms small clumping rosettes with translucent leaf tips resembling tiny glass windows. Native to South Africa, it prefers bright indirect light, low to moderate watering, and sandy, well-draining soil. Perfect for indoor pots, terrariums, or collectors’ displays, its glassy leaf tips create a soft, luminous effect, capturing light in fascinating ways. This succulent is celebrated for its delicate yet resilient structure, bringing a sophisticated and modern touch to indoor plant arrangements."
   },
   {
     "id": "PLANT128",
@@ -1042,7 +1013,7 @@
     "botanical_name": "Haworthia attenuata",
     "image_url": "assets/images/128.png",
     "description": "<strong>Botanical Name:</strong> Haworthia attenuata\n<strong>Common Name:</strong> Zebra Plant\n<strong>Family:</strong> Asphodelaceae\n<strong>Origin:</strong> South Africa\n<strong>Growth Habit:</strong> Rosette succulent with white horizontal tubercles\n<strong>Light Required:</strong> Bright indirect light\n<strong>Water Required:</strong> Low\n<strong>Soil Condition:</strong> Well-draining succulent mix\n<strong>Uses:</strong> Indoor ornamental",
-    "details": "Haworthia attenuata, the Zebra Plant, is a rosette succulent with white horizontal tubercles. Prefers bright indirect light, low watering, and well-draining succulent mix. Ideal for indoor ornamental use."
+    "details": "The classic Zebra Plant, Haworthia attenuata, is a South African rosette succulent with horizontal white tubercles across its dark green leaves. Thriving in bright indirect light with minimal water and well-draining soil, it’s ideal for indoor ornamental use. Compact, resilient, and visually striking, it adds texture and charm to any collection, making it a staple in succulent enthusiasts’ homes or office spaces. Its timeless appeal lies in its simplicity and elegant leaf patterning."
   },
   {
     "id": "PLANT129",
@@ -1050,7 +1021,7 @@
     "botanical_name": "Haworthia cymbiformis",
     "image_url": "assets/images/129.png",
     "description": "<strong>Botanical Name:</strong> Haworthia cymbiformis\n<strong>Common Name:</strong> Cathedral Window Haworthia\n<strong>Family:</strong> Asphodelaceae\n<strong>Origin:</strong> South Africa\n<strong>Growth Habit:</strong> Rosettes with boat-shaped, translucent green leaves\n<strong>Light Required:</strong> Bright indirect light, tolerates shade\n<strong>Water Required:</strong> Low to moderate\n<strong>Soil Condition:</strong> Sandy, well-draining soil\n<strong>Uses:</strong> Ornamental, terrariums, indoor succulent",
-    "details": "Haworthia cymbiformis, known as Cathedral Window Haworthia, forms rosettes with boat-shaped, translucent green leaves. Needs bright indirect light, low to moderate watering, and sandy well-draining soil. Suitable for terrariums and indoor ornamental use."
+    "details": "Haworthia cymbiformis, also called the Cathedral Window Haworthia, has boat-shaped, translucent green leaves arranged in neat rosettes. Originating from South Africa, it thrives in bright indirect light and tolerates some shade, requiring low to moderate watering in sandy, well-draining soil. Its distinctive windowed leaves allow light to penetrate the interior, making it perfect for terrariums, indoor ornamental setups, and collectors. This succulent’s unique leaf structure provides both functional light capture and stunning visual appeal."
   },
   {
     "id": "PLANT130",
@@ -1058,7 +1029,7 @@
     "botanical_name": "Haworthia venosa",
     "image_url": "assets/images/130.png",
     "description": "<strong>Botanical Name:</strong> Haworthia venosa\n<strong>Common Name:</strong> Venosa Haworthia\n<strong>Family:</strong> Asphodelaceae\n<strong>Origin:</strong> Namibia, South Africa\n<strong>Growth Habit:</strong> Rosette succulent with thick fleshy leaves, sometimes with translucent windows\n<strong>Light Required:</strong> Bright indirect light\n<strong>Water Required:</strong> Low\n<strong>Soil Condition:</strong> Well-draining sandy soil\n<strong>Uses:</strong> Ornamental, collectors’ succulent",
-    "details": "Haworthia venosa, or Venosa Haworthia, forms rosettes with thick fleshy leaves, occasionally featuring translucent windows. Prefers bright indirect light, low watering, and well-draining sandy soil. Ideal for ornamental and collector succulent use."
+    "details": "Native to Namibia and South Africa, Haworthia venosa is a rosette succulent with thick, fleshy leaves, sometimes featuring translucent windows. It prefers bright indirect light, minimal watering, and sandy, well-draining soil. Ideal as an ornamental or collectors’ plant, its robust structure, subtle patterns, and glassy leaf tips provide texture and intrigue to succulent arrangements. Compact and low-maintenance, it is a sophisticated choice for indoor décor, terrariums, or curated plant displays."
   },
   {
     "id": "PLANT131",
@@ -1066,7 +1037,7 @@
     "botanical_name": "Haworthia limifolia",
     "image_url": "assets/images/131.png",
     "description": "<strong>Botanical Name:</strong> Haworthia limifolia\n<strong>Common Name:</strong> Fairy Washboard\n<strong>Family:</strong> Asphodelaceae\n<strong>Origin:</strong> Southern Africa\n<strong>Growth Habit:</strong> Rosette succulent with ridged, dark green leaves\n<strong>Light Required:</strong> Bright indirect light\n<strong>Water Required:</strong> Low, drought-tolerant\n<strong>Soil Condition:</strong> Well-draining sandy mix\n<strong>Uses:</strong> Indoor ornamental, pots",
-    "details": "Haworthia limifolia, known as Fairy Washboard, forms rosette succulents with ridged dark green leaves. Prefers bright indirect light, low watering, and well-draining sandy soil. Ideal for indoor pots."
+    "details": "Haworthia limifolia, known as the Fairy Washboard, is a rosette-forming succulent from Southern Africa with ridged, dark green leaves that create a textured, architectural look. Thriving in bright indirect light, it requires low watering and well-draining sandy soil. Perfect for indoor pots, terrariums, or decorative tabletop displays, its low-maintenance nature and striking leaf pattern make it a favorite among collectors and casual plant lovers alike."
   },
   {
     "id": "PLANT132",
@@ -1074,7 +1045,7 @@
     "botanical_name": "Haworthia planifolia",
     "image_url": "assets/images/132.png",
     "description": "<strong>Botanical Name:</strong> Haworthia planifolia\n<strong>Common Name:</strong> Planifolia Haworthia\n<strong>Family:</strong> Asphodelaceae\n<strong>Origin:</strong> South Africa\n<strong>Growth Habit:</strong> Rosette with smooth, flattened leaves\n<strong>Light Required:</strong> Bright, filtered light\n<strong>Water Required:</strong> Low\n<strong>Soil Condition:</strong> Sandy, well-draining soil\n<strong>Uses:</strong> Succulent collection, potted plant",
-    "details": "Haworthia planifolia forms rosettes with smooth, flattened leaves. Requires bright filtered light, low watering, and sandy well-draining soil. Suitable for succulent collections and potted plants."
+    "details": "Native to South Africa, Haworthia planifolia forms smooth, flattened leaf rosettes, offering a sleek, minimalistic aesthetic. It prefers bright, filtered light, minimal watering, and sandy, well-draining soil. Ideal for succulent collections or potted indoor arrangements, its understated elegance complements both modern interiors and traditional plant displays. Compact and resilient, it is perfect for enthusiasts who value subtle textures over bold foliage."
   },
   {
     "id": "PLANT133",
@@ -1082,7 +1053,7 @@
     "botanical_name": "Haworthia reinwardtii",
     "image_url": "assets/images/133.png",
     "description": "<strong>Botanical Name:</strong> Haworthia reinwardtii\n<strong>Common Name:</strong> Reinwardt’s Haworthia\n<strong>Family:</strong> Asphodelaceae\n<strong>Origin:</strong> South Africa\n<strong>Growth Habit:</strong> Tall, columnar rosettes with white tubercles\n<strong>Light Required:</strong> Bright indirect light\n<strong>Water Required:</strong> Low\n<strong>Soil Condition:</strong> Sandy, gritty, well-draining\n<strong>Uses:</strong> Indoor ornamental, succulent gardens",
-    "details": "Haworthia reinwardtii forms tall columnar rosettes with white tubercles. Prefers bright indirect light, low watering, and sandy, gritty, well-draining soil. Great for indoor ornamental use and succulent gardens."
+    "details": "Haworthia reinwardtii features tall, columnar rosettes adorned with white tubercles, creating a sculptural, textured appearance. Indigenous to South Africa, it thrives in bright indirect light with low watering and sandy, gritty, well-draining soil. Suitable for indoor ornamental use or succulent garden arrangements, this plant combines vertical interest with architectural charm, making it a standout collector’s specimen."
   },
   {
     "id": "PLANT134",
@@ -1090,15 +1061,15 @@
     "botanical_name": "Haworthia mutica",
     "image_url": "assets/images/134.png",
     "description": "<strong>Botanical Name:</strong> Haworthia mutica\n<strong>Common Name:</strong> Mutica Haworthia\n<strong>Family:</strong> Asphodelaceae\n<strong>Origin:</strong> South Africa\n<strong>Growth Habit:</strong> Compact rosette with blunt-tipped, translucent green leaves\n<strong>Light Required:</strong> Bright, indirect light\n<strong>Water Required:</strong> Low\n<strong>Soil Condition:</strong> Well-draining succulent soil\n<strong>Uses:</strong> Collectors’ plant, ornamental",
-    "details": "Haworthia mutica forms compact rosettes with blunt-tipped, translucent green leaves. Needs bright indirect light, low watering, and well-draining succulent soil. Ideal for collectors and ornamental use."
+    "details": "Haworthia mutica is a compact rosette succulent with blunt-tipped, translucent green leaves that catch and diffuse light beautifully. Native to South Africa, it requires bright indirect light, low watering, and well-draining succulent soil. Perfect as a collectors’ plant or indoor ornamental, its dense rosette formation and glassy leaf tips give it a modern, elegant appearance suitable for terrariums, small pots, or curated succulent displays."
   },
   {
     "id": "PLANT135",
-    "name": "Aloehaworthia",
+    "name": "Aloehaworthia (Aloe × Haworthia hybrid)",
     "botanical_name": "Aloehaworthia hybrid",
     "image_url": "assets/images/135.png",
     "description": "<strong>Botanical Name:</strong> Aloehaworthia hybrid\n<strong>Common Name:</strong> Aloehaworthia (Aloe × Haworthia hybrid)\n<strong>Family:</strong> Asphodelaceae\n<strong>Origin:</strong> Cultivar (hybrid origin)\n<strong>Growth Habit:</strong> Small rosettes combining aloe-like vigor with haworthia form\n<strong>Light Required:</strong> Bright, indirect to filtered light\n<strong>Water Required:</strong> Low to moderate\n<strong>Soil Condition:</strong> Sandy, well-draining\n<strong>Uses:</strong> Ornamental hybrid succulent",
-    "details": "Aloehaworthia is a hybrid succulent combining aloe vigor with Haworthia rosettes. Prefers bright indirect to filtered light, low to moderate watering, and sandy well-draining soil. Perfect as an ornamental hybrid succulent."
+    "details": "Aloehaworthia, a hybrid of Aloe and Haworthia, forms small rosettes that blend the vigor of aloe with the refined form of Haworthia. Thriving in bright, indirect to filtered light, it prefers sandy, well-draining soil with low to moderate watering. Ideal for ornamental indoor use, its hybrid nature produces a resilient, visually captivating succulent suitable for decorative pots, mixed arrangements, and collectors’ collections."
   },
   {
     "id": "PLANT136",
@@ -1106,7 +1077,7 @@
     "botanical_name": "Haworthia turgida",
     "image_url": "assets/images/136.png",
     "description": "<strong>Botanical Name:</strong> Haworthia turgida\n<strong>Common Name:</strong> Turgid Haworthia\n<strong>Family:</strong> Asphodelaceae\n<strong>Origin:</strong> South Africa\n<strong>Growth Habit:</strong> Clumping rosettes with translucent, turgid leaves\n<strong>Light Required:</strong> Bright indirect light\n<strong>Water Required:</strong> Low to moderate\n<strong>Soil Condition:</strong> Well-draining sandy soil\n<strong>Uses:</strong> Succulent displays, collectors’ plant",
-    "details": "Haworthia turgida forms clumping rosettes with translucent, turgid leaves. Prefers bright indirect light, low to moderate watering, and well-draining sandy soil. Ideal for succulent displays and collectors."
+    "details": "Haworthia turgida grows in clumping rosettes with translucent, turgid leaves, creating a plump and luminous appearance. Native to South Africa, it thrives in bright indirect light with low to moderate watering in sandy, well-draining soil. Perfect for succulent displays or collectors’ arrangements, its fleshy leaves provide visual depth, making it a standout in both modern and traditional indoor plant setups."
   },
   {
     "id": "PLANT137",
@@ -1114,7 +1085,7 @@
     "botanical_name": "Haworthia retusa",
     "image_url": "assets/images/137.png",
     "description": "<strong>Botanical Name:</strong> Haworthia retusa\n<strong>Common Name:</strong> Retuse Haworthia\n<strong>Family:</strong> Asphodelaceae\n<strong>Origin:</strong> South Africa\n<strong>Growth Habit:</strong> Flattened rosettes with translucent windows at leaf tips\n<strong>Light Required:</strong> Bright indirect light\n<strong>Water Required:</strong> Low\n<strong>Soil Condition:</strong> Gritty, sandy, well-draining\n<strong>Uses:</strong> Indoor ornamental",
-    "details": "Haworthia retusa forms flattened rosettes with translucent windows at the leaf tips. Needs bright indirect light, low watering, and gritty, well-draining soil. Perfect for indoor ornamental use."
+    "details": "Haworthia retusa features flattened rosettes with translucent “window” tips that let light penetrate into the leaf interior. Native to South Africa, it grows well in bright indirect light, with low watering and gritty, well-draining sandy soil. Ideal for indoor ornamental use, terrariums, or small succulent gardens, its windowed leaves create a luminous effect, offering collectors a subtle yet sophisticated addition to any plant display."
   },
   {
     "id": "PLANT138",
@@ -1122,7 +1093,7 @@
     "botanical_name": "Haworthia truncata hybrid",
     "image_url": "assets/images/138.png",
     "description": "<strong>Botanical Name:</strong> Haworthia truncata hybrid\n<strong>Common Name:</strong> Truncate-leaf Haworthia hybrid\n<strong>Family:</strong> Asphodelaceae\n<strong>Origin:</strong> Cultivar/hybrid\n<strong>Growth Habit:</strong> Distinct rows of truncated leaves, often mixed forms in hybrids\n<strong>Light Required:</strong> Bright, indirect light\n<strong>Water Required:</strong> Low\n<strong>Soil Condition:</strong> Sandy, well-draining\n<strong>Uses:</strong> Collector’s hybrid succulent",
-    "details": "Haworthia truncata hybrid displays distinct rows of truncated leaves. Prefers bright indirect light, low watering, and sandy well-draining soil. Ideal for collectors of hybrid succulents."
+    "details": "This hybrid displays distinct rows of truncated leaves, often showing mixed forms that create a striking geometric appearance. Preferring bright, indirect light, low watering, and sandy, well-draining soil, it is a collector’s favorite for unique succulent displays. Its unusual, almost architectural leaf formation makes it a visually compelling specimen in potted arrangements or curated indoor gardens."
   },
   {
     "id": "PLANT139",
@@ -1130,7 +1101,7 @@
     "botanical_name": "Haworthia turgida",
     "image_url": "assets/images/139.png",
     "description": "<strong>Botanical Name:</strong> Haworthia turgida\n<strong>Common Name:</strong> Turgid Haworthia\n<strong>Family:</strong> Asphodelaceae\n<strong>Origin:</strong> South Africa\n<strong>Growth Habit:</strong> Clumping rosettes with translucent, turgid leaves\n<strong>Light Required:</strong> Bright indirect light\n<strong>Water Required:</strong> Low to moderate\n<strong>Soil Condition:</strong> Well-draining sandy soil\n<strong>Uses:</strong> Succulent displays, collectors’ plant",
-    "details": "Haworthia turgida forms clumping rosettes with translucent, turgid leaves. Requires bright indirect light, low to moderate watering, and well-draining sandy soil. Suitable for succulent displays and collectors."
+    "details": "This entry mirrors Haworthia turgida’s clumping rosettes with thick, translucent leaves, thriving in bright indirect light, low to moderate watering, and well-draining sandy soil. It is perfect for succulent collections, indoor ornamental pots, and terrariums, offering plump foliage and elegant texture for modern and classic displays alike. Its repeated mention reinforces its popularity among collectors for aesthetic and low-maintenance appeal."
   },
   {
     "id": "PLANT140",
@@ -1138,7 +1109,7 @@
     "botanical_name": "Haworthia concolor",
     "image_url": "assets/images/140.png",
     "description": "<strong>Botanical Name:</strong> Haworthia concolor\n<strong>Common Name:</strong> Concolor Haworthia\n<strong>Family:</strong> Asphodelaceae\n<strong>Origin:</strong> South Africa\n<strong>Growth Habit:</strong> Compact rosettes with dotted leaves, resembling zebra haworthia\n<strong>Light Required:</strong> Bright indirect light\n<strong>Water Required:</strong> Low\n<strong>Soil Condition:</strong> Well-draining succulent soil\n<strong>Uses:</strong> Indoor ornamental",
-    "details": "Haworthia concolor forms compact rosettes with dotted leaves resembling zebra Haworthia. Prefers bright indirect light, low watering, and well-draining succulent soil. Perfect for indoor ornamental use."
+    "details": "Haworthia concolor forms compact rosettes with dotted leaves reminiscent of zebra patterns. Native to South Africa, it thrives in bright indirect light with low watering in well-draining succulent soil. Perfect for indoor ornamental use, this low-maintenance succulent adds subtle texture and visual interest to pots, terrariums, or curated collections. Its understated patterning makes it an elegant addition to both beginner and advanced succulent enthusiasts’ displays."
   },
   {
     "id": "PLANT141",
@@ -1146,7 +1117,7 @@
     "botanical_name": "Haworthia truncata",
     "image_url": "assets/images/141.png",
     "description": "<strong>Botanical Name:</strong> Haworthia truncata\n<strong>Common Name:</strong> Horse’s Teeth Haworthia\n<strong>Family:</strong> Asphodelaceae\n<strong>Origin:</strong> South Africa\n<strong>Growth Habit:</strong> Distinct rectangular leaves arranged in rows\n<strong>Light Required:</strong> Bright indirect light\n<strong>Water Required:</strong> Low\n<strong>Soil Condition:</strong> Gritty, sandy, well-draining soil\n<strong>Uses:</strong> Collectors’ favorite succulent",
-    "details": "Haworthia truncata has distinct rectangular leaves arranged in rows. Prefers bright indirect light, low watering, and gritty well-draining soil. Popular among succulent collectors."
+    "details": "Haworthia truncata, famously known as Horse’s Teeth Haworthia, originates from South Africa. Its distinctive rectangular leaves arranged in neat rows create a striking geometric pattern. Thriving in bright indirect light, it requires low watering and gritty, well-draining soil. A collectors’ favorite, it’s perfect for succulent enthusiasts who value unique leaf structures and architectural appeal in indoor or terrarium displays."
   },
   {
     "id": "PLANT142",
@@ -1154,7 +1125,7 @@
     "botanical_name": "Haworthia sp. (green cultivar/variety)",
     "image_url": "assets/images/142.png",
     "description": "<strong>Botanical Name:</strong> Haworthia sp. (green cultivar/variety)\n<strong>Common Name:</strong> Green Haworthia\n<strong>Family:</strong> Asphodelaceae\n<strong>Origin:</strong> South Africa\n<strong>Growth Habit:</strong> Small green rosette succulent\n<strong>Light Required:</strong> Bright, indirect light\n<strong>Water Required:</strong> Low\n<strong>Soil Condition:</strong> Sandy, well-draining\n<strong>Uses:</strong> Indoor ornamental",
-    "details": "Green Haworthia is a small rosette succulent with bright green leaves. Needs bright indirect light, low watering, and sandy well-draining soil. Suitable for indoor decoration."
+    "details": "This small green rosette-forming Haworthia cultivar comes from South Africa. Preferring bright indirect light, low watering, and sandy, well-draining soil, it’s an ideal indoor ornamental plant. Its compact, vibrant green rosettes add a refreshing touch to succulent collections, tabletops, or decorative pots, making it perfect for both beginners and seasoned collectors."
   },
   {
     "id": "PLANT143",
@@ -1162,7 +1133,7 @@
     "botanical_name": "Haworthia retusa var.",
     "image_url": "assets/images/143.png",
     "description": "<strong>Botanical Name:</strong> Haworthia retusa var.\n<strong>Common Name:</strong> Retuse Haworthia (variety)\n<strong>Family:</strong> Asphodelaceae\n<strong>Origin:</strong> South Africa\n<strong>Growth Habit:</strong> Flattened rosettes with translucent windows at leaf tips\n<strong>Light Required:</strong> Bright, indirect light\n<strong>Water Required:</strong> Low\n<strong>Soil Condition:</strong> Well-draining sandy soil\n<strong>Uses:</strong> Collectors’ succulent",
-    "details": "This variety of Haworthia retusa forms flattened rosettes with translucent leaf windows. Prefers bright indirect light, low watering, and well-draining sandy soil. Great for succulent collectors."
+    "details": "A variety of Haworthia retusa, this succulent forms flattened rosettes with translucent leaf-tip windows. Native to South Africa, it thrives in bright indirect light with low watering and well-draining sandy soil. Its unique windowed foliage makes it highly sought after by collectors, serving as an elegant addition to indoor succulent displays or terrariums."
   },
   {
     "id": "PLANT144",
@@ -1170,7 +1141,7 @@
     "botanical_name": "Graptopetalum filiforum",
     "image_url": "assets/images/144.png",
     "description": "<strong>Botanical Name:</strong> Graptopetalum filiforum\n<strong>Common Name:</strong> Filiferum Graptopetalum\n<strong>Family:</strong> Crassulaceae\n<strong>Origin:</strong> Mexico\n<strong>Growth Habit:</strong> Rosettes of narrow, pointed leaves\n<strong>Light Required:</strong> Bright light to full sun\n<strong>Water Required:</strong> Moderate, drought-tolerant\n<strong>Soil Condition:</strong> Gritty, well-draining soil\n<strong>Uses:</strong> Rock gardens, ornamental pots",
-    "details": "Graptopetalum filiforum forms rosettes of narrow pointed leaves. Thrives in bright light to full sun with moderate watering and gritty, well-draining soil. Ideal for rock gardens and ornamental pots."
+    "details": "Graptopetalum filiforum is a Mexican succulent with rosettes of narrow, pointed leaves that exude delicate elegance. It prefers bright light to full sun, moderate watering, and gritty, well-draining soil. Suitable for rock gardens, ornamental pots, and succulent arrangements, its slender foliage adds a refined texture to both indoor and outdoor displays."
   },
   {
     "id": "PLANT145",
@@ -1178,7 +1149,7 @@
     "botanical_name": "Euphorbia tirucalli",
     "image_url": "assets/images/145.png",
     "description": "<strong>Botanical Name:</strong> Euphorbia tirucalli\n<strong>Common Name:</strong> Pencil Cactus / Firestick Plant\n<strong>Family:</strong> Euphorbiaceae\n<strong>Origin:</strong> Africa, India\n<strong>Growth Habit:</strong> Shrubby succulent with pencil-like green stems\n<strong>Light Required:</strong> Full sun to bright light\n<strong>Water Required:</strong> Very low, drought-tolerant\n<strong>Soil Condition:</strong> Sandy, well-draining\n<strong>Uses:</strong> Ornamental landscape plant, xeriscaping",
-    "details": "Euphorbia tirucalli is a shrubby succulent with pencil-like green stems. Needs full sun to bright light, very low watering, and sandy well-draining soil. Suitable for xeriscaping and ornamental landscapes."
+    "details": "Euphorbia tirucalli, originating from Africa and India, is a shrubby succulent with pencil-like green stems. Requiring full sun to bright light, very low watering, and sandy, well-draining soil, it is extremely drought-tolerant. Perfect for ornamental landscapes, xeriscaping, or bold indoor displays, its dramatic vertical form and architectural lines make it a standout feature plant."
   },
   {
     "id": "PLANT146",
@@ -1186,7 +1157,7 @@
     "botanical_name": "Euphorbia trigona",
     "image_url": "assets/images/146.png",
     "description": "<strong>Botanical Name:</strong> Euphorbia trigona\n<strong>Common Name:</strong> African Milk Tree (Green form)\n<strong>Family:</strong> Euphorbiaceae\n<strong>Origin:</strong> Central Africa\n<strong>Growth Habit:</strong> Tall, upright succulent with triangular green stems\n<strong>Light Required:</strong> Full sun to partial shade\n<strong>Water Required:</strong> Low\n<strong>Soil Condition:</strong> Sandy, well-draining\n<strong>Uses:</strong> Indoor/outdoor ornamental",
-    "details": "Euphorbia trigona (Green form) is a tall upright succulent with triangular stems. Prefers full sun to partial shade, low watering, and sandy well-draining soil. Suitable for indoor and outdoor decoration."
+    "details": "This upright succulent, native to Central Africa, features triangular green stems that grow tall and stately. Thriving in full sun to partial shade with low watering and sandy, well-draining soil, it is suitable for indoor or outdoor ornamental use. Its sculptural form makes it a popular choice for collectors and modern interior landscapes."
   },
   {
     "id": "PLANT147",
@@ -1194,7 +1165,7 @@
     "botanical_name": "Euphorbia trigona ‘Variegata’",
     "image_url": "assets/images/147.png",
     "description": "<strong>Botanical Name:</strong> Euphorbia trigona ‘Variegata’\n<strong>Common Name:</strong> Variegated African Milk Tree\n<strong>Family:</strong> Euphorbiaceae\n<strong>Origin:</strong> Central Africa\n<strong>Growth Habit:</strong> Tall, upright stems with creamy white and green variegation\n<strong>Light Required:</strong> Bright indirect to filtered sun\n<strong>Water Required:</strong> Low\n<strong>Soil Condition:</strong> Well-draining sandy soil\n<strong>Uses:</strong> Decorative succulent, collectors’ plant",
-    "details": "This variegated Euphorbia trigona has upright stems with creamy white and green patterns. Needs bright indirect light, low watering, and well-draining sandy soil. Perfect for collectors and decoration."
+    "details": "A stunning Central African succulent, this variety displays upright stems with creamy white and green variegation. Preferring bright indirect to filtered light, low watering, and well-draining sandy soil, it serves as both a decorative succulent and a collectors’ favorite. Its variegated foliage adds elegance and vibrancy to indoor or controlled outdoor settings."
   },
   {
     "id": "PLANT148",
@@ -1202,7 +1173,7 @@
     "botanical_name": "Euphorbia trigona ‘Rubra’",
     "image_url": "assets/images/148.png",
     "description": "<strong>Botanical Name:</strong> Euphorbia trigona ‘Rubra’\n<strong>Common Name:</strong> Royal Red African Milk Tree\n<strong>Family:</strong> Euphorbiaceae\n<strong>Origin:</strong> Central Africa\n<strong>Growth Habit:</strong> Upright stems with reddish-purple tones\n<strong>Light Required:</strong> Full sun enhances red color\n<strong>Water Required:</strong> Low\n<strong>Soil Condition:</strong> Well-draining sandy soil\n<strong>Uses:</strong> Ornamental succulent",
-    "details": "Euphorbia trigona ‘Rubra’ has upright reddish-purple stems. Full sun enhances its red color. Requires low watering and well-draining sandy soil. Ideal as an ornamental succulent."
+    "details": "This eye-catching cultivar features upright stems with rich reddish-purple tones. Native to Central Africa, it thrives in full sun (which enhances its red color), requires low watering, and well-draining sandy soil. Ideal for ornamental displays, this succulent adds a bold splash of color to indoor collections or sunlit patios."
   },
   {
     "id": "PLANT149",
@@ -1210,7 +1181,7 @@
     "botanical_name": "Euphorbia tithymaloides",
     "image_url": "assets/images/149.png",
     "description": "<strong>Botanical Name:</strong> Euphorbia tithymaloides\n<strong>Common Name:</strong> Devil’s Backbone / Zigzag Plant\n<strong>Family:</strong> Euphorbiaceae\n<strong>Origin:</strong> Tropical America\n<strong>Growth Habit:</strong> Shrubby succulent with zig-zag stems and variegated leaves\n<strong>Light Required:</strong> Bright indirect light to full sun\n<strong>Water Required:</strong> Moderate\n<strong>Soil Condition:</strong> Well-draining soil\n<strong>Uses:</strong> Indoor and outdoor ornamental plant",
-    "details": "Euphorbia tithymaloides is a shrubby succulent with zig-zag stems and variegated leaves. Thrives in bright indirect light to full sun, moderate watering, and well-draining soil. Suitable for indoor and outdoor use."
+    "details": "Euphorbia tithymaloides is a tropical American succulent with zig-zag stems and variegated leaves. Preferring bright indirect light to full sun, moderate watering, and well-draining soil, it is perfect for both indoor and outdoor ornamental use. Its unusual stem pattern and foliage create dynamic visual interest, making it a favorite for terrariums, patios, and collector displays."
   },
   {
     "id": "PLANT150",
@@ -1218,7 +1189,7 @@
     "botanical_name": "Kalanchoe sp. variegated",
     "image_url": "assets/images/150.png",
     "description": "<strong>Botanical Name:</strong> Kalanchoe sp. variegated\n<strong>Common Name:</strong> Variegated Kalanchoe\n<strong>Family:</strong> Crassulaceae\n<strong>Origin:</strong> Madagascar (species vary)\n<strong>Growth Habit:</strong> Succulent with variegated leaves (green, cream, sometimes pink)\n<strong>Light Required:</strong> Bright light to full sun\n<strong>Water Required:</strong> Low to moderate\n<strong>Soil Condition:</strong> Well-draining sandy mix\n<strong>Uses:</strong> Ornamental succulent, indoor/outdoor pots",
-    "details": "Variegated Kalanchoe has green, cream, and sometimes pink leaves. Needs bright light to full sun, low to moderate watering, and well-draining sandy soil. Great for indoor or outdoor ornamental pots."
+    "details": "Native to Madagascar, this Kalanchoe variety features succulent leaves with green, cream, and sometimes pink variegation. It thrives in bright light to full sun with low to moderate watering and well-draining sandy soil. Perfect for indoor and outdoor pots, ornamental gardens, or succulent collections, its colorful foliage adds a vibrant, decorative touch to any space."
   },
   {
     "id": "PLANT151",
@@ -1226,7 +1197,7 @@
     "botanical_name": "Kalanchoe beharensis ‘Fang’",
     "image_url": "assets/images/151.png",
     "description": "<strong>Botanical Name:</strong> Kalanchoe beharensis ‘Fang’\n<strong>Common Name:</strong> Fang Kalanchoe\n<strong>Family:</strong> Crassulaceae\n<strong>Origin:</strong> Madagascar\n<strong>Growth Habit:</strong> Shrub-like succulent, thick triangular leaves with felt-like texture and fang-like protuberances\n<strong>Light Required:</strong> Bright light to full sun\n<strong>Water Required:</strong> Moderate, drought-tolerant\n<strong>Soil Condition:</strong> Sandy, well-draining\n<strong>Uses:</strong> Ornamental, potted plant",
-    "details": "Kalanchoe beharensis ‘Fang’ is a shrub-like succulent with thick, triangular, felt-textured leaves featuring fang-like tips. Prefers bright light to full sun, moderate watering, and sandy, well-draining soil."
+    "details": "Kalanchoe beharensis ‘Fang’ is a striking succulent native to Madagascar, featuring thick, triangular leaves with a felt-like texture and distinctive fang-like protrusions along the edges. Its sculptural form makes it a standout in any succulent collection or indoor pot display. This drought-tolerant plant thrives in bright light to full sun and prefers sandy, well-draining soil. Moderate watering is sufficient, allowing its leaves to maintain firm structure. Ideal for ornamental indoor arrangements, it’s a statement plant that draws attention with its bold, architectural silhouette."
   },
   {
     "id": "PLANT152",
@@ -1234,7 +1205,7 @@
     "botanical_name": "Kalanchoe tomentosa ‘Chocolate Soldier’",
     "image_url": "assets/images/152.png",
     "description": "<strong>Botanical Name:</strong> Kalanchoe tomentosa ‘Chocolate Soldier’\n<strong>Common Name:</strong> Chocolate Soldier / Panda Plant\n<strong>Family:</strong> Crassulaceae\n<strong>Origin:</strong> Madagascar\n<strong>Growth Habit:</strong> Small succulent with fuzzy brown-edged leaves\n<strong>Light Required:</strong> Bright indirect light\n<strong>Water Required:</strong> Low to moderate\n<strong>Soil Condition:</strong> Well-draining sandy soil\n<strong>Uses:</strong> Indoor ornamental",
-    "details": "Kalanchoe tomentosa ‘Chocolate Soldier’ is a small, fuzzy succulent with brown-edged leaves. Prefers bright indirect light, low to moderate watering, and well-draining sandy soil."
+    "details": "Originating from Madagascar, Kalanchoe tomentosa ‘Chocolate Soldier’ is a small succulent known for its fuzzy leaves edged in deep brown, giving it a soft and charming appearance. Perfect for indoor ornamental purposes, it thrives in bright indirect light while tolerating some shade. Its moderate watering needs and sandy, well-draining soil make it low-maintenance for busy plant lovers. The textured foliage adds visual interest to terrariums, small pots, or desktop collections. This plant is both decorative and approachable, making it an excellent choice for beginners and collectors alike."
   },
   {
     "id": "PLANT153",
@@ -1242,7 +1213,7 @@
     "botanical_name": "Kalanchoe delagoensis",
     "image_url": "assets/images/153.png",
     "description": "<strong>Botanical Name:</strong> Kalanchoe delagoensis\n<strong>Common Name:</strong> Mother of Thousands / Chandelier Plant\n<strong>Family:</strong> Crassulaceae\n<strong>Origin:</strong> Madagascar\n<strong>Growth Habit:</strong> Tall, upright stems with tubular spotted leaves producing plantlets\n<strong>Light Required:</strong> Full sun to partial shade\n<strong>Water Required:</strong> Low\n<strong>Soil Condition:</strong> Sandy, well-draining soil\n<strong>Uses:</strong> Ornamental succulent",
-    "details": "Kalanchoe delagoensis features tall upright stems with tubular spotted leaves that produce plantlets. Needs full sun to partial shade, low watering, and sandy well-draining soil. Ideal ornamental succulent."
+    "details": "Kalanchoe delagoensis, commonly called Mother of Thousands, hails from Madagascar and is famed for its upright, tubular leaves that produce tiny plantlets along the margins. This reproductive strategy makes it a fascinating and prolific addition to any succulent display. It grows best in full sun to partial shade and requires minimal water, thriving in sandy, well-draining soils. Its architectural form adds vertical interest in gardens or container arrangements. Ideal as an ornamental succulent, it is especially striking in grouped displays or hanging arrangements where its cascading plantlets can be admired."
   },
   {
     "id": "PLANT154",
@@ -1250,7 +1221,7 @@
     "botanical_name": "Kalanchoe beharensis ‘Elephant Ear’",
     "image_url": "assets/images/154.png",
     "description": "<strong>Botanical Name:</strong> Kalanchoe beharensis ‘Elephant Ear’\n<strong>Common Name:</strong> Elephant Ear Kalanchoe\n<strong>Family:</strong> Crassulaceae\n<strong>Origin:</strong> Madagascar\n<strong>Growth Habit:</strong> Large succulent shrub with broad velvety leaves resembling elephant ears\n<strong>Light Required:</strong> Bright light to full sun\n<strong>Water Required:</strong> Moderate\n<strong>Soil Condition:</strong> Well-draining soil\n<strong>Uses:</strong> Decorative foliage plant",
-    "details": "Kalanchoe beharensis ‘Elephant Ear’ is a large succulent shrub with broad velvety leaves. Prefers bright light to full sun, moderate watering, and well-draining soil. Great as a decorative foliage plant."
+    "details": "This cultivar from Madagascar boasts large, velvety leaves reminiscent of elephant ears, forming a robust and dramatic succulent shrub. Kalanchoe beharensis ‘Elephant Ear’ flourishes in bright light to full sun and appreciates moderate watering in well-draining soil. Its imposing foliage adds texture and scale to indoor pots, succulent displays, or ornamental garden beds. The felt-like leaf surface gives it a soft, tactile appeal, enhancing its decorative potential. Its grandeur and sculptural quality make it a must-have for collectors or plant enthusiasts seeking statement succulents."
   },
   {
     "id": "PLANT155",
@@ -1258,7 +1229,7 @@
     "botanical_name": "Kalanchoe laetivirens",
     "image_url": "assets/images/155.png",
     "description": "<strong>Botanical Name:</strong> Kalanchoe laetivirens\n<strong>Common Name:</strong> Mother of Thousands\n<strong>Family:</strong> Crassulaceae\n<strong>Origin:</strong> Madagascar\n<strong>Growth Habit:</strong> Upright succulent with green leaves producing plantlets along margins\n<strong>Light Required:</strong> Full sun to partial shade\n<strong>Water Required:</strong> Low\n<strong>Soil Condition:</strong> Sandy, well-draining\n<strong>Uses:</strong> Ornamental, naturalized plant",
-    "details": "Kalanchoe laetivirens is an upright succulent producing plantlets along leaf margins. Thrives in full sun to partial shade, low watering, and sandy, well-draining soil. Excellent for ornamental and naturalized planting."
+    "details": "Kalanchoe laetivirens, another Madagascar native, is celebrated for its upright green leaves that generate offsets along the margins, earning it the common name Mother of Thousands. This succulent prefers full sun to partial shade and grows best in sandy, well-draining soil with low water requirements. Its prolific offsetting makes it a dynamic addition to gardens, pot displays, or naturalized succulent landscapes. The architectural form adds height and dimension to collections, while its easy propagation ensures it spreads gracefully. It is both visually striking and functional as a decorative plant."
   },
   {
     "id": "PLANT156",
@@ -1266,7 +1237,7 @@
     "botanical_name": "Kalanchoe orgyalis ‘Copper Spoons’",
     "image_url": "assets/images/156.png",
     "description": "<strong>Botanical Name:</strong> Kalanchoe orgyalis ‘Copper Spoons’\n<strong>Common Name:</strong> Copper Spoons\n<strong>Family:</strong> Crassulaceae\n<strong>Origin:</strong> Madagascar\n<strong>Growth Habit:</strong> Shrub-like succulent with spoon-shaped leaves, copper on top and gray underneath\n<strong>Light Required:</strong> Full sun to partial shade\n<strong>Water Required:</strong> Low\n<strong>Soil Condition:</strong> Sandy, well-draining\n<strong>Uses:</strong> Ornamental foliage",
-    "details": "Kalanchoe orgyalis ‘Copper Spoons’ is a shrub-like succulent with spoon-shaped leaves, copper-colored on top and gray underneath. Prefers full sun to partial shade, low watering, and sandy, well-draining soil."
+    "details": "Originating from Madagascar, Kalanchoe orgyalis ‘Copper Spoons’ features thick, spoon-shaped leaves with a metallic copper tone on top and muted gray underneath. Its shrub-like form makes it a decorative foliage plant for indoor or outdoor pots. Preferring full sun to partial shade, this succulent requires minimal watering and thrives in sandy, well-draining soil. Its unique coloration and sculptural leaf arrangement create a striking visual effect. Perfect for collectors and ornamental displays, it combines elegance with low-maintenance care."
   },
   {
     "id": "PLANT157",
@@ -1274,7 +1245,7 @@
     "botanical_name": "Kalanchoe luciae",
     "image_url": "assets/images/157.png",
     "description": "<strong>Botanical Name:</strong> Kalanchoe luciae\n<strong>Common Name:</strong> Paddle Plant / Flapjack\n<strong>Family:</strong> Crassulaceae\n<strong>Origin:</strong> South Africa\n<strong>Growth Habit:</strong> Flat, rounded leaves forming rosettes, often turning red in sun\n<strong>Light Required:</strong> Full sun to partial shade\n<strong>Water Required:</strong> Moderate\n<strong>Soil Condition:</strong> Well-draining sandy mix\n<strong>Uses:</strong> Foliage ornamental",
-    "details": "Kalanchoe luciae has flat, rounded leaves forming rosettes that often turn red in full sun. Requires full sun to partial shade, moderate watering, and well-draining sandy mix."
+    "details": "Kalanchoe luciae, native to South Africa, forms rosettes of flat, rounded leaves that often turn red when exposed to sunlight, adding seasonal color to any display. It thrives in full sun to partial shade, favoring well-draining sandy soil and moderate watering. Its bold, paddle-shaped foliage makes it ideal for focal points in succulent arrangements, pots, or xeriscaped gardens. The plant’s dramatic leaf coloration and rosette symmetry attract attention in both indoor and outdoor settings. Its striking visual presence and easy care make it a favorite among ornamental succulent enthusiasts."
   },
   {
     "id": "PLANT158",
@@ -1282,7 +1253,7 @@
     "botanical_name": "Kalanchoe synsepala",
     "image_url": "assets/images/158.png",
     "description": "<strong>Botanical Name:</strong> Kalanchoe synsepala\n<strong>Common Name:</strong> Walking Kalanchoe\n<strong>Family:</strong> Crassulaceae\n<strong>Origin:</strong> Madagascar\n<strong>Growth Habit:</strong> Rosette succulent producing offsets at the end of long stolons\n<strong>Light Required:</strong> Bright indirect light to full sun\n<strong>Water Required:</strong> Moderate\n<strong>Soil Condition:</strong> Sandy, gritty, well-draining\n<strong>Uses:</strong> Decorative hanging succulent",
-    "details": "Kalanchoe synsepala is a rosette-forming succulent producing offsets at the ends of long stolons. Thrives in bright indirect light to full sun, moderate watering, and sandy, well-draining soil."
+    "details": "This Madagascar-native succulent produces offsets at the tips of long stolons, giving it a “walking” appearance as the plantlets establish new roots nearby. It grows well in bright indirect light to full sun and prefers sandy, well-draining soil with moderate watering. Its cascading growth habit makes it ideal for decorative hanging pots or elevated displays. The playful propagation method and compact rosettes provide both visual charm and novelty. Kalanchoe synsepala is a versatile ornamental succulent that combines aesthetic appeal with dynamic growth."
   },
   {
     "id": "PLANT159",
@@ -1290,7 +1261,7 @@
     "botanical_name": "Monadenium stapelioides variegated",
     "image_url": "assets/images/159.png",
     "description": "<strong>Botanical Name:</strong> Monadenium stapelioides variegated\n<strong>Common Name:</strong> Variegated Monadenium\n<strong>Family:</strong> Euphorbiaceae\n<strong>Origin:</strong> Tropical Africa\n<strong>Growth Habit:</strong> Caudiciform succulent with variegated fleshy stems\n<strong>Light Required:</strong> Bright indirect light\n<strong>Water Required:</strong> Low to moderate\n<strong>Soil Condition:</strong> Well-draining soil\n<strong>Uses:</strong> Ornamental caudex plant",
-    "details": "Monadenium stapelioides variegated is a caudiciform succulent with variegated fleshy stems. Prefers bright indirect light, low to moderate watering, and well-draining soil."
+    "details": "Originating from tropical Africa, this caudiciform succulent features thick, variegated stems that create a sculptural presence in any collection. It prefers bright indirect light and grows best in well-draining soil with low to moderate watering. The variegation adds color contrast, making it highly desirable for ornamental display or collector arrangements. Its unique stem structure and low-maintenance care make it a striking centerpiece in succulent collections. Perfect for enthusiasts seeking unusual and conversation-starting plants."
   },
   {
     "id": "PLANT160",
@@ -1298,7 +1269,7 @@
     "botanical_name": "Anacampseros spp.",
     "image_url": "assets/images/160.png",
     "description": "<strong>Botanical Name:</strong> Anacampseros spp.\n<strong>Common Name:</strong> Anacampseros\n<strong>Family:</strong> Anacampserotaceae\n<strong>Origin:</strong> South Africa\n<strong>Growth Habit:</strong> Small rosettes of fleshy leaves, mat-forming\n<strong>Light Required:</strong> Bright sun to partial shade\n<strong>Water Required:</strong> Low\n<strong>Soil Condition:</strong> Sandy, well-draining\n<strong>Uses:</strong> Succulent collections",
-    "details": "Anacampseros forms small, mat-forming rosettes of fleshy leaves. Needs bright sun to partial shade, low watering, and sandy, well-draining soil. Ideal for succulent collections."
+    "details": "Anacampseros is a mat-forming succulent from South Africa, characterized by small, fleshy rosettes that can shimmer beautifully in bright light. Its compact growth habit makes it ideal for terrariums, rock gardens, or decorative pots. This drought-tolerant plant thrives in sandy, well-draining soil and requires minimal watering, making it easy to maintain. Bright sunlight or partial shade enhances the leaf color and texture. Anacampseros’ miniature rosettes add delicate detail and textural contrast in succulent collections, appealing to both beginners and seasoned plant collectors."
   },
   {
     "id": "PLANT161",
@@ -1306,7 +1277,7 @@
     "botanical_name": "Faucaria tigrina",
     "image_url": "assets/images/161.png",
     "description": "<strong>Botanical Name:</strong> Faucaria tigrina\n<strong>Common Name:</strong> Tiger’s Jaw\n<strong>Family:</strong> Aizoaceae\n<strong>Origin:</strong> South Africa\n<strong>Growth Habit:</strong> Rosette succulent with triangular toothed leaves\n<strong>Light Required:</strong> Full sun to bright light\n<strong>Water Required:</strong> Low\n<strong>Soil Condition:</strong> Well-draining, sandy\n<strong>Uses:</strong> Ornamental succulent",
-    "details": "Faucaria tigrina is a rosette succulent with triangular, toothed leaves. Prefers full sun to bright light, low watering, and well-draining sandy soil. Excellent as an ornamental succulent."
+    "details": "Faucaria tigrina, native to South Africa, is a striking rosette-forming succulent celebrated for its triangular, toothed leaves resembling a tiger’s jaw. This architectural plant thrives in full sun to bright light and prefers well-draining, sandy soil. Its low water requirement makes it drought-tolerant and ideal for xeriscaping or succulent rock gardens. Faucaria tigrina produces bright yellow daisy-like flowers in the growing season, adding seasonal charm. Perfect for ornamental displays, it is a collector favorite due to its bold form, toothy foliage, and dramatic flowering."
   },
   {
     "id": "PLANT162",
@@ -1314,7 +1285,7 @@
     "botanical_name": "Crassula ovata",
     "image_url": "assets/images/162.png",
     "description": "<strong>Botanical Name:</strong> Crassula ovata\n<strong>Common Name:</strong> Jade Plant / Money Plant\n<strong>Family:</strong> Crassulaceae\n<strong>Origin:</strong> South Africa, Mozambique\n<strong>Growth Habit:</strong> Shrubby succulent with fleshy oval leaves\n<strong>Light Required:</strong> Full sun to partial shade\n<strong>Water Required:</strong> Low to moderate\n<strong>Soil Condition:</strong> Sandy, well-draining\n<strong>Uses:</strong> Ornamental, symbolic indoor plant",
-    "details": "Crassula ovata is a shrubby succulent with fleshy oval leaves, suitable for full sun to partial shade. Requires low to moderate watering and sandy, well-draining soil. Commonly used as an ornamental or symbolic indoor plant."
+    "details": "Crassula ovata, commonly known as the Jade Plant or Money Plant, originates from South Africa and Mozambique. It is a shrubby succulent with fleshy, oval green leaves and a thick, woody stem, often used symbolically as a plant that attracts prosperity. Thriving in full sun to partial shade, it requires low to moderate watering and grows best in sandy, well-draining soil. Its upright, compact growth makes it suitable for indoor pots, bonsai training, or ornamental garden arrangements. Its longevity and symbolic value make it a household and office favorite."
   },
   {
     "id": "PLANT163",
@@ -1322,7 +1293,7 @@
     "botanical_name": "Zamioculcas zamiifolia ‘Raven’",
     "image_url": "assets/images/163.png",
     "description": "<strong>Botanical Name:</strong> Zamioculcas zamiifolia ‘Raven’\n<strong>Common Name:</strong> Raven ZZ Plant\n<strong>Family:</strong> Araceae\n<strong>Origin:</strong> East Africa\n<strong>Growth Habit:</strong> Upright, glossy dark purple-black leaves\n<strong>Light Required:</strong> Low to bright indirect light\n<strong>Water Required:</strong> Very low, drought-tolerant\n<strong>Soil Condition:</strong> Well-draining potting soil\n<strong>Uses:</strong> Indoor ornamental, air-purifying",
-    "details": "Zamioculcas ‘Raven’ has upright, glossy dark purple-black leaves. Thrives in low to bright indirect light, very low watering, and well-draining potting soil. Ideal as an indoor ornamental and air-purifying plant."
+    "details": "Zamioculcas zamiifolia ‘Raven’ is an East African native featuring upright, glossy leaves that are a striking dark purple-black, giving it a dramatic visual presence. This low-maintenance plant tolerates low to bright indirect light and very low watering, thriving in well-draining potting soil. Its elegant foliage makes it a versatile indoor ornamental, suitable for offices, homes, or low-light corners. In addition to its aesthetic appeal, it is known for improving indoor air quality. Raven ZZ is ideal for collectors seeking a bold, architectural plant with minimal care needs."
   },
   {
     "id": "PLANT164",
@@ -1330,7 +1301,7 @@
     "botanical_name": "Zamioculcas zamiifolia ‘Zenzi’",
     "image_url": "assets/images/164.png",
     "description": "<strong>Botanical Name:</strong> Zamioculcas zamiifolia ‘Zenzi’\n<strong>Common Name:</strong> Zenzi ZZ Plant\n<strong>Family:</strong> Araceae\n<strong>Origin:</strong> East Africa\n<strong>Growth Habit:</strong> Compact dwarf cultivar with curled leaves\n<strong>Light Required:</strong> Low to bright indirect light\n<strong>Water Required:</strong> Very low\n<strong>Soil Condition:</strong> Well-draining soil\n<strong>Uses:</strong> Indoor ornamental, small spaces",
-    "details": "Zamioculcas ‘Zenzi’ is a compact dwarf ZZ plant with curled leaves, suitable for low to bright indirect light. Requires very low watering and well-draining soil, perfect for indoor ornamental use in small spaces."
+    "details": "The Zenzi ZZ Plant is a dwarf cultivar of Zamioculcas zamiifolia from East Africa, prized for its compact form and curled leaves. It is perfect for small spaces, desktops, or decorative corners, growing well in low to bright indirect light. Its minimal watering requirement and tolerance for neglect make it ideal for indoor ornamental use. Zenzi ZZ thrives in well-draining soil, forming dense, lush foliage that adds a sculptural element to interiors. Its manageable size and charming leaf pattern make it a favorite among urban gardeners and small-space plant enthusiasts."
   },
   {
     "id": "PLANT165",
@@ -1338,7 +1309,7 @@
     "botanical_name": "Pedilanthus tithymaloides variegated",
     "image_url": "assets/images/165.png",
     "description": "<strong>Botanical Name:</strong> Pedilanthus tithymaloides variegated\n<strong>Common Name:</strong> Variegated Devil’s Backbone\n<strong>Family:</strong> Euphorbiaceae\n<strong>Origin:</strong> Tropical America\n<strong>Growth Habit:</strong> Upright zig-zag stems with variegated leaves\n<strong>Light Required:</strong> Bright light to full sun\n<strong>Water Required:</strong> Moderate\n<strong>Soil Condition:</strong> Well-draining soil\n<strong>Uses:</strong> Ornamental, indoor/outdoor",
-    "details": "Pedilanthus variegated has upright zig-zag stems with variegated leaves. Prefers bright light to full sun, moderate watering, and well-draining soil. Suitable as an ornamental indoor or outdoor plant."
+    "details": "Pedilanthus tithymaloides variegated, known as Variegated Devil’s Backbone, features striking zig-zag stems adorned with green and cream variegated leaves. Native to tropical America, it thrives in bright light to full sun with moderate watering and well-draining soil. This succulent shrub is perfect as an indoor/outdoor ornamental plant and is highly decorative for patios, hanging pots, or tabletop displays. Its sculptural growth and variegated foliage make it an eye-catching addition to plant collections, combining low-maintenance care with a visually dynamic structure."
   },
   {
     "id": "PLANT166",
@@ -1346,7 +1317,7 @@
     "botanical_name": "Pedilanthus tithymaloides (twisted form)",
     "image_url": "assets/images/166.png",
     "description": "<strong>Botanical Name:</strong> Pedilanthus tithymaloides (twisted form)\n<strong>Common Name:</strong> Twisted Devil’s Backbone\n<strong>Family:</strong> Euphorbiaceae\n<strong>Origin:</strong> Tropical America\n<strong>Growth Habit:</strong> Zig-zag succulent with twisted growth pattern\n<strong>Light Required:</strong> Bright indirect light\n<strong>Water Required:</strong> Moderate\n<strong>Soil Condition:</strong> Sandy, well-draining\n<strong>Uses:</strong> Ornamental",
-    "details": "Pedilanthus twisted form has zig-zag succulent stems with a twisted growth pattern. Thrives in bright indirect light, moderate watering, and sandy, well-draining soil. Perfect for ornamental displays."
+    "details": "The Twisted Devil’s Backbone is a sculptural variant of Pedilanthus tithymaloides, featuring zig-zag stems with a unique twisted growth pattern. This tropical American succulent grows best in bright indirect light, tolerates moderate watering, and prefers sandy, well-draining soil. Its unusual architecture adds vertical interest and whimsical charm to succulent collections. Perfect for indoor pots or creative arrangements, this plant combines ornamental appeal with low-maintenance care, making it a conversation starter in both contemporary and traditional plant displays."
   },
   {
     "id": "PLANT168",
@@ -1354,7 +1325,7 @@
     "botanical_name": "Sansevieria ballyi",
     "image_url": "assets/images/168.png",
     "description": "<strong>Botanical Name:</strong> Sansevieria ballyi\n<strong>Common Name:</strong> Dwarf Sansevieria Ballyi\n<strong>Family:</strong> Asparagaceae\n<strong>Origin:</strong> Kenya, Tanzania\n<strong>Growth Habit:</strong> Small cylindrical leaves in rosettes\n<strong>Light Required:</strong> Low to bright indirect light\n<strong>Water Required:</strong> Very low\n<strong>Soil Condition:</strong> Sandy, well-draining\n<strong>Uses:</strong> Miniature ornamental, indoor",
-    "details": "Sansevieria ballyi is a miniature succulent with small cylindrical leaves forming rosettes. Thrives in low to bright indirect light, requires very low watering, and sandy, well-draining soil. Ideal as a small indoor ornamental plant."
+    "details": "Sansevieria ballyi is a miniature East African succulent featuring small cylindrical leaves forming tight rosettes. It thrives in low to bright indirect light and requires very low watering, making it extremely drought-tolerant. Well-draining sandy soil is essential for optimal growth. This compact species is perfect for indoor ornamental purposes, terrariums, or miniature succulent collections. Its subtle elegance and hardiness make it a favorite among enthusiasts seeking low-maintenance plants with architectural form in small spaces."
   },
   {
     "id": "PLANT169",
@@ -1362,7 +1333,7 @@
     "botanical_name": "Sansevieria cylindrica ‘Boncel’",
     "image_url": "assets/images/169.png",
     "description": "<strong>Botanical Name:</strong> Sansevieria cylindrica ‘Boncel’\n<strong>Common Name:</strong> Boncel Sansevieria / Starfish Sansevieria\n<strong>Family:</strong> Asparagaceae\n<strong>Origin:</strong> Africa\n<strong>Growth Habit:</strong> Fan-shaped cylindrical succulent leaves\n<strong>Light Required:</strong> Low to bright indirect light\n<strong>Water Required:</strong> Very low\n<strong>Soil Condition:</strong> Sandy, well-draining\n<strong>Uses:</strong> Indoor ornamental",
-    "details": "Sansevieria ‘Boncel’ has fan-shaped cylindrical succulent leaves. Grows well in low to bright indirect light, requires very low watering, and sandy, well-draining soil. Perfect for indoor ornamental display."
+    "details": "Sansevieria cylindrica ‘Boncel’ showcases fan-shaped cylindrical leaves arranged in a striking star-like pattern. Native to Africa, it tolerates low to bright indirect light and requires very low watering. Sandy, well-draining soil ensures healthy growth. This sculptural plant is ideal for indoor ornamental displays, desktops, and decorative corners. Its vertical, architectural leaves and unique fan shape make it a standout choice for collectors and interior decorators seeking statement greenery with minimal upkeep."
   },
   {
     "id": "PLANT170",
@@ -1370,7 +1341,7 @@
     "botanical_name": "Sansevieria suffruticosa",
     "image_url": "assets/images/170.png",
     "description": "<strong>Botanical Name:</strong> Sansevieria suffruticosa\n<strong>Common Name:</strong> Shrubby Sansevieria\n<strong>Family:</strong> Asparagaceae\n<strong>Origin:</strong> East Africa\n<strong>Growth Habit:</strong> Shrubby succulent with erect cylindrical leaves\n<strong>Light Required:</strong> Full sun to low light\n<strong>Water Required:</strong> Very low\n<strong>Soil Condition:</strong> Sandy, well-draining\n<strong>Uses:</strong> Ornamental, hardy houseplant",
-    "details": "Sansevieria suffruticosa is a shrubby succulent with erect cylindrical leaves. Adaptable to full sun or low light, requires very low watering, and sandy, well-draining soil. Excellent as a hardy ornamental houseplant."
+    "details": "Sansevieria suffruticosa is a shrubby succulent native to East Africa, with erect cylindrical leaves forming dense clumps. It is extremely hardy, tolerating full sun to low light conditions, and requires very low water. Sandy, well-draining soil is preferred. This resilient plant is ideal for indoor ornamental purposes, xeriscaping, or as a low-maintenance houseplant. Its upright growth habit, sculptural appearance, and drought tolerance make it both practical and aesthetically pleasing, suitable for urban and rural settings alike."
   },
   {
     "id": "PLANT171",
@@ -1378,7 +1349,7 @@
     "botanical_name": "Sansevieria hybrid",
     "image_url": "assets/images/171.png",
     "description": "<strong>Botanical Name:</strong> Sansevieria hybrid\n<strong>Common Name:</strong> Hybrid Snake Plant\n<strong>Family:</strong> Asparagaceae\n<strong>Origin:</strong> Cultivar/hybrid (horticultural)\n<strong>Growth Habit:</strong> Variable depending on cross, typically upright leaves\n<strong>Light Required:</strong> Low to bright indirect light\n<strong>Water Required:</strong> Very low\n<strong>Soil Condition:</strong> Well-draining sandy soil\n<strong>Uses:</strong> Indoor ornamental, air-purifying",
-    "details": "Sansevieria hybrid is a versatile snake plant with upright leaves. Thrives in low to bright indirect light, requires very low watering, and well-draining sandy soil. Ideal as an indoor ornamental and air-purifying plant."
+    "details": "Sansevieria hybrid is a horticultural cross of various Sansevieria species, resulting in a versatile indoor plant with upright, often variegated leaves. Its light tolerance ranges from low to bright indirect light, making it adaptable to offices, homes, and indoor corners. Very low watering needs and preference for well-draining sandy soil make it extremely low-maintenance. This hybrid not only serves as a striking architectural ornamental but also improves indoor air quality, making it ideal for both aesthetic and functional purposes. Its variability in leaf shapes and patterns adds uniqueness to each plant, appealing to collectors and design-conscious interiors."
   },
   {
     "id": "PLANT172",
@@ -1386,7 +1357,7 @@
     "botanical_name": "Gasteria spp.",
     "image_url": "assets/images/172.png",
     "description": "<strong>Botanical Name:</strong> Gasteria spp.\n<strong>Common Name:</strong> Gasteria\n<strong>Family:</strong> Asphodelaceae\n<strong>Origin:</strong> South Africa\n<strong>Growth Habit:</strong> Rosette-forming succulent with thick, tongue-shaped leaves, often mottled\n<strong>Light Required:</strong> Bright indirect light to partial shade\n<strong>Water Required:</strong> Low to moderate\n<strong>Soil Condition:</strong> Sandy, well-draining\n<strong>Uses:</strong> Indoor ornamental, succulent collections",
-    "details": "Gasteria is a rosette-forming succulent with thick, tongue-shaped mottled leaves. Prefers bright indirect light to partial shade, low to moderate watering, and sandy, well-draining soil. Perfect for indoor ornamental and succulent collections."
+    "details": "Gasteria, native to South Africa, features rosette-forming succulent leaves that are thick, tongue-shaped, and often mottled. Thriving in bright indirect light to partial shade, it requires low to moderate watering and well-draining sandy soil. Gasteria is highly appreciated for indoor ornamental use and succulent collections due to its distinctive textured foliage and slow, manageable growth. Its architectural form makes it ideal for decorative pots, terrariums, and tabletop arrangements, combining elegance with low-maintenance care."
   },
   {
     "id": "PLANT173",
@@ -1394,7 +1365,7 @@
     "botanical_name": "Gasteria spp.",
     "image_url": "assets/images/173.png",
     "description": "<strong>Botanical Name:</strong> Gasteria spp.\n<strong>Common Name:</strong> Gasteria\n<strong>Family:</strong> Asphodelaceae\n<strong>Origin:</strong> South Africa\n<strong>Growth Habit:</strong> Small to medium rosettes, leathery leaves with spots or bands\n<strong>Light Required:</strong> Bright indirect light\n<strong>Water Required:</strong> Moderate, drought-tolerant\n<strong>Soil Condition:</strong> Sandy, gritty soil\n<strong>Uses:</strong> Decorative indoor/outdoor",
-    "details": "Gasteria forms small to medium rosettes with leathery spotted or banded leaves. Requires bright indirect light, moderate watering, and sandy, gritty soil. Suitable for decorative indoor or outdoor display."
+    "details": "This small to medium-sized Gasteria forms compact rosettes with leathery, spotted or banded leaves. Native to South Africa, it prefers bright indirect light, moderate watering, and sandy, gritty soil. Its drought tolerance and hardy nature make it suitable for indoor or outdoor ornamental use. Collectors and interior gardeners favor this variety for its sculptural appearance, resilience, and subtle textural patterns that add interest to succulent displays."
   },
   {
     "id": "PLANT174",
@@ -1402,7 +1373,7 @@
     "botanical_name": "Cryptanthus spp.",
     "image_url": "assets/images/174.png",
     "description": "<strong>Botanical Name:</strong> Cryptanthus spp.\n<strong>Common Name:</strong> Earth Star\n<strong>Family:</strong> Bromeliaceae\n<strong>Origin:</strong> Brazil\n<strong>Growth Habit:</strong> Small rosette-forming bromeliads with flat star-shaped leaves, often variegated or patterned\n<strong>Light Required:</strong> Bright indirect light\n<strong>Water Required:</strong> Moderate, keep soil lightly moist\n<strong>Soil Condition:</strong> Well-draining, organic-rich soil\n<strong>Uses:</strong> Indoor ornamental, terrariums",
-    "details": "Cryptanthus, or Earth Star, is a small rosette-forming bromeliad with flat, star-shaped variegated leaves. Needs bright indirect light, moderate watering, and well-draining organic-rich soil. Ideal for indoor ornamental use and terrariums."
+    "details": "Cryptanthus, commonly called Earth Star, is a small rosette-forming bromeliad from Brazil with flat, star-shaped leaves often adorned with variegation or intricate patterns. It thrives in bright indirect light, prefers moderate watering, and grows best in well-draining, organic-rich soil. Ideal for indoor ornamental use and terrariums, its vibrant foliage adds dramatic visual appeal to tabletops and plant collections. Cryptanthus is highly prized for its compact size and intricate leaf design, making it a centerpiece in mixed succulent arrangements."
   },
   {
     "id": "PLANT175",
@@ -1410,7 +1381,7 @@
     "botanical_name": "Cryptanthus spp.",
     "image_url": "assets/images/175.png",
     "description": "<strong>Botanical Name:</strong> Cryptanthus spp.\n<strong>Common Name:</strong> Earth Star\n<strong>Family:</strong> Bromeliaceae\n<strong>Origin:</strong> Brazil\n<strong>Growth Habit:</strong> Ground-hugging bromeliad with colorful striped foliage\n<strong>Light Required:</strong> Bright indirect light\n<strong>Water Required:</strong> Regular, keep soil slightly moist\n<strong>Soil Condition:</strong> Well-draining with organic matter\n<strong>Uses:</strong> Indoor decorative plant",
-    "details": "Cryptanthus is a ground-hugging bromeliad with colorful striped foliage. Thrives in bright indirect light, requires regular watering with slightly moist soil, and prefers well-draining organic soil. Perfect as an indoor decorative plant."
+    "details": "This ground-hugging Brazilian bromeliad forms compact rosettes with striking striped leaves in shades of green, cream, or red. Bright indirect light is optimal, with regular moderate watering and well-draining soil enriched with organic matter. Its colorful foliage makes it a standout indoor decorative plant for small pots, terrariums, and mixed plant displays. Its low-growing habit ensures it fits perfectly in confined spaces while maintaining aesthetic impact."
   },
   {
     "id": "PLANT176",
@@ -1418,7 +1389,7 @@
     "botanical_name": "Cryptanthus spp.",
     "image_url": "assets/images/176.png",
     "description": "<strong>Botanical Name:</strong> Cryptanthus spp.\n<strong>Common Name:</strong> Earth Star\n<strong>Family:</strong> Bromeliaceae\n<strong>Origin:</strong> Brazil\n<strong>Growth Habit:</strong> Compact bromeliad, forming patterned rosettes\n<strong>Light Required:</strong> Bright indirect light\n<strong>Water Required:</strong> Moderate, avoid soggy soil\n<strong>Soil Condition:</strong> Well-draining, airy potting mix\n<strong>Uses:</strong> Terrariums, houseplant",
-    "details": "Compact Cryptanthus forms patterned rosettes. Prefers bright indirect light, moderate watering without soggy soil, and well-draining, airy potting mix. Ideal for terrariums and as a houseplant."
+    "details": "A compact bromeliad forming patterned rosettes, this Cryptanthus thrives in bright indirect light with moderate watering. Well-draining, airy potting mix prevents root rot while supporting healthy foliage. Perfect for terrariums or houseplant collections, its intricate leaf designs and consistent rosette formation make it ideal for both beginners and collectors seeking low-maintenance, visually appealing plants."
   },
   {
     "id": "PLANT177",
@@ -1426,7 +1397,7 @@
     "botanical_name": "Cryptanthus spp.",
     "image_url": "assets/images/177.png",
     "description": "<strong>Botanical Name:</strong> Cryptanthus spp.\n<strong>Common Name:</strong> Earth Star\n<strong>Family:</strong> Bromeliaceae\n<strong>Origin:</strong> Brazil\n<strong>Growth Habit:</strong> Small terrestrial bromeliad with wavy or banded leaves\n<strong>Light Required:</strong> Bright, filtered light\n<strong>Water Required:</strong> Moderate, prefers humidity\n<strong>Soil Condition:</strong> Light, well-draining mix\n<strong>Uses:</strong> Tabletop or indoor ornamental",
-    "details": "Small terrestrial Cryptanthus with wavy or banded leaves. Needs bright filtered light, moderate watering, and light, well-draining soil. Suitable for tabletop or indoor ornamental use."
+    "details": "This small terrestrial bromeliad features wavy or banded leaves, giving it a unique texture and visual interest. Native to Brazil, it grows best in bright filtered light with moderate watering and a light, well-draining soil mix. Its tabletop-friendly size makes it an excellent indoor ornamental, adding both color and sculptural form to small spaces, terrariums, or decorative arrangements."
   },
   {
     "id": "PLANT178",
@@ -1434,15 +1405,15 @@
     "botanical_name": "Cryptanthus spp.",
     "image_url": "assets/images/178.png",
     "description": "<strong>Botanical Name:</strong> Cryptanthus spp.\n<strong>Common Name:</strong> Earth Star\n<strong>Family:</strong> Bromeliaceae\n<strong>Origin:</strong> Brazil\n<strong>Growth Habit:</strong> Star-shaped plant with striped foliage, terrestrial bromeliad\n<strong>Light Required:</strong> Bright indirect light\n<strong>Water Required:</strong> Consistent but moderate\n<strong>Soil Condition:</strong> Loose, well-draining soil\n<strong>Uses:</strong> Ornamental, terrariums",
-    "details": "Star-shaped Cryptanthus with striped foliage. Prefers bright indirect light, consistent moderate watering, and loose, well-draining soil. Ideal for ornamental use and terrariums."
+    "details": "A star-shaped, terrestrial bromeliad with striped foliage, this Cryptanthus thrives in bright indirect light with consistent but moderate watering. Loose, well-draining soil ensures healthy roots and prevents waterlogging. Its distinctive foliage makes it perfect for ornamental use, terrariums, or as a focal point in succulent collections, admired for its compact yet eye-catching aesthetic."
   },
   {
     "id": "PLANT179",
-    "name": "Madagascar Palm",
+    "name": "Madagascar Palm (though not a true palm)",
     "botanical_name": "Pachypodium spp.",
     "image_url": "assets/images/179.png",
-    "description": "<strong>Botanical Name:</strong> Pachypodium spp.\n<strong>Common Name:</strong> Madagascar Palm\n<strong>Family:</strong> Apocynaceae\n<strong>Origin:</strong> Madagascar, Africa\n<strong>Growth Habit:</strong> Thick, spiny trunk with narrow leaves on top\n<strong>Light Required:</strong> Full sun\n<strong>Water Required:</strong> Low, drought-tolerant\n<strong>Soil Condition:</strong> Sandy, well-draining\n<strong>Uses:</strong> Ornamental, landscape accent",
-    "details": "Pachypodium with thick spiny trunk and narrow leaf crown. Thrives in full sun, low watering, and sandy, well-draining soil. Perfect as an ornamental or landscape accent."
+    "description": "<strong>Botanical Name:</strong> Pachypodium spp.\n<strong>Common Name:</strong> Madagascar Palm (though not a true palm)\n<strong>Family:</strong> Apocynaceae\n<strong>Origin:</strong> Madagascar, Africa\n<strong>Growth Habit:</strong> Thick, spiny trunk with narrow leaves on top\n<strong>Light Required:</strong> Full sun\n<strong>Water Required:</strong> Low, drought-tolerant\n<strong>Soil Condition:</strong> Sandy, well-draining\n<strong>Uses:</strong> Ornamental, landscape accent",
+    "details": "Pachypodium, often called Madagascar Palm (though not a true palm), is a succulent with a thick, spiny trunk and narrow leaves clustered at the top. Native to Madagascar and parts of Africa, it requires full sun, low water, and well-draining sandy soil. Its dramatic silhouette makes it an excellent ornamental and landscape accent plant, adding vertical interest to gardens or patio arrangements. Its drought tolerance and sculptural form make it ideal for xeriscaping and collector displays."
   },
   {
     "id": "PLANT180",
@@ -1450,7 +1421,7 @@
     "botanical_name": "Pachypodium spp.",
     "image_url": "assets/images/180.png",
     "description": "<strong>Botanical Name:</strong> Pachypodium spp.\n<strong>Common Name:</strong> Pachypodium\n<strong>Family:</strong> Apocynaceae\n<strong>Origin:</strong> Madagascar, Africa\n<strong>Growth Habit:</strong> Caudiciform succulent shrub/tree with spines and clustered leaves\n<strong>Light Required:</strong> Full sun\n<strong>Water Required:</strong> Very low\n<strong>Soil Condition:</strong> Well-draining, sandy\n<strong>Uses:</strong> Outdoor ornamental, drought garden",
-    "details": "Caudiciform Pachypodium with spiny trunk and clustered leaves. Needs full sun, very low watering, and well-draining sandy soil. Ideal for outdoor ornamental and drought gardens."
+    "details": "This caudiciform succulent shrub or tree develops a thick, spiny trunk with clustered leaves. Native to Madagascar and Africa, it prefers full sun with very low watering and sandy, well-draining soil. Ideal as an outdoor ornamental or drought garden plant, its unusual caudex and architectural growth make it highly sought after by collectors and succulent enthusiasts seeking unique specimens."
   },
   {
     "id": "PLANT181",
@@ -1458,6 +1429,6 @@
     "botanical_name": "Pachypodium spp.",
     "image_url": "assets/images/181.png",
     "description": "<strong>Botanical Name:</strong> Pachypodium spp.\n<strong>Common Name:</strong> Pachypodium\n<strong>Family:</strong> Apocynaceae\n<strong>Origin:</strong> Madagascar, Africa\n<strong>Growth Habit:</strong> Succulent shrub/tree, bottle-shaped caudex with spines\n<strong>Light Required:</strong> Bright sun\n<strong>Water Required:</strong> Low, drought-tolerant\n<strong>Soil Condition:</strong> Well-draining soil\n<strong>Uses:</strong> Ornamental, collectors’ plant",
-    "details": "Succulent Pachypodium with bottle-shaped caudex and spines. Prefers bright sun, low watering, and well-draining soil. Suitable as ornamental and for collectors’ plant displays."
+    "details": "A succulent shrub or tree with a bottle-shaped caudex and spiny surface, Pachypodium originates from Madagascar and Africa. It thrives in bright sun with low, drought-tolerant watering requirements and well-draining soil. Its ornamental value lies in its sculptural form, resilience, and collector appeal. Perfect for outdoor succulent gardens or specialty plant collections, it combines practicality with striking visual architecture."
   }
 ]

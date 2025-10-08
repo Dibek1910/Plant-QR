@@ -27,13 +27,26 @@ export class PlantComponent implements OnInit {
     };
 
     const id = this.route.snapshot.paramMap.get('id');
+    const routeName = this.route.snapshot.paramMap.get('name');
+
+    // Find plant by ID
     this.plant = plantsData.find(p => p.id === id);
 
     if (this.plant) {
+      // Check if name in URL matches actual name (case-insensitive, spaces handled)
+      const actualNameSlug = this.slugify(this.plant.name);
+      const routeNameSlug = this.slugify(routeName || '');
+
+      if (actualNameSlug !== routeNameSlug) {
+        this.error = 'Unauthorized or invalid plant URL';
+        this.isLoading = false;
+        this.plant = null;
+        return;
+      }
+
       // Format description with HTML line breaks
       this.plant.descriptionHtml = this.plant.description.replace(/\n/g, '<br>');
 
-      // Use 'details' for TTS only
       this.plant.ttsText = this.stripHtml(this.plant.details)
         .replace(/\n/g, '. ')
         .replace(/;/g, ',')
@@ -45,6 +58,16 @@ export class PlantComponent implements OnInit {
       this.isLoading = false;
     }
   }
+
+  // Convert name to a URL-safe slug
+  slugify(text: string): string {
+    return text
+      .toLowerCase()
+      .trim()
+      .replace(/\s+/g, '-')       // replace spaces with hyphens
+      .replace(/[^\w\-]+/g, '');  // remove special chars
+  }
+
 
   // Strip HTML tags
   stripHtml(html: string): string {
@@ -86,10 +109,11 @@ export class PlantComponent implements OnInit {
       'Google US English',
       'Microsoft Zira Desktop - English (United States)',
       'Microsoft David Desktop - English (United States)',
-      'Google हिन्दी', // Hindi
-      'Google Deutsch', // German
-      'Google Français', // French
-      'Google русский'  // Russian
+      'Google हिन्दी',       // Hindi
+      'Google Deutsch',      // German
+      'Google Français',     // French
+      'Google русский',      // Russian
+      'Google español'       // Spanish
     ];
 
     let selectedVoice =
@@ -142,6 +166,7 @@ export class PlantComponent implements OnInit {
       case 'de-DE': return 'de';   // German
       case 'fr-FR': return 'fr';   // French
       case 'ru-RU': return 'ru';   // Russian
+      case 'es-ES': return 'es';   // Spanish 🇪
       default: return 'en';
     }
   }

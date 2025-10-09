@@ -27,15 +27,17 @@ export class PlantComponent implements OnInit {
     };
 
     const id = this.route.snapshot.paramMap.get('id');
-    const routeName = this.route.snapshot.paramMap.get('name');
+    let routeName = this.route.snapshot.paramMap.get('name');
 
-    // Find plant by ID
+    // ✅ Decode the route name to handle encoded characters like %2F (for '/')
+    routeName = decodeURIComponent(routeName || '');
+
     this.plant = plantsData.find(p => p.id === id);
 
     if (this.plant) {
       // Check if name in URL matches actual name (case-insensitive, spaces handled)
       const actualNameSlug = this.slugify(this.plant.name);
-      const routeNameSlug = this.slugify(routeName || '');
+      const routeNameSlug = this.slugify(routeName);
 
       if (actualNameSlug !== routeNameSlug) {
         this.error = 'Unauthorized or invalid plant URL';
@@ -44,10 +46,9 @@ export class PlantComponent implements OnInit {
         return;
       }
 
-      // Format description with HTML line breaks
-      this.plant.descriptionHtml = this.plant.description.replace(/\n/g, '<br>');
+      this.plant.descriptionHtml = this.plant.description?.replace(/\n/g, '<br>') || '';
 
-      this.plant.ttsText = this.stripHtml(this.plant.details)
+      this.plant.ttsText = this.stripHtml(this.plant.details || '')
         .replace(/\n/g, '. ')
         .replace(/;/g, ',')
         .trim();
@@ -65,7 +66,7 @@ export class PlantComponent implements OnInit {
       .toLowerCase()
       .trim()
       .replace(/\s+/g, '-')       // replace spaces with hyphens
-      .replace(/[^\w\-]+/g, '');  // remove special chars
+      .replace(/[^\w\-]+/g, '');  // remove special chars except hyphen
   }
 
 
@@ -166,7 +167,7 @@ export class PlantComponent implements OnInit {
       case 'de-DE': return 'de';   // German
       case 'fr-FR': return 'fr';   // French
       case 'ru-RU': return 'ru';   // Russian
-      case 'es-ES': return 'es';   // Spanish 🇪
+      case 'es-ES': return 'es';   // Spanish
       default: return 'en';
     }
   }

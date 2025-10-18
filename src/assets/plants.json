@@ -2462,5 +2462,805 @@
     "image_url": "assets/images/309.webp",
     "description": "<strong>Botanical Name:</strong> Pilosocereus glaucescens<br><strong>Common Name:</strong> Woolly Blue Torch Cactus<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Brazil<br><strong>Growth Habit:</strong> Blue-green columnar cactus 4–10 ft tall; yellow spines, white nocturnal flowers, red fruits.<br><strong>Light:</strong> Bright, indirect sunlight.<br><strong>Water:</strong> Water thoroughly; dry between cycles.<br><strong>Soil:</strong> Well-draining cactus mix.<br><strong>Use:</strong> Ornamental xeriscape species.",
     "details": "Pilosocereus glaucescens, the Woolly Blue Torch Cactus, is a striking blue-green species from Brazil. It’s covered in golden spines and soft white hairs, producing large white night flowers and red fruits. It loves bright light, well-drained soil, and careful watering. This cactus embodies desert elegance — tall, graceful, and timeless."
+  },
+  {
+    "id": "PLANT310",
+    "name": "Golden Torch Cactus",
+    "botanical_name": "Pilosocereus chrysostele ",
+    "image_url": "assets/images/310.webp",
+    "description": "<strong>Botanical Name:</strong> Pilosocereus chrysostele<br><strong>Common Name:</strong> Golden Torch Cactus<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Brazil<br><strong>Growth Habit:</strong> Blue-green columnar stems with golden spines; nocturnal white flowers; purple fruit.<br><strong>Light:</strong> Full sun to bright light.<br><strong>Water:</strong> Sparingly; keep dry in winter.<br><strong>Soil:</strong> Gritty, fast-draining cactus mix.<br><strong>Use:</strong> Architectural specimen for xeriscapes and containers.",
+    "details": "The Golden Torch Cactus, scientifically known as Pilosocereus chrysostele, is a magnificent columnar cactus native to Brazil’s arid regions. Its tall blue-green stems are lined with golden-yellow spines that glisten beautifully under the sunlight, giving it an appearance as if wrapped in gold. During warm nights, it produces large, white, fragrant flowers that open only under the moonlight, often visited by bats for pollination. This cactus thrives in full sun and prefers dry, sandy, and well-draining soil. It is highly drought-tolerant and requires very little maintenance, making it ideal for both gardens and collectors. Handle it carefully, though—its spines are sharp, but its beauty is worth the admiration."
+  },
+  {
+    "id": "PLANT311",
+    "name": "Blue Torch Cactus",
+    "botanical_name": "Pilosocereus pachycladus ",
+    "image_url": "assets/images/311.webp",
+    "description": "<strong>Botanical Name:</strong> Pilosocereus pachycladus<br><strong>Common Name:</strong> Blue Torch Cactus<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Northeastern Brazil<br><strong>Growth Habit:</strong> Tall branching columns, blue-green ribs with woolly areoles; night white blooms.<br><strong>Light:</strong> Full sun for best color.<br><strong>Water:</strong> Deeply when dry; very little in winter.<br><strong>Soil:</strong> Mineral, sharply draining.<br><strong>Use:</strong> Bold vertical accent; patio tubs.",
+    "details": "The Blue Torch Cactus, or Pilosocereus pachycladus, is a stunning, tree-like cactus from the dry regions of northeastern Brazil. Known for its shimmering blue-green skin and bright golden spines, it creates a striking contrast in any landscape or pot. Mature plants develop soft, woolly tufts near the top, resembling the “old man cactus.” In the still of the night, it blooms with large, white, trumpet-shaped flowers, followed by fig-shaped fruits. This cactus loves sunlight and thrives in hot, dry environments with minimal water. Deep watering during summer encourages strong growth, but it should remain dry in winter. With its bold structure and radiant color, it’s an architectural masterpiece in the cactus world."
+  },
+  {
+    "id": "PLANT312",
+    "name": "Blue Torch Cactus or Wooly Blue Spiress",
+    "botanical_name": "Pilosocereus azureus ",
+    "image_url": "assets/images/312.webp",
+    "description": "<strong>Botanical Name:</strong> Pilosocereus azureus<br><strong>Common Name:</strong> Blue Torch Cactus or Wooly Blue Spires<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Brazil<br><strong>Growth Habit:</strong> Sky-blue columns with golden spines and white wool; night-blooming pale flowers.<br><strong>Light:</strong> Full sun.<br><strong>Water:</strong> Moderate in warmth; dry in winter.<br><strong>Soil:</strong> Gritty cactus mix.<br><strong>Use:</strong> Statement plant for modern/desert designs.",
+    "details": "Pilosocereus azureus, commonly known as the Wooly Blue Spires, is one of the most visually captivating cacti, prized for its brilliant blue stems and golden-yellow spines. Native to Brazil, this fast-growing cactus develops tall, branching columns that can reach several meters high, making it a perfect statement plant. Its pale yellow to white flowers open at night, attracting nocturnal pollinators, while its silver-blue skin shimmers under sunlight. It prefers full sun, well-draining soil, and infrequent watering. This cactus symbolizes strength and elegance, thriving even in the harshest climates while maintaining its stunning color and texture."
+  },
+  {
+    "id": "PLANT313",
+    "name": "Pilosocereus bradii ",
+    "botanical_name": "Pilosocereus bradii ",
+    "image_url": "assets/images/313.webp",
+    "description": "<strong>Botanical Name:</strong> Pilosocereus bradii <br><strong>Common Name:</strong> Pilosocereus bradii <br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Minas Gerais, Brazil<br><strong>Growth Habit:</strong> Glaucous blue, tree-like stems; nocturnal fragrant white flowers; waxy blue fruits.<br><strong>Light:</strong> Bright sun.<br><strong>Water:</strong> Infrequent; keep dry/cool in winter.<br><strong>Soil:</strong> Very well-drained, mineral.<br><strong>Use:</strong> Rare collector’s specimen.",
+    "details": "Also known as Cipocereus bradei, this rare blue-hued cactus is found only in the mountain ranges of Minas Gerais, Brazil. It features slender, upright stems with soft glaucous-blue skin that fades to a muted gray as it matures. In summer, fragrant white or cream-colored flowers bloom at night, followed by blue waxy fruits with black pulp. This species thrives in bright sunlight and prefers dry, rocky, well-drained soil. It’s listed as near-threatened due to habitat loss, making it a rare treasure for collectors. With its elegant shape, nocturnal blooms, and captivating color, Pilosocereus bradei stands as a living testament to Brazil’s natural beauty."
+  },
+  {
+    "id": "PLANT314",
+    "name": "Polaskia chende",
+    "botanical_name": "Lemaireocereus chende ",
+    "image_url": "assets/images/314.webp",
+    "description": "<strong>Botanical Name:</strong> Lemaireocereus chende <br><strong>Common Name:</strong> Tree Cactus (Polaskia chende)<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Mexico<br><strong>Growth Habit:</strong> Ribbed light-green columns with yellow spines; branches to small tree; small night flowers/fruit.<br><strong>Light:</strong> Full sun/bright light.<br><strong>Water:</strong> Sparse; dry between cycles.<br><strong>Soil:</strong> Gritty, fast-draining.<br><strong>Use:</strong> Architectural living column; edible fruit locally.",
+    "details": "Polaskia chende, also known as the Tree Cactus, is a slow-growing columnar cactus native to Mexico’s dry regions. It features tall, ribbed green stems armed with short yellow spines that eventually branch into a tree-like form as it matures. This species produces small, cream-colored flowers that later turn into edible fruits in warm seasons. It requires bright light, very little water, and a well-draining cactus mix to thrive. Perfect for both beginners and enthusiasts, it’s an easy-care plant that brings desert charm and symmetry to any garden or indoor setup."
+  },
+  {
+    "id": "PLANT315",
+    "name": "Ivory Cactus",
+    "botanical_name": "Lemaireocereus eberneus ",
+    "image_url": "assets/images/315.webp",
+    "description": "<strong>Botanical Name:</strong> Lemaireocereus eberneus <br><strong>Common Name:</strong> Ivory Cactus<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Mexico & Central America<br><strong>Growth Habit:</strong> Tall ribbed columns with pale epidermis and stout spines; large nocturnal white flowers; edible fruits.<br><strong>Light:</strong> Full sun.<br><strong>Water:</strong> Low; deep, infrequent.<br><strong>Soil:</strong> Sandy, free-draining.<br><strong>Use:</strong> Landmark specimen; wildlife support.",
+    "details": "The Ivory Cactus, formerly known as Lemaireocereus eburneus, is a grand, tree-like cactus native to Mexico and Central America. Its tall, ribbed stems feature silvery-green skin and clusters of long white spines, giving it a striking ivory appearance. At night, it reveals large, white, fragrant flowers that provide nectar to pollinating bats. In its native regions, its edible fruits serve as an important food source for wildlife. This cactus thrives in bright sunlight, dry air, and sandy soil, requiring minimal water. It’s both a symbol of endurance and a beautiful reminder of the desert’s serene power."
+  },
+  {
+    "id": "PLANT316",
+    "name": "Polaskia chichipe ",
+    "botanical_name": "Polaskia chichipe ",
+    "image_url": "assets/images/316.webp",
+    "description": "<strong>Botanical Name:</strong> Polaskia chichipe<br><strong>Common Name:</strong> Polaskia chichipe <br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Central Mexico<br><strong>Growth Habit:</strong> Much-branched, compact crown; ribbed light-green stems with gray spines; night creamy flowers; sweet fruits.<br><strong>Light:</strong> Full sun.<br><strong>Water:</strong> Moderate in growth; dry winter.<br><strong>Soil:</strong> Mineral, draining mix.<br><strong>Use:</strong> Ornamental and edible fruit.",
+    "details": "Native to central Mexico, Polaskia chichipe grows as a compact, tree-like cactus with light green stems and gray spines. It reaches up to five meters tall and produces yellowish-green to cream-colored flowers that bloom at night. The plant bears small, sweet, edible fruits that are locally harvested and sold in markets. Its branches are also used as fuel wood in rural regions. It thrives in bright sunlight and poor, rocky soil, with minimal watering during winter. A cactus of both beauty and purpose, Polaskia chichipe perfectly represents the harmony between nature’s artistry and human use."
+  },
+  {
+    "id": "PLANT317",
+    "name": "Peruvian Apple Cactus",
+    "botanical_name": "Cereus peruvianus ",
+    "image_url": "assets/images/317.webp",
+    "description": "<strong>Botanical Name:</strong> Cereus peruvianus <br><strong>Common Name:</strong> Peruvian Apple Cactus<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> South America<br><strong>Growth Habit:</strong> Fast-growing columns; huge night white flowers; edible red ‘apple’ fruit.<br><strong>Light:</strong> Full sun.<br><strong>Water:</strong> Thoroughly, then dry out.<br><strong>Soil:</strong> Gritty, sharply drained.<br><strong>Use:</strong> Architectural edible ornamental.",
+    "details": "Cereus peruvianus, commonly known as the Peruvian Apple Cactus, is a magnificent, fast-growing cactus known for its tall, branching stems and delicious red fruit. The plant can grow over 30 feet tall in its native South American deserts, producing large, white, night-blooming flowers that fill the air with fragrance. The fruit, called the Peruvian apple, has a sweet, juicy taste similar to dragon fruit. It thrives in full sun and well-drained soil and requires infrequent watering. With its sculptural beauty and edible bounty, it is both ornamental and practical — a true gift of the desert."
+  },
+  {
+    "id": "PLANT318",
+    "name": "Monstrose Apple Cactus",
+    "botanical_name": "Cereus peruvianus monstruosa ",
+    "image_url": "assets/images/318.webp",
+    "description": "<strong>Botanical Name:</strong> Cereus peruvianus monstruosa <br><strong>Common Name:</strong> Monstrose Apple Cactus<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> South America<br><strong>Growth Habit:</strong> Irregular knobby, twisting ribs; occasional night white flowers; edible fruit on mature plants.<br><strong>Light:</strong> Full sun/bright light.<br><strong>Water:</strong> Infrequent; avoid winter wet.<br><strong>Soil:</strong> Coarse, fast-draining.<br><strong>Use:</strong> Sculptural collector’s specimen.",
+    "details": "The Monstrose Apple Cactus, or Cereus repandus f. monstruosus, is a fascinating mutation of the Peruvian Apple Cactus. Its stems twist and curl into unpredictable shapes, creating an abstract, sculptural appearance that resembles living art. Mature plants may bloom with large, white, night-blooming flowers and produce orange-red, edible fruits. It prefers full sun, well-draining soil, and sparse watering. With its odd, knobby form and unique texture, it’s often the centerpiece of modern cactus collections — an organic sculpture that embodies both mystery and elegance."
+  },
+  {
+    "id": "PLANT319",
+    "name": "Dark Monstrose Cactus",
+    "botanical_name": "Cereus peruvianus monstruosa dark ",
+    "image_url": "assets/images/319.webp",
+    "description": "<strong>Botanical Name:</strong> Cereus peruvianus monstruosa dark <br><strong>Common Name:</strong> Dark Monstrose Cactus<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> South America<br><strong>Growth Habit:</strong> Deep gray-green twisted ribs; dark chestnut spines; occasional night blooms.<br><strong>Light:</strong> Full sun.<br><strong>Water:</strong> Low; dry between cycles.<br><strong>Soil:</strong> Gritty mineral mix.<br><strong>Use:</strong> Dramatic focal for desert scapes.",
+    "details": "This rare dark variant of the Monstrose Cactus stands out for its deep blue-green stems and dark brown spines that add dramatic contrast. Its ribs grow in twisting, irregular patterns, creating a mesmerizing, rugged look. Like its lighter cousin, it blooms with white nocturnal flowers and produces edible orange-red fruit. It loves hot sunlight and thrives in dry conditions. The Dark Monstrose is a slow grower but incredibly long-lived, making it a symbol of patience, resilience, and mysterious beauty."
+  },
+  {
+    "id": "PLANT320",
+    "name": "Variegated Ming Thing",
+    "botanical_name": "Cereus peruvianus monstruosa yellow fine ",
+    "image_url": "assets/images/320.webp",
+    "description": "<strong>Botanical Name:</strong> Cereus peruvianus monstruosa yellow fine <br><strong>Common Name:</strong> Variegated Ming Thing<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> South America (cultivar)<br><strong>Growth Habit:</strong> Contorted knobby clusters with cream-yellow variegation; occasional night flowers.<br><strong>Light:</strong> Bright, avoid harsh midday on variegation.<br><strong>Water:</strong> Sparingly; keep dry in winter.<br><strong>Soil:</strong> Fast-draining cactus mix.<br><strong>Use:</strong> Rare, sculptural display piece.",
+    "details": "The Variegated Ming Thing, a form of Cereus repandus variegata, is a living sculpture admired for its intricate, twisting forms and marbled green-and-yellow coloration. Each plant grows differently, creating one-of-a-kind shapes that resemble waves or coral. It prefers bright indirect light and minimal watering, as its variegated tissues are more delicate. This cactus brings a modern art aesthetic to any collection — a perfect blend of nature’s chaos and human fascination."
+  },
+  {
+    "id": "PLANT321",
+    "name": "melon spurge",
+    "botanical_name": "Euphorbia meloformis ",
+    "image_url": "assets/images/321.webp",
+    "description": "<strong>Botanical Name:</strong> Euphorbia meloformis<br><strong>Common Name:</strong> melon spurge<br><strong>Family:</strong> Euphorbiaceae<br><strong>Origin:</strong> South Africa<br><strong>Growth Habit:</strong> Globose, ribbed, pumpkin-like stem; small green-yellow cyathia in season.<br><strong>Light:</strong> Bright light; acclimate to sun.<br><strong>Water:</strong> Sparse; dry fully between.<br><strong>Soil:</strong> Airy mineral substrate.<br><strong>Use:</strong> Compact collector’s succulent (latex caustic).",
+    "details": "Euphorbia meloformis, also known as the Melon Spurge, is a compact, spherical succulent from South Africa, resembling a small, green-striped melon. Its ribbed body sometimes features bronze tones under sunlight, and in summer, it sends up small, greenish-yellow flowers along its ribs. Like all Euphorbias, it produces a milky sap, so handling with care is important. It thrives in sunny locations, dry soil, and low water conditions, making it an excellent low-maintenance choice for collectors who value geometry and simplicity."
+  },
+  {
+    "id": "PLANT322",
+    "name": "Notocactus fuscus",
+    "botanical_name": "Notocactus fuscus ",
+    "image_url": "assets/images/322.webp",
+    "description": "<strong>Botanical Name:</strong> Notocactus fuscus <br><strong>Common Name:</strong> Notocactus fuscus <br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> South America<br><strong>Growth Habit:</strong> Solitary globose stem, dark green with many ribs; yellowish spines; glossy yellow flowers.<br><strong>Light:</strong> Bright light; slight shade in peak heat.<br><strong>Water:</strong> During growth only; dry in winter.<br><strong>Soil:</strong> Neutral, mineral, free-draining.<br><strong>Use:</strong> Small pots and rock gardens.",
+    "details": "Notocactus fuscus is a solitary, globular cactus with a dark green body lined by golden-yellow spines and delicate yellow flowers. Native to South America, it grows slowly and prefers bright light with well-draining soil. Its springtime blooms are a bright reward for patient care. Compact, elegant, and classic, this species adds timeless desert charm to any plant collection."
+  },
+  {
+    "id": "PLANT323",
+    "name": "Purple Notocactus",
+    "botanical_name": "Notocactus purpureus ",
+    "image_url": "assets/images/323.webp",
+    "description": "<strong>Botanical Name:</strong> Parodia horstii f. purpureus<br><strong>Common Name:</strong> Purple Notocactus<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Rio Grande do Sul, Brazil<br><strong>Growth Habit:</strong> Globose plant with reddish spines; vivid purple-violet flowers at apex.<br><strong>Light:</strong> Bright warm spot; partial shade in heat.<br><strong>Water:</strong> Generous in summer; dry winter rest.<br><strong>Soil:</strong> Well-drained, slightly acidic to neutral.<br><strong>Use:</strong> Showy flowering collector’s cactus.",
+    "details": "This eye-catching cactus, Notocactus purpureus, is loved for its vivid violet flowers that emerge in contrast to its lush green body and reddish spines. Native to Brazil, it thrives in bright light and airy soil, preferring to stay dry in winter. The purple blossoms make it one of the most photogenic and admired members of the Notocactus family."
+  },
+  {
+    "id": "PLANT324",
+    "name": "Balloon Cactus / Lemon Ball",
+    "botanical_name": "Notocactus ottonis var. ",
+    "image_url": "assets/images/324.webp",
+    "description": "<strong>Botanical Name:</strong> Notocactus ottonis var. <br><strong>Common Name:</strong> Balloon Cactus / Lemon Ball<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Argentina, Brazil, Paraguay, Uruguay<br><strong>Growth Habit:</strong> Short globose body with 6–16 ribs; yellow flowers (red forms exist).<br><strong>Light:</strong> Full sun to bright light.<br><strong>Water:</strong> Sparing; stop in winter.<br><strong>Soil:</strong> Porous, well-draining cactus mix.<br><strong>Use:</strong> Easy, cheerful beginner cactus.",
+    "details": "The Balloon Cactus, Notocactus ottonis, is a cheerful, round cactus with bright yellow blooms and golden spines. It’s found across South America and known for its plump, balloon-like form. It thrives in full sun and dry conditions, requiring little water and even less attention. A perfect cactus for beginners — friendly, forgiving, and endlessly charming."
+  },
+  {
+    "id": "PLANT325",
+    "name": "Parodia erubescens",
+    "botanical_name": "Notocactus schlosserii ",
+    "image_url": "assets/images/325.webp",
+    "description": "<strong>Botanical Name:</strong> Notocactus schlosserii <br><strong>Common Name:</strong> Parodia erubescens<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Brazil, Paraguay<br><strong>Growth Habit:</strong> Solitary spherical to short columnar; dense reddish spines; lemon flowers with red stigma.<br><strong>Light:</strong> Bright light, avoid harsh midday.<br><strong>Water:</strong> Soak and dry; low humidity.<br><strong>Soil:</strong> Well-draining, slightly acidic (pH 4–6).<br><strong>Use:</strong> Color-rich compact ornamental.",
+    "details": "Notocactus schlosserii, also known as Parodia erubescens, is a vibrant, spherical cactus covered in fiery orange-red spines. In summer, it bursts into bloom with glossy lemon-yellow flowers featuring a striking red stigma. Native to Brazil and Paraguay, it thrives in well-drained soil and bright light. Compact and eye-catching, it’s a true gem of color and form."
+  },
+  {
+    "id": "PLANT326",
+    "name": "Mammillaria tenya delval ",
+    "botanical_name": "Mammillaria tenya delval ",
+    "image_url": "assets/images/326.webp",
+    "description": "<strong>Botanical Name:</strong>Mammillaria tenya delval <br><strong>Common Name:</strong> SSpiny Pincushion Cactus<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Mexico<br><strong>Growth Habit:</strong> Cylindrical, densely spined with reddish central spines; pink halo of flowers near apex.<br><strong>Light:</strong> Full sun/bright light.<br><strong>Water:</strong> Sparse; keep dry in winter.<br><strong>Soil:</strong> Gritty, porous mix.<br><strong>Use:</strong> Classic, hardy house cactus.",
+    "details": "The Spiny Pincushion Cactus, Mammillaria spinosissima, is one of the most beloved species for collectors. Covered in fine red and white spines, it forms small clusters that bloom with rings of pink or purple flowers. It thrives in full sunlight, tolerates drought, and embodies resilience. Compact yet bold, this cactus turns any pot into a living bouquet of desert beauty."
+  },
+  {
+    "id": "PLANT327",
+    "name": "Rebutia neocumingii",
+    "botanical_name": "Weingartia neocumingii ",
+    "image_url": "assets/images/327.webp",
+    "description": "<strong>Botanical Name:</strong> Weingartia neocumingii <br><strong>Common Name:</strong> Rebutia neocumingii<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Bolivia (Chuquisaca)<br><strong>Growth Habit:</strong> Ribbed, spiraled tubercles; numerous spines; golden to orange flowers near stem tips.<br><strong>Light:</strong> Full sun to bright light.<br><strong>Water:</strong> Regular in summer; dry/cool winter.<br><strong>Soil:</strong> Gritty, mineral-rich.<br><strong>Use:</strong> Prolific flowering compact cactus.",
+    "details": "Rebutia neocumingii"
+  },
+  {
+    "id": "PLANT328",
+    "name": "Troll’s Weingartia",
+    "botanical_name": "Weingartia neocumingii var. Trollii ",
+    "image_url": "assets/images/328.webp",
+    "description": "<strong>Botanical Name:</strong> Weingartia neocumingii var. Trollii <br><strong>Common Name:</strong> Troll’s Weingartia<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Bolivia (near Sucre)<br><strong>Growth Habit:</strong> Flattened-globose, golden-brown spines; orange to red flowers, often multiple per areole.<br><strong>Light:</strong> Bright, sheltered sun.<br><strong>Water:</strong> Moderate in summer; suspend in winter.<br><strong>Soil:</strong> Pumice-rich, free-draining.<br><strong>Use:</strong> Early, abundant bloomer for collectors.",
+    "details": "Troll’s Weingartia, a subspecies of Rebutia neocumingii, is a compact cactus with golden-brown spines and bright orange-red blooms that emerge abundantly from its crown. Found in the Bolivian Andes, it prefers bright light, minimal water, and well-draining soil. This little cactus may be small, but it bursts with energy and color, embodying the perfect balance of toughness and beauty."
+  },
+  {
+    "id": "PLANT329",
+    "name": "Paraguayan Torch Cactus",
+    "botanical_name": "Echinopsis rhodotricha ",
+    "image_url": "assets/images/329.webp",
+    "description": "<strong>Botanical Name:</strong> Echinopsis rhodotricha<br><strong>Common Name:</strong> Paraguayan Torch Cactus<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Paraguay and Northeastern Argentina<br><strong>Growth Habit:</strong> Globular to columnar cactus with 8–13 ribs, gray-green stem, and white night-blooming flowers with hairy scales.<br><strong>Light Required:</strong> Full sunlight or bright light.<br><strong>Water Required:</strong> Regular watering in summer; dry in winter.<br><strong>Soil Condition:</strong> Porous, sandy, well-drained mix.<br><strong>Uses:</strong> Ornamental cactus admired for its nocturnal blooms.<br><strong>Age:</strong> 70 years",
+    "details": "Meet Echinopsis rhodotricha, a charming globular-to-columnar cactus native to Paraguay and northeastern Argentina. Known for its symmetrical ribs, dark-tipped spines, and woolly flower bases, this resilient species combines elegance with toughness. Its large, slender white flowers bloom at night, releasing a soft fragrance and remaining open until morning — a moonlit spectacle that attracts pollinators. Thriving in bright sunlight and well-draining soil, it enjoys regular summer watering but prefers a dry winter rest, where it even tolerates light frost if kept dry. With its balanced form, easy care, and nocturnal beauty, Echinopsis rhodotricha stands as a symbol of quiet endurance and subtle radiance, blooming when the world sleeps."
+  },
+  {
+    "id": "PLANT330",
+    "name": "Argentine Giant Cactus",
+    "botanical_name": "Trichocereus validus ",
+    "image_url": "assets/images/330.webp",
+    "description": "<strong>Botanical Name:</strong> Trichocereus validus<br><strong>Common Name:</strong> Argentine Giant Cactus<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Argentina and Bolivia<br><strong>Growth Habit:</strong> Thick columnar cactus up to 40 cm in diameter with deep ribs and long yellow-grey spines; produces large white night-blooming flowers.<br><strong>Light Required:</strong> Full sunlight.<br><strong>Water Required:</strong> Moderate watering; keep dry in cold months.<br><strong>Soil Condition:</strong> Well-drained sandy soil with good aeration.<br><strong>Uses:</strong> Ornamental giant cactus admired for its impressive blooms.<br><strong>Age:</strong> 80 years",
+    "details": "Meet Trichocereus validus, a grand and stately cactus native to South America. This species is admired for its tall, columnar shape and thick, emerald-green stems that can reach up to 40 centimeters in diameter. Deep ribs run vertically along its surface, each lined with white areoles from which emerge sturdy yellow-greyish spines — some as long as your hand. When night falls, this cactus reveals its true beauty, blooming with giant white flowers that open under the moonlight, releasing a delicate fragrance into the desert air. Though sometimes classified under Echinopsis rhodotricha, its powerful form and serene flowers make it stand apart. Trichocereus validus thrives in full sun, rocky soil, and cool desert nights. It’s hardy, elegant, and a living reminder of how even in the harshest landscapes, beauty always finds a way to bloom."
+  },
+  {
+    "id": "PLANT331",
+    "name": "Clumping Easter Lily Cactus",
+    "botanical_name": "Echinopsis obrepanda ",
+    "image_url": "assets/images/331.webp",
+    "description": "<strong>Botanical Name:</strong> Echinopsis obrepanda<br><strong>Common Name:</strong> Clumping Easter Lily Cactus<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Bolivia and Southern Andes<br><strong>Growth Habit:</strong> Globular clumping cactus with soft white spines and large white to cream flowers forming dense clusters.<br><strong>Light Required:</strong> Full sun to partial shade.<br><strong>Water Required:</strong> Moderate watering in summer; dry in winter.<br><strong>Soil Condition:</strong> Well-draining cactus mix with pumice.<br><strong>Uses:</strong> Ornamental plant prized for its soft spines and showy blooms.<br><strong>Age:</strong> 65 years",
+    "details": "Say hello to Echinopsis obrepanda, a charming cactus native to the high Andes of Bolivia and Peru. This species grows close to the ground, forming small, rounded clumps covered in fine, white, hair-like spines that give it a soft, cottony appearance. Despite its gentle look, it’s tough — surviving in rocky mountain slopes over 3,000 meters above sea level. In summer, it rewards patience with large, spectacular white flowers that open dramatically at dusk. Some varieties even surprise with pink or apricot tones. Echinopsis obrepanda loves bright sunlight, well-draining soil, and a dry rest in winter. Beyond its beauty, it plays an important role in the Andean ecosystem, providing nectar to native pollinators. This humble cactus proves that resilience and elegance often go hand in hand."
+  },
+  {
+    "id": "PLANT332",
+    "name": "Magnificent Mammillaria",
+    "botanical_name": "Mammillaria magnifica ",
+    "image_url": "assets/images/332.webp",
+    "description": "<strong>Botanical Name:</strong> Mammillaria magnifica<br><strong>Common Name:</strong> Magnificent Mammillaria<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Morelos and Puebla, Mexico<br><strong>Growth Habit:</strong> Clumping cylindrical cactus with conical tubercles, hooked yellow-brown spines, and purplish-red crown flowers.<br><strong>Light Required:</strong> Full sunlight or bright indoor light.<br><strong>Water Required:</strong> Regular watering in summer; dry during dormancy.<br><strong>Soil Condition:</strong> Porous, well-drained cactus mix.<br><strong>Uses:</strong> Ornamental cactus valued for its floral crown and compact form.<br><strong>Age:</strong> 50 years",
+    "details": "Introducing Mammillaria magnifica, a fast-growing Mexican cactus that truly lives up to its name — magnificent. Its cylindrical stems grow in clusters, each adorned with tiny, pyramid-shaped tubercles tipped with fine white spines. At the center, a few hooked yellow-brown spines stand out, giving the plant both texture and character. In spring, a perfect ring of purplish-red flowers circles the top of each stem like a natural crown — a sight both delicate and regal. Native to the Mexican states of Morelos and Puebla, this species prefers bright light, porous soil, and careful watering. While sensitive to frost, it thrives in warmth and sunshine. Collectors adore its variegated forms, which display golden-yellow streaks, making every plant uniquely beautiful — a true jewel among cacti."
+  },
+  {
+    "id": "PLANT333",
+    "name": "Royal Red African Milk Tree",
+    "botanical_name": "Euphorbia trigona rubra ",
+    "image_url": "assets/images/333.webp",
+    "description": "<strong>Botanical Name:</strong> Euphorbia trigona rubra <br><strong>Common Name:</strong> Royal Red African Milk Tree<br><strong>Family:</strong> Euphorbiaceae<br><strong>Origin:</strong> Central and East Africa<br><strong>Growth Habit:</strong> Upright, three-sided columnar succulent with deep red stems and small lanceolate leaves along ridges.<br><strong>Light Required:</strong> Full sunlight or bright indoor light.<br><strong>Water Required:</strong> Moderate; allow soil to dry completely between waterings.<br><strong>Soil Condition:</strong> Well-draining sandy soil.<br><strong>Uses:</strong> Architectural indoor ornamental with red foliage.<br><strong>Age:</strong> 35 years",
+    "details": "Here we have Euphorbia trigona rubra, famously known as the Royal Red African Milk Tree — a striking succulent that looks like living architecture. Its tall, upright stems are triangular in shape, lined with short reddish spines and small, teardrop-shaped leaves. What makes it special is its deep red to burgundy color that intensifies under bright sunlight, giving it a royal glow. Native to Central Africa, this hardy plant thrives in warm, sunny environments and asks for little — just well-draining soil and occasional watering. Though easy to grow, it should be handled with care, as its milky white sap can irritate the skin. Both sculptural and resilient, Euphorbia trigona rubra is a modern favorite — a plant that stands tall, elegant, and unapologetically bold."
+  },
+  {
+    "id": "PLANT334",
+    "name": "Canary Island Spurge",
+    "botanical_name": "Euphorbia canariensis ",
+    "image_url": "assets/images/334.webp",
+    "description": "<strong>Botanical Name:</strong> Euphorbia canariensis<br><strong>Common Name:</strong> Canary Island Spurge<br><strong>Family:</strong> Euphorbiaceae<br><strong>Origin:</strong> Canary Islands<br><strong>Growth Habit:</strong> Large succulent shrub up to 4 meters tall with four-angled, spine-covered branches and small reddish-green flowers.<br><strong>Light Required:</strong> Full sun to partial shade.<br><strong>Water Required:</strong> Minimal; let soil dry completely between watering.<br><strong>Soil Condition:</strong> Rocky, well-drained soil.<br><strong>Uses:</strong> Ornamental and symbolic plant native to the Canary Islands.<br><strong>Age:</strong> 70 years",
+    "details": "Meet Euphorbia canariensis, also called the Canary Island Spurge — a plant that blurs the line between cactus and succulent. Native to the Canary Islands, this towering green shrub can reach up to 13 feet, forming dense thickets of upright, four-sided branches lined with small spines. In spring, it bears tiny reddish-green flowers near the spines, followed by maroon seed capsules. Beneath its beauty lies a secret defense — a white, milky sap that’s toxic, protecting it from grazing animals in its arid homeland. Euphorbia canariensis thrives under full sun and minimal water, surviving even on volcanic rock and sea cliffs. Symbolic to the island of Gran Canaria, this majestic species represents endurance — standing tall and proud against the coastal winds of the Atlantic."
+  },
+  {
+    "id": "PLANT335",
+    "name": "Resin Spurge",
+    "botanical_name": "Euphorbia resinifera ",
+    "image_url": "assets/images/335.webp",
+    "description": "<strong>Botanical Name:</strong> Euphorbia resinifera <br><strong>Common Name:</strong> Resin Spurge<br><strong>Family:</strong> Euphorbiaceae<br><strong>Origin:</strong> Atlas Mountains, Morocco<br><strong>Growth Habit:</strong> Dense, cushion-forming succulent shrub with thick four-angled stems covered in short paired spines; forms wide clumps.<br><strong>Light Required:</strong> Full sunlight.<br><strong>Water Required:</strong> Low; allow soil to dry completely before watering.<br><strong>Soil Condition:</strong> Gritty, mineral-rich, well-draining soil.<br><strong>Uses:</strong> Ornamental and medicinal; source of resiniferatoxin used in pain research.<br><strong>Age:</strong> 70 years",
+    "details": "This is Euphorbia resinifera, or the Resin Spurge, a fascinating succulent from the rocky hills of Morocco’s Atlas Mountains. It forms low, cushion-like clumps of angular green stems, each edged with small, paired spines. From these stems, clusters of tiny yellow flowers emerge, attracting bees that produce a highly prized Moroccan honey. The plant’s milky latex contains a powerful natural compound known as resiniferatoxin — extremely potent and being studied for advanced pain relief medicines. Though beautiful, it’s also dangerous; its sap can cause severe irritation and must be handled with care. Euphorbia resinifera thrives in sunny, dry habitats, thriving where few other plants survive. A mix of medicine, mystery, and resilience, it’s a symbol of nature’s power hidden within simplicity."
+  },
+  {
+    "id": "PLANT336",
+    "name": "Crown of Thorns",
+    "botanical_name": "Euphorbia millii ",
+    "image_url": "assets/images/336.webp",
+    "description": "<strong>Botanical Name:</strong> Euphorbia milii<br><strong>Common Name:</strong> Crown of Thorns<br><strong>Family:</strong> Euphorbiaceae<br><strong>Origin:</strong> Madagascar<br><strong>Growth Habit:</strong> Thorny, woody succulent shrub with fleshy green leaves and colorful red or pink bracts around small true flowers.<br><strong>Light Required:</strong> Full sunlight to partial shade.<br><strong>Water Required:</strong> Moderate; water when soil is dry.<br><strong>Soil Condition:</strong> Sandy, well-drained soil.<br><strong>Uses:</strong> Ornamental and symbolic plant associated with Christian tradition.<br><strong>Age:</strong> 40 years",
+    "details": "Behold Euphorbia milii, better known as the Crown of Thorns. Native to Madagascar, this hardy, woody succulent is adored for its vibrant bracts — the petal-like structures that come in shades of red, pink, or yellow and bloom almost year-round. Beneath its beauty, however, lies a layer of armor — thick, thorny stems and a milky sap that’s both protective and toxic. Legend has it that the crown placed on Jesus during his crucifixion was made from this very plant, giving it deep spiritual symbolism. Euphorbia milii flourishes in full sunlight, well-draining soil, and moderate watering. Its flowers bring color to homes and gardens, reminding us that even from thorns, beauty can bloom."
+  },
+  {
+    "id": "PLANT337",
+    "name": "White Crown of Thorn",
+    "botanical_name": "Euphorbia millii white ",
+    "image_url": "assets/images/337.webp",
+    "description": "<strong>Botanical Name:</strong> Euphorbia millii white <br><strong>Common Name:</strong> White Crown of Thorns<br><strong>Family:</strong> Euphorbiaceae<br><strong>Origin:</strong> Madagascar (cultivar)<br><strong>Growth Habit:</strong> Thorny, upright succulent with white bracts around tiny flowers and green fleshy leaves.<br><strong>Light Required:</strong> Full sun or bright indirect light.<br><strong>Water Required:</strong> Moderate; water when topsoil is dry.<br><strong>Soil Condition:</strong> Fast-draining sandy or cactus mix.<br><strong>Uses:</strong> Decorative houseplant with long-lasting white blooms.<br><strong>Age:</strong> 35 years",
+    "details": "This elegant variant, Euphorbia milii var. white, brings a calm and graceful twist to its colorful cousin. Instead of red or pink bracts, it showcases pristine white blooms with delicate yellow centers, creating a soft contrast against its dark, thorn-covered stems. Native to Madagascar, this plant prefers bright sunlight, sandy soil, and minimal watering. It’s drought-tolerant and easy to care for, though its milky sap can irritate the skin, so caution is advised when pruning or propagating. The white Crown of Thorns is more than a plant — it’s a living sculpture of purity and resilience, blending strength with serenity in every bloom."
+  },
+  {
+    "id": "PLANT338",
+    "name": "Pentagonal Euphorbia",
+    "botanical_name": "Euphorbia pentagona ",
+    "image_url": "assets/images/338.webp",
+    "description": "<strong>Botanical Name:</strong> Euphorbia pentagona<br><strong>Common Name:</strong> Pentagonal Euphorbia<br><strong>Family:</strong> Euphorbiaceae<br><strong>Origin:</strong> Eastern Cape, South Africa<br><strong>Growth Habit:</strong> Tall perennial shrub up to 3 meters with 5–6 ribbed stems, red spines, and dark red cyathia flowers.<br><strong>Light Required:</strong> Full sunlight.<br><strong>Water Required:</strong> Moderate; allow complete drying between watering.<br><strong>Soil Condition:</strong> Free-draining cactus or sandy mix.<br><strong>Uses:</strong> Ornamental succulent with ribbed architectural stems.<br><strong>Age:</strong> 60 years",
+    "details": "Introducing Euphorbia pentagona, a unique South African succulent that stands out for its pentagon-shaped stems. Each finger-sized, green stem has five to six distinct ribs, with sharp red spines running along its edges. As the plant matures, it begins to branch from the tips, forming an intricate, sculptural shape that’s both wild and elegant. In bloom, it displays dark red-bracted flowers that add a subtle vibrance. Like its relatives, it produces a milky sap that can irritate skin, so handling with care is essential. Euphorbia pentagona thrives in warm, dry climates and rocky soil, growing up to 3 meters tall. Its unusual geometry and striking texture make it a centerpiece in succulent gardens — a masterpiece crafted by nature itself."
+  },
+  {
+    "id": "PLANT339",
+    "name": "Pincushion Euphorbia",
+    "botanical_name": "Euphorbia enopla ",
+    "image_url": "assets/images/339.webp",
+    "description": "<strong>Botanical Name:</strong> Euphorbia enopla<br><strong>Common Name:</strong> Pincushion Euphorbia<br><strong>Family:</strong> Euphorbiaceae<br><strong>Origin:</strong> South Africa and Namibia<br><strong>Growth Habit:</strong> Branching succulent up to 1.5 meters tall with dense green stems and striking red to black spines.<br><strong>Light Required:</strong> Full sunlight or bright light.<br><strong>Water Required:</strong> Low; let soil dry completely between watering.<br><strong>Soil Condition:</strong> Gritty, well-draining succulent mix.<br><strong>Uses:</strong> Architectural ornamental plant ideal for xeriscaping.<br><strong>Age:</strong> 50 years",
+    "details": "Finally, meet Euphorbia enopla, affectionately called the Pincushion Euphorbia. Native to the arid lands of South Africa and Namibia, this plant grows in dense clusters of cylindrical stems covered with vivid red and black spines. In full sunlight, its green stems develop a bluish or reddish tint, making it look almost alive with color. During warm months, small yellow flowers appear at the tips, adding a gentle touch of brightness. Despite its fierce appearance, it’s easy to care for — just give it sun, well-draining soil, and very little water. Like all Euphorbias, it exudes a toxic white latex when cut, so care is needed. Euphorbia enopla is the perfect example of nature’s artistry — sharp, bold, and undeniably beautiful."
+  },
+  {
+    "id": "PLANT340",
+    "name": "Fierce Euphorbia, Spiny Milk Barrel",
+    "botanical_name": "Euphorbia ferox ",
+    "image_url": "assets/images/340.webp",
+    "description": "<strong>Botanical Name:</strong> Euphorbia ferox<br><strong>Common Name:</strong> Fierce Euphorbia, Spiny Milk Barrel<br><strong>Family:</strong> Euphorbiaceae<br><strong>Origin:</strong> South Africa (Karoo region)<br><strong>Growth Habit:</strong> Clumping spiny succulent with cylindrical grey-green stems and red to gray paired spines.<br><strong>Light Required:</strong> Full sunlight or bright indirect light.<br><strong>Water Required:</strong> Minimal; drought-tolerant, water sparingly.<br><strong>Soil Condition:</strong> Sandy, porous, well-draining soil.<br><strong>Uses:</strong> Decorative xerophytic species with striking spine patterns.<br><strong>Age:</strong> 55 years",
+    "details": "Meet Euphorbia ferox, a striking succulent from South Africa’s Karoo region. Its dense, clumping growth forms spherical to columnar clusters of grey-green stems, each adorned with paired spines that are bright red when young, fading to gray over time. Tiny, ephemeral leaves appear briefly during the growing season, while small yellow flowers, called cyathia, bloom at the tips. This “fierce” euphorbia thrives in full sun with well-draining soil and minimal water. Handle with care—its sharp spines and toxic milky sap can irritate skin and eyes. Propagation is straightforward via offsets, which appear near the mother plant. Perfect for rock gardens or succulent collections, E. ferox combines architectural beauty, ecological value, and desert toughness, showcasing South Africa’s resilient flora."
+  },
+  {
+    "id": "PLANT341",
+    "name": "Clustered Euphorbia",
+    "botanical_name": "Euphorbia aggregata ",
+    "image_url": "assets/images/341.webp",
+    "description": "<strong>Botanical Name:</strong> Euphorbia aggregata<br><strong>Common Name:</strong> Clustered Euphorbia<br><strong>Family:</strong> Euphorbiaceae<br><strong>Origin:</strong> Eastern Cape, South Africa<br><strong>Growth Habit:</strong> Low, tufted cushion-forming succulent composed of many ribbed, dull green heads with scattered spines.<br><strong>Light Required:</strong> Bright sunlight; afternoon shade in hot climates.<br><strong>Water Required:</strong> Very low; allow complete drying between watering.<br><strong>Soil Condition:</strong> Sandy, mineral-rich mix with excellent drainage.<br><strong>Uses:</strong> Ornamental clumping euphorbia valued for sculptural form.<br><strong>Age:</strong> 60 years",
+    "details": "Meet Euphorbia aggregata, a dwarf succulent native to the Eastern Cape of South Africa. It forms dense, cushion-like mounds of small, free-branching heads, each topped with pale green to variegated stems and stout, solitary spines. Its inconspicuous yellow-green flowers appear near the tips, adding subtle charm. Thriving in bright sunlight, it requires well-draining soil and minimal water, especially during its winter dormancy. Variegated forms need extra light to preserve their striking cream, yellow, or pale green patterns. Like all euphorbias, it produces a toxic milky sap, so gloves are recommended when handling. This slow-growing plant gradually spreads into spectacular clumps, making it ideal for collectors seeking both architectural form and hardy, low-maintenance appeal."
+  },
+  {
+    "id": "PLANT342",
+    "name": "Marbled Euphorbia",
+    "botanical_name": "Euphorbia fimbriata ",
+    "image_url": "assets/images/342.webp",
+    "description": "<strong>Botanical Name:</strong> Euphorbia fimbriata<br><strong>Common Name:</strong> Marbled Euphorbia<br><strong>Family:</strong> Euphorbiaceae<br><strong>Origin:</strong> Western Cape, South Africa<br><strong>Growth Habit:</strong> Upright or decumbent shrublet with deep green ribbed stems, maroon-tipped spines, and small yellow-green winter flowers.<br><strong>Light Required:</strong> Bright sunlight, 4–6 hours daily.<br><strong>Water Required:</strong> Low; drought-tolerant, water sparingly.<br><strong>Soil Condition:</strong> Gritty, well-draining succulent mix.<br><strong>Uses:</strong> Ornamental and drought-resistant landscape plant.<br><strong>Age:</strong> 45 years",
+    "details": "Meet Euphorbia fimbriata, a succulent shrublet from South Africa’s Western Cape. Its erect, deep green stems often develop reddish or brownish tones under sun, branching irregularly into a dense, bushy form. Spines are actually sterile peduncles, while tiny, deciduous leaves appear briefly. Winter brings small greenish-yellow flowers at branch tips. Drought-tolerant and sensitive to cold, this plant thrives in bright sunlight with well-draining soil, watered only when dry. Propagation is easiest via stem cuttings or pups. Its milky sap is toxic, so gloves are essential when handling. With architectural branching and winter blooms, E. fimbriata is a striking, low-maintenance addition to any succulent collection."
+  },
+  {
+    "id": "PLANT343",
+    "name": "Variegated Marbled Euphorbia",
+    "botanical_name": "Euphorbia fimbriata variegata ",
+    "image_url": "assets/images/343.webp",
+    "description": "<strong>Botanical Name:</strong> Euphorbia fimbriata variegata <br><strong>Common Name:</strong> Variegated Marbled Euphorbia<br><strong>Family:</strong> Euphorbiaceae<br><strong>Origin:</strong> South Africa<br><strong>Growth Habit:</strong> Shrubby succulent with segmented marbled green-and-cream stems, short maroon-tipped spines, and yellow-green winter flowers.<br><strong>Light Required:</strong> Bright light or partial sun; high light maintains variegation.<br><strong>Water Required:</strong> Moderate; water when soil is completely dry.<br><strong>Soil Condition:</strong> Well-drained sandy or cactus mix.<br><strong>Uses:</strong> Decorative indoor succulent with unique marbled coloration.<br><strong>Age:</strong> 40 years",
+    "details": "Meet Euphorbia fimbriata variegata, a South African succulent shrublet featuring upright, segmented stems with pale, marbled patterns. Tiny, deciduous leaves and maroon-tipped spines (sterile peduncles) adorn the irregularly branching stems, while winter brings small yellow-green to purple flowers. Thriving in bright light, it needs well-draining soil and water only when dry. This variegated form requires extra light to maintain its delicate marbling. Propagation is simple through stem cuttings. Handle carefully—its sap is toxic. With its unique coloration and compact, bushy form, E. fimbriata variegata adds elegance and architectural interest to succulent collections."
+  },
+  {
+    "id": "PLANT344",
+    "name": "Striped African Milk Barrel",
+    "botanical_name": "Euphorbia horrida -striata ",
+    "image_url": "assets/images/344.webp",
+    "description": "<strong>Botanical Name:</strong> Euphorbia horrida -striata <br><strong>Common Name:</strong> Striped African Milk Barrel<br><strong>Family:</strong> Euphorbiaceae<br><strong>Origin:</strong> South Africa<br><strong>Growth Habit:</strong> Blue-grey, barrel-shaped succulent with wavy ribs and reddish spines; forms basal clumps over time.<br><strong>Light Required:</strong> Full sun to bright light.<br><strong>Water Required:</strong> Low; use 'soak and dry' watering method.<br><strong>Soil Condition:</strong> Gritty, porous cactus mix.<br><strong>Uses:</strong> Ornamental succulent known for its ribbed, striped form.<br><strong>Age:</strong> 70 years",
+    "details": "Meet Euphorbia horrida, the African Milk Barrel with distinctive grey-blue wavy ribs. It grows upright, forming clumps that can be propagated at the base, and blooms with small flowers in summer. This succulent thrives with “soak and dry” watering, allowing soil to dry completely between sessions to prevent root rot. While resilient, it’s important to avoid overwatering. Its toxic milky sap necessitates careful handling. Ideal for pots or rock gardens, E. horrida offers architectural beauty, seasonal blooms, and low-maintenance appeal."
+  },
+  {
+    "id": "PLANT345",
+    "name": "African Milk Barrel",
+    "botanical_name": "Euphorbia horrida ",
+    "image_url": "assets/images/345.webp",
+    "description": "<strong>Botanical Name:</strong> Euphorbia horrida<br><strong>Common Name:</strong> African Milk Barrel<br><strong>Family:</strong> Euphorbiaceae<br><strong>Origin:</strong> South Africa (Karoo region)<br><strong>Growth Habit:</strong> Blue-green cylindrical succulent with prominent ribs and reddish-brown spines; forms clumps with yellow-green cyathia in summer.<br><strong>Light Required:</strong> Full sun to partial shade.<br><strong>Water Required:</strong> Low; allow soil to dry completely between watering.<br><strong>Soil Condition:</strong> Gritty, well-draining mix.<br><strong>Uses:</strong> Ornamental cactus-like succulent prized for its rugged form.<br><strong>Age:</strong> 80 years",
+    "details": "Meet Euphorbia horrida, a slow-growing succulent from South Africa. Its blue-green, ribbed stems carry sharp reddish-brown spines, and small yellow-green flowers appear during the growing season. Forming tight clumps with basal offsets, it prefers full sun and well-draining soil. Water sparingly, allowing the soil to dry completely, especially in winter. Hardy to mild frost if roots remain dry, it can be fertilized lightly during growth. Handle with gloves—the milky sap is toxic. With its upright form, striking spines, and summer blooms, E. horrida is both dramatic and low-maintenance."
+  },
+  {
+    "id": "PLANT346",
+    "name": "Fishbone Thistle or Fish Bone Cactus",
+    "botanical_name": "Euphorbia polycantha",
+    "image_url": "assets/images/346.webp",
+    "description": "<strong>Botanical Name:</strong> Euphorbia polycantha<br><strong>Common Name:</strong> Fishbone Thistle or Fish Bone Cactus<br><strong>Family:</strong> Euphorbiaceae<br><strong>Origin:</strong> Yemen, Sudan, and Ethiopia<br><strong>Growth Habit:</strong> Leafless shrubby succulent up to 2 meters tall with gray-green stems and paired spines; produces small yellow flowers at stem tips.<br><strong>Light Required:</strong> Full sunlight or bright light.<br><strong>Water Required:</strong> Moderate; water deeply, then let dry completely.<br><strong>Soil Condition:</strong> Fast-draining sandy or rocky soil.<br><strong>Uses:</strong> Ornamental hedge plant and traditional medicinal species.<br><strong>Age:</strong> 60 years",
+    "details": "Meet Euphorbia polycantha, also called the Fishbone Thistle, native to Yemen, Sudan, and Ethiopia. It grows up to 2 meters with densely packed, erect, grey-green branches resembling a candelabra. Paired spines line the stems, and small yellow flowers appear at branch tips. Thriving in bright sun with well-draining soil, it requires occasional watering and protection from frost. Its sap is milky and irritating. Used medicinally and ornamentally, E. polycantha offers dramatic structure, resilience in arid climates, and a unique aesthetic for gardens or hedges."
+  },
+  {
+    "id": "PLANT347",
+    "name": "Indian Corn Cob",
+    "botanical_name": "Euphorbia submammillaris ",
+    "image_url": "assets/images/347.webp",
+    "description": "<strong>Botanical Name:</strong> Euphorbia submammillaris<br><strong>Common Name:</strong> Indian Corn Cob<br><strong>Family:</strong> Euphorbiaceae<br><strong>Origin:</strong> South Africa<br><strong>Growth Habit:</strong> Club-shaped, ribbed succulent forming dense clumps resembling corn cobs, with small pseudo-spines and yellow-orange flowers.<br><strong>Light Required:</strong> Full sun or bright indoor light.<br><strong>Water Required:</strong> Low; allow soil to dry fully between watering.<br><strong>Soil Condition:</strong> Cactus mix with high mineral content.<br><strong>Uses:</strong> Compact ornamental succulent for containers or rock gardens.<br><strong>Age:</strong> 45 years",
+    "details": "Meet Euphorbia submammillaris, the Indian Corn Cob, a South African succulent forming dense clusters of club-shaped stems. Chalky green, ribbed stems with shallow tubercles and short, pinkish-white pseudo-spines produce small yellow flowers at the tips. Thriving in full sun or bright indirect light, it needs well-draining soil and infrequent watering. Sensitive to frost, it should be protected in colder months. Its milky sap is caustic, so gloves are essential. Perfect for succulent enthusiasts, E. submammillaris offers architectural charm, low maintenance, and sculptural appeal."
+  },
+  {
+    "id": "PLANT348",
+    "name": "Pineapple Spurge Hybrid",
+    "botanical_name": "Euphorbia suzanne x bupleurifolia ",
+    "image_url": "assets/images/348.webp",
+    "description": "<strong>Botanical Name:</strong> Euphorbia suzanne x bupleurifolia <br><strong>Common Name:</strong> Pineapple Spurge Hybrid<br><strong>Family:</strong> Euphorbiaceae<br><strong>Origin:</strong> South Africa (hybrid)<br><strong>Growth Habit:</strong> Compact caudex-forming succulent with spiral tubercles and a crown of green leaves; slow-growing and clumping.<br><strong>Light Required:</strong> Bright sunlight to partial shade.<br><strong>Water Required:</strong> Moderate; allow full drying between watering.<br><strong>Soil Condition:</strong> Well-drained cactus mix with perlite or vermiculite.<br><strong>Uses:</strong> Ornamental hybrid valued for its pineapple-like shape.<br><strong>Age:</strong> 35 years",
+    "details": "Meet Euphorbia suzannae x bupleurifolia, a compact South African hybrid with a tubercled, pineapple-like central stem and a crown of slender green leaves. It grows in clumps, tolerates dry air, and requires bright light, well-draining soil, and minimal watering. Small yellow-green leaves may drop temporarily but regrow. Toxic milky sap necessitates careful handling. Ideal for patios or sunny windowsills, this slow-growing hybrid offers unusual form, textural contrast, and a striking accent for succulent collections."
+  },
+  {
+    "id": "PLANT349",
+    "name": "Crested Medusa's Head",
+    "botanical_name": "Euphorbia medusae cristata ",
+    "image_url": "assets/images/349.webp",
+    "description": "<strong>Botanical Name:</strong> Euphorbia medusae cristata <br><strong>Common Name:</strong> Crested Medusa's Head<br><strong>Family:</strong> Euphorbiaceae<br><strong>Origin:</strong> Eastern Cape, South Africa<br><strong>Growth Habit:</strong> Fan-shaped crested succulent with undulating ridges and a swollen base resembling coral.<br><strong>Light Required:</strong> Bright indirect or filtered sunlight.<br><strong>Water Required:</strong> Low; water sparingly when soil is dry.<br><strong>Soil Condition:</strong> Well-draining succulent mix.<br><strong>Uses:</strong> Rare ornamental known for its sculptural and coral-like growth.<br><strong>Age:</strong> 50 years",
+    "details": "Meet Euphorbia medusae cristata, a crested form of Euphorbia flanaganii from South Africa’s Eastern Cape. Its fan-shaped, flattened crests radiate from a thickened caudex, creating a sculptural, coral-like appearance. Thriving in bright, indirect light with well-draining soil, it prefers warmth and minimal water. The toxic milky sap requires gloves when handling. Propagation is via cuttings from the crests after callusing. Sometimes grafted onto rootstock for stability, this plant combines dramatic visual impact with low-maintenance cultivation, making it a must-have for collectors seeking unique succulent forms."
+  },
+  {
+    "id": "PLANT350",
+    "name": "Baseball Plant",
+    "botanical_name": "Euphorbia obesa ",
+    "image_url": "assets/images/350.webp",
+    "description": "<strong>Botanical Name:</strong> Euphorbia obesa<br><strong>Common Name:</strong> Baseball Plant<br><strong>Family:</strong> Euphorbiaceae<br><strong>Origin:</strong> South Africa (Karoo region)<br><strong>Growth Habit:</strong> Spherical, ribbed succulent with smooth green to bluish-grey skin and faint vertical stripes; typically solitary.<br><strong>Light Required:</strong> Full sun to bright light.<br><strong>Water Required:</strong> Minimal; drought-tolerant, water only when dry.<br><strong>Soil Condition:</strong> Sandy, fast-draining soil.<br><strong>Uses:</strong> Ornamental collector’s plant known for its symmetry and low maintenance.<br><strong>Age:</strong> 80 years",
+    "details": "Meet Euphorbia obesa, the “baseball plant” that’s nature’s very own geometric marvel. Hailing from the sunbaked Karoo region of South Africa, it’s a perfectly spherical succulent, pale to bluish-green with dark vertical ribs, that looks like it rolled straight out of a botanical ballpark. Slow-growing and long-lived, it thrives under bright sunlight, minimal water, and well-draining soil. But handle with care—its milky sap packs a punch, irritating skin and eyes. In summer, tiny yellow-green flowers appear, and occasionally, baby offsets sprout at its base, ready to continue its round, elegant legacy."
+  },
+  {
+    "id": "PLANT351",
+    "name": "pincushion euphorbia",
+    "botanical_name": "Euphorbia pulvinata ",
+    "image_url": "assets/images/351.webp",
+    "description": "<strong>Botanical Name:</strong> Euphorbia pulvinata<br><strong>Common Name:</strong> pincushion euphorbia<br><strong>Family:</strong> Euphorbiaceae<br><strong>Origin:</strong> Southern Africa<br><strong>Growth Habit:</strong> Cushion-forming, mound-like succulent with 7-angled green stems and short sharp spines; produces small yellow flowers.<br><strong>Light Required:</strong> Full sunlight or bright conditions.<br><strong>Water Required:</strong> Low; allow soil to dry completely between watering.<br><strong>Soil Condition:</strong> Mineral-rich, well-draining substrate.<br><strong>Uses:</strong> Ornamental cactus-like succulent for arid gardens.<br><strong>Age:</strong> 65 years",
+    "details": "Step into the world of Euphorbia pulvinata, the “pincushion euphorbia,” a sculptural succulent that forms dense, cushion-like mounds of seven-angled green branches. Native to southern Africa, this plant bristles with short spines and tiny leaves that drop as seasons change. From July to September, solitary yellow flowers peek out, adding a sunny punctuation to its geometric green. Like its cousins, it carries a toxic milky sap, so gloves are a must. Stunning, unusual, and highly ornamental, it’s perfect for collectors who want a living sculpture in their garden or home."
+  },
+  {
+    "id": "PLANT352",
+    "name": "Old Man Cactus",
+    "botanical_name": "Cephalocereus senilis ",
+    "image_url": "assets/images/352.webp",
+    "description": "<strong>Botanical Name:</strong> Cephalocereus senilis <br><strong>Common Name:</strong> Old Man Cactus<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Mexico<br><strong>Growth Habit:</strong> Tall, columnar cactus covered with long, white, hair-like spines that protect it from sun and cold.<br><strong>Light Required:</strong> Full sunlight.<br><strong>Water Required:</strong> Low; water sparingly and keep dry in winter.<br><strong>Soil Condition:</strong> Sandy, gritty, well-draining soil.<br><strong>Uses:</strong> Ornamental cactus admired for its distinctive white 'hair.'<br><strong>Age:</strong> 100 years",
+    "details": "Say hello to the Old Man Cactus, Cephalocereus senilis, a columnar giant draped in a mane of snowy white hairs. Native to Mexico, its “fur” shields it from the blazing sun while hiding sharp central spines underneath. Growing up to 15 meters in the wild, it’s a slow climber of the desert world, only revealing its creamy, nocturnal flowers after a decade or two. Perfect for bright sunlight and careful watering, it’s a plant that teaches patience—the reward is both dramatic and timeless, a living desert legend."
+  },
+  {
+    "id": "PLANT353",
+    "name": "Thelocactus setispinus",
+    "botanical_name": "Hamatocactus setispinus ",
+    "image_url": "assets/images/353.webp",
+    "description": "<strong>Botanical Name:</strong> Hamatocactus setispinus <br><strong>Common Name:</strong> Thelocactus setispinus<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Northeastern Mexico<br><strong>Growth Habit:</strong> Solitary, globular cactus with hooked yellow-brown spines and large fragrant yellow flowers with red centers.<br><strong>Light Required:</strong> Full sunlight.<br><strong>Water Required:</strong> Minimal; drought-tolerant, water sparingly.<br><strong>Soil Condition:</strong> Rocky, well-drained soil.<br><strong>Uses:</strong> Ornamental flowering cactus suitable for arid landscaping.<br><strong>Age:</strong> 60 years",
+    "details": "Enter the rugged charm of Hamatocactus setispinus, a globular cactus from northeastern Mexico’s rocky slopes. Its yellowish-brown, hooked spines curve like tiny desert daggers, guarding a small but resilient green body. Summer brings large, fragrant yellow flowers with red centers—a sweet reward for the desert’s harsh conditions. Slow-growing and low-maintenance, it thrives in full sun and minimal water. Occasionally, little offsets appear at its base, hinting at the next generation of these hooked wonders."
+  },
+  {
+    "id": "PLANT354",
+    "name": "Texas Barrel Cactus",
+    "botanical_name": "Ferocactus hamatacanthus",
+    "image_url": "assets/images/354.webp",
+    "description": "<strong>Botanical Name:</strong> Ferocactus hamatacanthus <br><strong>Common Name:</strong> Texas Barrel Cactus<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Mexico, Texas, and New Mexico<br><strong>Growth Habit:</strong> Large, barrel-shaped cactus with wavy ribs and long hooked spines; produces yellow, fragrant flowers and edible fruits.<br><strong>Light Required:</strong> Full sunlight.<br><strong>Water Required:</strong> Low; water deeply but infrequently.<br><strong>Soil Condition:</strong> Well-drained, sandy cactus mix.<br><strong>Uses:</strong> Ornamental and edible-fruited desert cactus.<br><strong>Age:</strong> 90 years",
+    "details": "Meet the dramatic Ferocactus hamatacanthus, a barrel-shaped cactus that’s all ribs, curves, and dangerously long hooked spines. Native to Mexico and the southwestern US, it can grow up to 60 cm tall, crowned with bright yellow, fragrant flowers, and juicy edible fruit in green or maroon. This plant thrives on attention—full sun, infrequent watering, and well-draining soil—and rewards the patient gardener with a sculptural, drought-tolerant beauty that feels both prehistoric and futuristic."
+  },
+  {
+    "id": "PLANT355",
+    "name": "Montrose Apple Cactus",
+    "botanical_name": "Cereus floridianus monstruosus",
+    "image_url": "assets/images/355.webp",
+    "description": "<strong>Botanical Name:</strong> Cereus floridianus monstruosus<br><strong>Common Name:</strong> Montrose Apple Cactus<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Brazil (Rio de Janeiro region)<br><strong>Growth Habit:</strong> Tree-like, branching cactus with twisted, undulating gray-blue stems and chestnut-brown spines; produces large, white, fragrant, night-blooming flowers and small edible red fruits.<br><strong>Light Required:</strong> Full sunlight or bright outdoor exposure.<br><strong>Water Required:</strong> Low; water thoroughly only when soil is dry.<br><strong>Soil Condition:</strong> Gritty, well-draining cactus mix.<br><strong>Uses:</strong> Ornamental cactus with sculptural form and edible fruit.<br><strong>Age:</strong> 80 years",
+    "details": "Step into the strange, twisting world of Cereus peruvianus monstruosus, the Montrose Apple Cactus. Originating in Rio de Janeiro, Brazil, its gray-blue, undulating stems look almost alive, like a desert sculpture animated by the wind. Night brings large, white, fragrant flowers, followed by small, apple-like red fruit. Hardy, low-maintenance, and utterly mesmerizing, it’s a plant that commands attention, whether in the sun-baked garden or on a bright indoor window sill."
+  },
+  {
+    "id": "PLANT356",
+    "name": "Blue Torch Cactus, Spiral Cactus (Spiralis form)",
+    "botanical_name": "Cereus forbesii",
+    "image_url": "assets/images/356.webp",
+    "description": "<strong>Botanical Name:</strong> Cereus forbesii<br><strong>Common Name:</strong> Blue Torch Cactus, Spiral Cactus (Spiralis form)<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Argentina and Bolivia<br><strong>Growth Habit:</strong> Branching, columnar cactus up to several meters tall with cylindrical blue-green stems and short spines; produces large white to pinkish night-blooming flowers.<br><strong>Light Required:</strong> Full sunlight.<br><strong>Water Required:</strong> Low; water deeply and let soil dry completely.<br><strong>Soil Condition:</strong> Sandy, porous, well-drained soil.<br><strong>Uses:</strong> Ornamental cactus; spiral forms are collector favorites.<br><strong>Age:</strong> 90 years",
+    "details": "Behold Cereus forbesii, the South American “spiral cactus” that turns geometry into art. Its blue-green cylindrical stems twist and branch, especially the ‘Spiralis’ cultivar, creating living spirals that defy gravity. Night-blooming white flowers appear, eventually giving way to juicy red fruits. Non-toxic, drought-tolerant, and low-maintenance, it’s a spectacular centerpiece for both outdoor landscapes and indoor collections—proof that cacti aren’t just survivors; they’re storytellers."
+  },
+  {
+    "id": "PLANT357",
+    "name": "Blue Columnar Cactus, Blue Apple Cactus",
+    "botanical_name": "Cereus blue ",
+    "image_url": "assets/images/357.webp",
+    "description": "<strong>Botanical Name:</strong> Cereus blue <br><strong>Common Name:</strong> Blue Columnar Cactus, Blue Apple Cactus<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> South America (Peru, Brazil, Argentina)<br><strong>Growth Habit:</strong> Tall, blue-green, ribbed columnar cactus with yellowish spines and large white night-blooming flowers; produces edible red fruits.<br><strong>Light Required:</strong> Full sunlight.<br><strong>Water Required:</strong> Low; water when soil is completely dry.<br><strong>Soil Condition:</strong> Gritty, fast-draining cactus mix.<br><strong>Uses:</strong> Ornamental and edible-fruited cactus for large landscapes.<br><strong>Age:</strong> 100 years",
+    "details": "Enter the mysterious allure of Cereus blue, the blue-tinted members of the Cereus family. With ribbed, glaucous stems and subtle spines, they are as striking as they are slow-growing. Night brings fragrant white flowers, while some bear edible fruits resembling dragon fruit. Thriving on sunlight, minimal water, and well-draining soil, they are ideal for collectors who appreciate a touch of surreal, desert-blue elegance in their home or garden."
+  },
+  {
+    "id": "PLANT358",
+    "name": "Yellow Old Man Cactus or Woolly Torch Cactus",
+    "botanical_name": "Cephalocereus palmerii ",
+    "image_url": "assets/images/358.webp",
+    "description": "<strong>Botanical Name:</strong> Cephalocereus palmerii <br><strong>Common Name:</strong> Yellow Old Man Cactus or Woolly Torch Cactus<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Mexico and Central America<br><strong>Growth Habit:</strong> Slow-growing columnar cactus with long, yellowish-white hair-like spines; produces pinkish-white night-blooming flowers from the woolly apex.<br><strong>Light Required:</strong> Full sun or bright light.<br><strong>Water Required:</strong> Low; water sparingly during growing season.<br><strong>Soil Condition:</strong> Rocky, well-draining soil.<br><strong>Uses:</strong> Ornamental cactus admired for its hair-like spines.<br><strong>Age:</strong> 90 years",
+    "details": "The Yellow Old Man Cactus is a slow-growing, columnar giant covered in soft, white hair-like spines, shielding it from Mexico’s scorching sun. Night-blooming pinkish-white flowers emerge from woolly tips, rewarding patient growers. Thriving in full sun or partial shade, it needs dry soil and careful watering. This cactus is a living testament to resilience and desert artistry, perfect for collectors craving a dramatic, long-term companion."
+  },
+  {
+    "id": "PLANT359",
+    "name": "Golden Old Man Cactus",
+    "botanical_name": "Cephalocereus chrysacanthus",
+    "image_url": "assets/images/359.webp",
+    "description": "<strong>Botanical Name:</strong> Cephalocereus chrysacanthus<br><strong>Common Name:</strong> Golden Old Man Cactus<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Southern Mexico (Guerrero, Oaxaca, Puebla)<br><strong>Growth Habit:</strong> Tree-like branching cactus with yellow spines and dense golden hairs; produces tubular night-blooming flowers from a woolly cephalium.<br><strong>Light Required:</strong> Full sun to bright light.<br><strong>Water Required:</strong> Moderate; water deeply, allow drying between watering.<br><strong>Soil Condition:</strong> Sandy, well-draining cactus mix.<br><strong>Uses:</strong> Ornamental landscape cactus with golden spines.<br><strong>Age:</strong> 100 years",
+    "details": "Finally, meet Cephalocereus chrysacanthus, the golden old man cactus from southern Mexico. Thick branches clad in golden spines and dense yellow hairs give it a majestic presence. At night, medium-sized tubular flowers bloom from a woolly cephalium, later producing ovoid, woolly fruits. It thrives in sun, low water, and well-draining soil, adding bold, architectural drama to any cactus collection—a true crown jewel of the desert."
+  },
+  {
+    "id": "PLANT360",
+    "name": "Golden Torch Cactus",
+    "botanical_name": "Helianthocereus poco",
+    "image_url": "assets/images/360.webp",
+    "description": "<strong>Botanical Name:</strong> Helianthocereus poco<br><strong>Common Name:</strong> Golden Torch Cactus<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> South America<br><strong>Growth Habit:</strong> Columnar, tree-like cactus with multiple branches and showy flowers on mature stems.<br><strong>Light Required:</strong> Full sun or very bright light.<br><strong>Water Required:</strong> Low; water sparingly and keep dry in winter.<br><strong>Soil Condition:</strong> Gritty, sandy, well-draining mix.<br><strong>Uses:</strong> Ornamental specimen cactus used in xeriscaping.<br><strong>Age:</strong> 60 years",
+    "details": "Meet Helianthocereus poco, a stunning columnar cactus that grows tall and tree-like, branching gracefully with age. Native to warm, arid regions, it thrives in full sun and well-draining gritty soil. Water sparingly, allowing the soil to dry completely between waterings, and keep it nearly dry in winter. Its upright stems and bright, showy blooms make it a favorite in desert gardens and xeriscapes. With time, it becomes a living sculpture of strength and simplicity — a true desert sentinel symbolizing resilience and radiant beauty."
+  },
+  {
+    "id": "PLANT361",
+    "name": "Blue-Gold Micranthocereus",
+    "botanical_name": "Micranthocereus auri-azureus",
+    "image_url": "assets/images/361.webp",
+    "description": "<strong>Botanical Name:</strong> Micranthocereus auri-azureus<br><strong>Common Name:</strong> Blue-Gold Micranthocereus<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Minas Gerais, Brazil<br><strong>Growth Habit:</strong> Columnar, clumping cactus up to 1.5 m tall with bluish-green stems and golden spines; produces tubular flowers from lateral zones.<br><strong>Light Required:</strong> Full sunlight or bright filtered light.<br><strong>Water Required:</strong> Low; dry during winter dormancy.<br><strong>Soil Condition:</strong> Gritty, mineral-rich, well-draining soil.<br><strong>Uses:</strong> Ornamental cactus prized for color contrast and rare blooms.<br><strong>Age:</strong> 70 years",
+    "details": "Introducing Micranthocereus auri-azureus, a rare Brazilian beauty from Minas Gerais. It forms elegant clumps of slim blue-green columns adorned with golden spines that glow under sunlight. Thriving in full sun and fast-draining soil, it needs minimal water and complete dryness in winter. Its tubular flowers emerge from a lateral cephalium, adding charm to its form. Valued by collectors, this cactus represents rare elegance, endurance, and subtle brilliance, blending toughness with refined visual appeal."
+  },
+  {
+    "id": "PLANT362",
+    "name": "Pink-Spined Rose Cactus",
+    "botanical_name": "Roseocereus tephracanthus",
+    "image_url": "assets/images/362.webp",
+    "description": "<strong>Botanical Name:</strong> Roseocereus tephracanthus<br><strong>Common Name:</strong> Pink-Spined Rose Cactus<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> South America (Andean regions)<br><strong>Growth Habit:</strong> Columnar or climbing cactus with pinkish spines and tubular flowers; rare in cultivation.<br><strong>Light Required:</strong> Full sun or bright indirect light.<br><strong>Water Required:</strong> Low; water sparingly.<br><strong>Soil Condition:</strong> Sandy, rocky, well-drained soil.<br><strong>Uses:</strong> Ornamental cactus valued for its unique coloration.<br><strong>Age:</strong> 55 years",
+    "details": "Roseocereus tephracanthus is a striking South American columnar cactus, known for its silvery spines and graceful, upright growth. It loves full sun and sandy, rocky soil, thriving on neglect with minimal water. Native to dry, warm regions, it’s frost-sensitive but highly drought-tolerant. Though taxonomically complex, its unique texture and bloom make it a prized specimen. It embodies mystery, adaptability, and endurance, surviving where few others can — elegant in form, resilient in spirit."
+  },
+  {
+    "id": "PLANT363",
+    "name": "Peruvian Tree Cactus",
+    "botanical_name": "Neoraimondia",
+    "image_url": "assets/images/363.webp",
+    "description": "<strong>Botanical Name:</strong> Neoraimondia<br><strong>Common Name:</strong> Peruvian Tree Cactus<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Peru and Bolivia<br><strong>Growth Habit:</strong> Large, shrubby to tree-like cactus with candelabra form, branching from the base, and long spines.<br><strong>Light Required:</strong> Full sunlight.<br><strong>Water Required:</strong> Low; water sparingly, drought-tolerant.<br><strong>Soil Condition:</strong> Rocky, well-draining soil.<br><strong>Uses:</strong> Ornamental and ethnobotanical significance in Andean regions.<br><strong>Age:</strong> 120 years",
+    "details": "Meet Neoraimondia, a towering cactus native to Peru’s coastal and Andean deserts. With its branching, candelabra-like structure and thick, spiny stems, it’s both architectural and awe-inspiring. This species flourishes under full sun, in rocky, well-drained soil, and requires only sparse watering. Beyond its ornamental value, it carries deep cultural roots — some species historically noted in Andean traditions. A living monument of desert power, Neoraimondia stands for wisdom, endurance, and the sacred bond between nature and spirit."
+  },
+  {
+    "id": "PLANT364",
+    "name": "San Pedro Cactus, Peruvian Torch",
+    "botanical_name": "Trichocereus macrogonus",
+    "image_url": "assets/images/364.webp",
+    "description": "<strong>Botanical Name:</strong> Trichocereus macrogonus<br><strong>Common Name:</strong> San Pedro Cactus, Peruvian Torch<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Andean regions of Peru and Bolivia<br><strong>Growth Habit:</strong> Tall, columnar cactus (1–4 m in cultivation) with blue-green stems and white funnel-shaped flowers.<br><strong>Light Required:</strong> Full sunlight.<br><strong>Water Required:</strong> Moderate; allow drying between watering.<br><strong>Soil Condition:</strong> Sandy, gritty, well-draining mix.<br><strong>Uses:</strong> Ornamental and culturally significant Andean cactus.<br><strong>Age:</strong> 100 years",
+    "details": "Meet Trichocereus macrogonus, a tall, fast-growing columnar cactus native to the Andean regions of South America. Known for its blue-green stems and large white night-blooming flowers, it stands as a striking ornamental plant symbolizing endurance and purity. Thriving in full sun and well-draining sandy-gritty soil, it requires moderate watering during active growth and near dryness in winter. Though drought-tolerant, it’s not frost-hardy and prefers warm, arid climates. Admired for its bold form and cultural legacy, this Andean Torch Cactus embodies resilience and spiritual strength, a living monument of the mountains it calls home."
+  },
+  {
+    "id": "PLANT365",
+    "name": "Torch Cactus",
+    "botanical_name": "Trichocereus huascha",
+    "image_url": "assets/images/365.webp",
+    "description": "<strong>Botanical Name:</strong> Trichocereus huascha<br><strong>Common Name:</strong> Torch Cactus<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Argentina<br><strong>Growth Habit:</strong> Columnar cactus forming small clusters; produces tubular flowers in spring–summer resembling Echinopsis species.<br><strong>Light Required:</strong> Full sun to bright light.<br><strong>Water Required:</strong> Low; allow soil to dry fully between watering.<br><strong>Soil Condition:</strong> Very well-draining, gritty mix.<br><strong>Uses:</strong> Ornamental cactus for collections and xeriscaping.<br><strong>Special Features:</strong> Brilliant tubular flowers and strong architectural form.<br><strong>Age:</strong> 60 years",
+    "details": "Meet the vibrant Trichocereus huascha, the cactus that turns the desert into a festival! Native to Argentina, this clumping, columnar cactus grows in radiant clusters that sparkle under the sunlight. It’s easy to care for — it thrives in dry, gritty soil, basking happily under the sun with just a splash of water now and then. But come spring and summer, it steals the show — exploding with tubular flowers that light up the landscape in shades of red, orange, and pink. A breathtaking sight that transforms arid plains into bursts of color. Fun fact: The name huascha comes from an indigenous term meaning “poor” or “humble,” but don’t let that fool you — this cactus’s fiery blooms make it one of the most dazzling performers of the desert stage."
+  },
+  {
+    "id": "PLANT366",
+    "name": "Organ Pipe Cactus",
+    "botanical_name": "Marshallocereus thurberii",
+    "image_url": "assets/images/366.webp",
+    "description": "<strong>Botanical Name:</strong> Marshallocereus thurberii<br><strong>Common Name:</strong> Organ Pipe Cactus<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Mexico and the southwestern U.S.<br><strong>Growth Habit:</strong> Large shrub to tree-like, multi-stemmed columnar cactus with organ-pipe form branching at the base.<br><strong>Light Required:</strong> Full sun.<br><strong>Water Required:</strong> Low; drought-tolerant with occasional deep watering.<br><strong>Soil Condition:</strong> Deep, well-drained, rocky or sandy soils.<br><strong>Uses:</strong> Landscape cactus, wildlife habitat, and living fences.<br><strong>Special Features:</strong> Night-blooming flowers and grand stature.<br><strong>Age:</strong> 100 years",
+    "details": "Now, imagine walking through a desert canyon lined with green columns as tall as trees — that’s Marshallocereus thurberii, often called the organ-pipe cactus. With its multiple tall stems branching from the base, it creates a natural cathedral of spines and sunlight. It thrives in hot, dry climates, tolerating rocky soil and scorching sun with ease. Its roots dig deep to find hidden water, while its flowers bloom at night, inviting bats and moths for a nocturnal feast. And in the wild, this cactus becomes a living home — sheltering birds, insects, and reptiles within its arms. Fun fact: The organ-pipe cactus got its name because its tall, upright stems resemble the pipes of a grand church organ, and when the wind passes through them, it can even produce a soft, ghostly hum!"
+  },
+  {
+    "id": "PLANT367",
+    "name": "Mexican Fence Post Cactus",
+    "botanical_name": "Marginatocereus marginatus",
+    "image_url": "assets/images/367.webp",
+    "description": "<strong>Botanical Name:</strong> Marginatocereus marginatus<br><strong>Common Name:</strong> Mexican Fence Post Cactus<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Mexico<br><strong>Growth Habit:</strong> Columnar, branching with age, forming tall stems with distinct rib margins and pronounced areoles.<br><strong>Light Required:</strong> Full sun or bright light.<br><strong>Water Required:</strong> Low; drought-tolerant, water sparingly.<br><strong>Soil Condition:</strong> Well-draining, sandy or rocky soils.<br><strong>Uses:</strong> Architectural landscape cactus and living fence plant.<br><strong>Special Features:</strong> Distinct rib margins and vertical structure.<br><strong>Age:</strong> 120 years",
+    "details": "Sculpted by sun and wind, Marginatocereus marginatus stands like a piece of desert architecture — tall, angular, and breathtakingly symmetrical. Its ribbed stems and pronounced spine margins create bold shadows that shift with the day’s light. Found in arid landscapes, this cactus thrives on minimal water, drawing life from the sand beneath its feet. As it ages, it branches gracefully, forming clusters that seem almost designed by an artist’s hand. Landscapers love it for its dramatic, sculptural form, making it a centerpiece in modern desert gardens. Fun fact: Its name marginatus means “with margins” — a nod to its striking rib edges that catch sunlight so sharply, you could swear it’s glowing from within."
+  },
+  {
+    "id": "PLANT368",
+    "name": "Silver Torch Cactus / Woolly Torch Cactus",
+    "botanical_name": "Cleistocactus strausii",
+    "image_url": "assets/images/368.webp",
+    "description": "<strong>Botanical Name:</strong> Cleistocactus strausii<br><strong>Common Name:</strong> Silver Torch Cactus / Woolly Torch Cactus<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Bolivia (high-altitude Andes)<br><strong>Growth Habit:</strong> Slender, columnar cactus up to 3 m tall, densely covered with white hair-like spines and short central spines giving a silvery appearance.<br><strong>Light Required:</strong> Full sun or very bright light.<br><strong>Water Required:</strong> Low; water thoroughly only when dry.<br><strong>Soil Condition:</strong> Gritty, well-draining cactus mix with sand and pumice.<br><strong>Uses:</strong> Ornamental cactus for rock gardens and vertical displays.<br><strong>Special Features:</strong> Silvery stems and red tubular flowers in summer.<br><strong>Age:</strong> 80 years",
+    "details": "In the misty heights of the Bolivian Andes, the Cleistocactus strausii shines like a silver flame against the blue sky. Slender, tall, and covered in a soft, white wool, it’s no wonder it’s called the Silver Torch Cactus. Growing up to three meters tall, its shimmering columns seem to glow at sunrise, a living sculpture of frost and fire. Though it demands little — just bright sunlight and well-draining soil — it rewards you with brilliant red tubular flowers that burst from the upper stems like sparks in the snow. Resilient, elegant, and photogenic, it’s a favorite among collectors and dreamers alike. Fun fact: Despite its icy look, this cactus can survive brief chills down to -5°C — proving that sometimes, even the coolest characters have fiery hearts."
+  },
+  {
+    "id": "PLANT369",
+    "name": "Torch Cactus / Columnar Cleistocactus",
+    "botanical_name": "Cleistocactus (Genus)",
+    "image_url": "assets/images/369.webp",
+    "description": "<strong>Botanical Name:</strong> Cleistocactus (Genus)<br><strong>Common Name:</strong> Torch Cactus / Columnar Cleistocactus<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Andes region (Bolivia, Argentina, Peru)<br><strong>Growth Habit:</strong> Slender, ribbed, columnar cacti forming clusters from the base, with dense spination and occasional woolly covering.<br><strong>Light Required:</strong> Full sun or bright indirect light.<br><strong>Water Required:</strong> Low; water only when soil is dry.<br><strong>Soil Condition:</strong> Gritty, well-draining cactus mix with coarse sand or perlite.<br><strong>Uses:</strong> Ornamental cactus for collections and desert landscapes.<br><strong>Special Features:</strong> Bright tubular flowers and easy-care columnar form.<br><strong>Age:</strong> 70 years",
+    "details": "And finally, we meet the entire Cleistocactus clan, a family of slender, torch-like beauties native to the Andes of South America. Their tall, ribbed stems often shimmer in silver or gold, covered in countless spines that reflect the sunlight like tiny mirrors. Some species bloom with brightly colored, tubular flowers, standing like fireworks frozen in time. They thrive in full sun, rocky soil, and dry air, loving the challenge of life on the edge. Whether solitary or clustered, they bring vertical drama to any landscape, rising like flames from the earth. Fun fact: The name Cleistocactus comes from the Greek word kleistos, meaning “closed,” because its flowers never fully open — a clever design that perfectly fits the hummingbirds that pollinate them!"
+  },
+  {
+    "id": "PLANT370",
+    "name": "Old Man of the Andes Cactus / Woolly Mountain Cactus",
+    "botanical_name": "Oreocereus doelzianus",
+    "image_url": "assets/images/370.webp",
+    "description": "<strong>Botanical Name:</strong> Oreocereus doelzianus<br><strong>Common Name:</strong> Old Man of the Andes Cactus / Woolly Mountain Cactus<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Bolivia, Andes Mountains<br><strong>Growth Habit:</strong> Columnar cactus up to 2 m tall, covered with dense white woolly hairs and yellow to brown spines emerging from ribs.<br><strong>Light Required:</strong> Full sun or bright light.<br><strong>Water Required:</strong> Low; water only when soil is completely dry.<br><strong>Soil Condition:</strong> Gritty, mineral-rich, well-draining soil.<br><strong>Uses:</strong> Ornamental high-altitude cactus for collectors.<br><strong>Special Features:</strong> Thick white wool and crimson flowers near the apex.<br><strong>Age:</strong> 80 years",
+    "details": "High in the thin, cold air of the Bolivian Andes, where clouds kiss the mountain peaks, stands a cactus dressed for the occasion — the Oreocereus doelzianus, fondly called the Old Man of the Andes. Its tall, columnar body, cloaked in soft white woolly hairs, gives it a frosted look, as if the mountains themselves had carved it from snow. These silvery threads aren’t just for show — they protect the cactus from the fierce sun and chilling winds of the highlands. Beneath the fluff, its ribs hide golden spines, peeking through like sunlight breaking through clouds. It thrives in bright light, dry soil, and cool breezes, a true child of the peaks. Fun fact: Those dense white hairs don’t just make it photogenic — they act as natural sunscreen, reflecting ultraviolet light at altitudes where the sun burns brightest!"
+  },
+  {
+    "id": "PLANT371",
+    "name": "Old Man of the Andes / Celsianus Cactus",
+    "botanical_name": "Oreocereus celsianus",
+    "image_url": "assets/images/371.webp",
+    "description": "<strong>Botanical Name:</strong> Oreocereus celsianus<br><strong>Common Name:</strong> Old Man of the Andes / Celsianus Cactus<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Andes Mountains (Bolivia & Argentina)<br><strong>Growth Habit:</strong> Tall, columnar cactus (1–3 m) with white silky hairs and hidden yellow-brown spines beneath the wool.<br><strong>Light Required:</strong> Full sun or bright filtered light.<br><strong>Water Required:</strong> Low; avoid winter moisture.<br><strong>Soil Condition:</strong> Sandy, gritty cactus mix with excellent drainage.<br><strong>Uses:</strong> Ornamental woolly cactus prized for its frosted look.<br><strong>Special Features:</strong> Long white hairs, crimson flowers, frost tolerance.<br><strong>Age:</strong> 90 years",
+    "details": "Meet the Oreocereus celsianus, another wise elder of the Andes — wrapped in a silvery coat that glows like frost at dawn. This cactus stands tall and proud, reaching up to three meters, its stems glistening with silky white hairs that dance in the mountain breeze. Hidden beneath that soft fur lie golden spines — the cactus’s armor against both sun and snow. Despite the cold, it blossoms with crimson-red flowers at its crown, defying the harsh mountain winds with a burst of color. It’s a plant of paradox — both tough and tender, wild yet graceful. Fun fact: The locals once believed these “old man” cacti carried the wisdom of the mountains — their hairs symbolizing age and survival through centuries of storms."
+  },
+  {
+    "id": "PLANT372",
+    "name": "Mexican Giant Cardon / Elephant Cactus",
+    "botanical_name": "Pachycereus pringlei",
+    "image_url": "assets/images/372.webp",
+    "description": "<strong>Botanical Name:</strong> Pachycereus pringlei<br><strong>Common Name:</strong> Mexican Giant Cardon / Elephant Cactus<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Sonora & Baja California, Mexico<br><strong>Growth Habit:</strong> Massive, tree-like cactus reaching up to 18 m; thick ribbed stems forming candelabra shapes.<br><strong>Light Required:</strong> Full sunlight.<br><strong>Water Required:</strong> Very low; drought-tolerant.<br><strong>Soil Condition:</strong> Well-drained sandy or rocky soil.<br><strong>Uses:</strong> Landscape cactus and ecological keystone.<br><strong>Special Features:</strong> World’s largest cactus with nocturnal flowers and edible fruit.<br><strong>Age:</strong> 300 years",
+    "details": "Now we meet the undisputed giant of the cactus world — Pachycereus pringlei, also known as the Mexican Giant Cardon or Elephant Cactus. Towering up to 20 meters tall, this living skyscraper of the Sonoran Desert is nature’s masterpiece of endurance. With thick, ribbed trunks as wide as a man’s reach, it stores oceans of water in its flesh, thriving where rain is just a rumor. Its short, reddish-brown spines guard it like ancient armor, while at night, massive white flowers bloom — visited by bats on their moonlit rounds. Fun fact: The Giant Cardon holds the record as the largest cactus on Earth, and some individuals are estimated to be over 300 years old — true desert elders, standing as monuments to time itself."
+  },
+  {
+    "id": "PLANT373",
+    "name": "Comb Cactus / Hairbrush Cactus",
+    "botanical_name": "Pachycereus pecten-aboriginum",
+    "image_url": "assets/images/373.webp",
+    "description": "<strong>Botanical Name:</strong> Pachycereus pecten-aboriginum<br><strong>Common Name:</strong> Comb Cactus / Hairbrush Cactus<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Sonora & Sinaloa, Mexico<br><strong>Growth Habit:</strong> Large, columnar cactus up to 10 m tall with golden-yellow comb-like spines on ribbed stems.<br><strong>Light Required:</strong> Full sunlight.<br><strong>Water Required:</strong> Low; water sparingly during growth.<br><strong>Soil Condition:</strong> Sandy or rocky, well-draining mix.<br><strong>Uses:</strong> Ornamental cactus and desert landscape species.<br><strong>Special Features:</strong> Golden spines, nocturnal flowers, edible fruit.<br><strong>Age:</strong> 200 years",
+    "details": "In the shimmering heat of Mexico’s Sonoran plains grows a cactus so striking, it could be mistaken for a sculpture — the Pachycereus pecten-aboriginum, lovingly nicknamed the Comb Cactus. Its thick, towering columns are dressed with rows of golden-yellow spines, perfectly aligned like the bristles of a comb, glinting under the sun. It flourishes in open deserts, thriving on little water, as if it drinks straight from the sunlight. And when night falls, its white, nocturnal flowers open — elegant, silent, and fragrant — greeting the desert’s pollinators in moonlit secrecy. Fun fact: Its name pecten-aboriginum translates to “comb of the native people”, because ancient communities once used its dried spines as natural hairbrushes — proof that even the harsh desert grows its own tools!"
+  },
+  {
+    "id": "PLANT374",
+    "name": "Haageocereus / Columnar Desert Cactus",
+    "botanical_name": "Haageocereus (Genus)",
+    "image_url": "assets/images/374.webp",
+    "description": "<strong>Botanical Name:</strong> Haageocereus (Genus)<br><strong>Common Name:</strong> Haageocereus / Columnar Desert Cactus<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Peru and Northern Chile<br><strong>Growth Habit:</strong> Columnar cactus 0.3–3 m tall with slender to moderately thick stems and dense spination or hair covering.<br><strong>Light Required:</strong> Full sun or bright light.<br><strong>Water Required:</strong> Low; drought-tolerant.<br><strong>Soil Condition:</strong> Gritty, mineral-based, well-draining soil.<br><strong>Uses:</strong> Ornamental and architectural desert cactus.<br><strong>Special Features:</strong> Tubular, funnel-shaped flowers near stem tops.<br><strong>Age:</strong> 90 years",
+    "details": "From the sunburnt valleys of Peru and Chile rises a quiet hero — the Haageocereus, a genus of columnar cacti known for their resilience and elegant form. Standing slender and tall, some reaching up to three meters, these cacti are wrapped in rows of spines that shimmer gold or silver in the light. They love the full sun, the rocky ground, and the whisper of the mountain wind. In summer, they surprise the patient grower with tubular flowers that bloom near the crown — soft, fleeting, and utterly magical. Fun fact: Some species of Haageocereus wear tiny hairy coats not just for show — they help trap warm air around the plant, acting like nature’s own thermal jacket against the Andean chill!"
+  },
+  {
+    "id": "PLANT375",
+    "name": "Peanut Cactus / Chamaecereus Cactus",
+    "botanical_name": "Chamaecereus silvestrii",
+    "image_url": "assets/images/375.webp",
+    "description": "<strong>Botanical Name:</strong> Chamaecereus silvestrii<br><strong>Common Name:</strong> Peanut Cactus / Chamaecereus Cactus<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Northwestern Argentina<br><strong>Growth Habit:</strong> Low, clumping cactus with finger-like stems forming dense mats up to 30 cm wide.<br><strong>Light Required:</strong> Full sun to partial shade.<br><strong>Water Required:</strong> Low; allow soil to dry before watering.<br><strong>Soil Condition:</strong> Gritty, well-draining cactus mix.<br><strong>Uses:</strong> Ornamental groundcover cactus or container specimen.<br><strong>Special Features:</strong> Bright red-orange flowers and compact form.<br><strong>Age:</strong> 50 years",
+    "details": "Bright, cheerful, and full of charm — say hello to Chamaecereus silvestrii, the beloved Peanut Cactus! Native to Argentina’s rocky hillsides, it forms clusters of finger-like stems, each one reaching up like tiny green candles waving in the sun. Its body may be small, but its personality bursts forth in spring, when it erupts in vibrant red-orange flowers, turning into a living firework show. It’s playful, fast-growing, and delightfully low-maintenance — a favorite among cactus lovers worldwide. Fun fact: Because of its shape and easy propagation, it’s nicknamed the “friendship cactus” — gardeners often gift cuttings to friends, spreading joy one little “finger” at a time!"
+  },
+  {
+    "id": "PLANT376",
+    "name": "Agave Cactus / Prickly Lily Cactus",
+    "botanical_name": "Leuchtenbergia principis",
+    "image_url": "assets/images/376.webp",
+    "description": "<strong>Botanical Name:</strong> Leuchtenbergia principis<br><strong>Common Name:</strong> Agave Cactus / Prickly Lily Cactus<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Northern Mexico (Chihuahua & Coahuila)<br><strong>Growth Habit:</strong> Solitary, rosette-forming cactus up to 30 cm tall with long, triangular tubercles resembling agave leaves.<br><strong>Light Required:</strong> Full sun or bright light.<br><strong>Water Required:</strong> Low; allow full drying between watering.<br><strong>Soil Condition:</strong> Gritty, sandy, well-draining soil.<br><strong>Uses:</strong> Ornamental cactus for rock gardens and collectors.<br><strong>Special Features:</strong> Spiral tubercles and greenish-white flowers at center.<br><strong>Age:</strong> 80 years",
+    "details": "At first glance, you might think this isn’t a cactus at all — but a small agave! Meet Leuchtenbergia principis, the Agave Cactus of northern Mexico. Its long, triangular tubercles fan out in a spiral rosette, each tipped with delicate spines that shimmer like desert jewelry. Slow-growing and regal, it’s one of nature’s optical illusions — blending the form of a succulent with the soul of a cactus. When it blooms, it sends forth greenish-white flowers from the crown, standing tall like a desert prince greeting the sun. Fun fact: This cactus is sometimes called the “Prickly Lily” — not just for its shape, but because its flowers open and close daily, just like lilies greeting the dawn!"
+  },
+  {
+    "id": "PLANT377",
+    "name": "Angel Wings",
+    "botanical_name": "Opuntia microdasys albata",
+    "image_url": "assets/images/377.webp",
+    "description": "<strong>Botanical Name:</strong> Opuntia microdasys albata<br><strong>Common Name:</strong> Angel Wings<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Mexico<br><strong>Growth Habit:</strong> Low, branching cactus 60 cm tall with flat, oval pads covered in white, hair-like glochids.<br><strong>Light Required:</strong> Full sunlight.<br><strong>Water Required:</strong> Low; allow soil to dry completely between watering.<br><strong>Soil Condition:</strong> Gritty, well-draining mix.<br><strong>Uses:</strong> Ornamental cactus for containers and landscapes.<br><strong>Special Features:</strong> Yellow flowers, edible red fruits, and dense white glochids.<br><strong>Age:</strong> 70 years",
+    "details": "Soft, charming, and deceptively sweet — the Opuntia microdasys albata, or Angel Wings Cactus, is one of nature’s most photogenic creations. Its flat, oval pads resemble delicate bunny ears, covered in tiny white dots called glochids that shimmer like stardust. But don’t be fooled — these hair-like bristles detach easily and can irritate the skin! Still, its appeal is undeniable: golden yellow flowers bloom in summer, followed by red, edible fruits that add a dash of color to its elegance. It’s compact, bright, and full of character — the angel of the cactus world, with just a hint of mischief. Fun fact: Despite being nicknamed Angel Wings, gardeners know it as the “cute but tricky cactus” — because one wrong touch, and those tiny glochids will remind you just how sassy angels can be!"
+  },
+  {
+    "id": "PLANT378",
+    "name": "Agave Cactus / Prickly Lily Cactus",
+    "botanical_name": "Leuchtenbergia principis",
+    "image_url": "assets/images/378.webp",
+    "description": "<strong>Botanical Name:</strong> Leuchtenbergia principis<br><strong>Common Name:</strong> Agave Cactus / Prickly Lily Cactus<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Northern Mexico (Chihuahua & Coahuila)<br><strong>Growth Habit:</strong> Solitary, rosette-forming cactus up to 30 cm tall with long, triangular tubercles resembling agave leaves.<br><strong>Light Required:</strong> Full sun or bright light.<br><strong>Water Required:</strong> Low; allow full drying between watering.<br><strong>Soil Condition:</strong> Gritty, sandy, well-draining soil.<br><strong>Uses:</strong> Ornamental cactus for rock gardens and collectors.<br><strong>Special Features:</strong> Spiral tubercles and greenish-white flowers at center.<br><strong>Age:</strong> 80 years",
+    "details": "At first glance, you might think this isn’t a cactus at all — but a small agave! Meet Leuchtenbergia principis, the Agave Cactus of northern Mexico. Its long, triangular tubercles fan out in a spiral rosette, each tipped with delicate spines that shimmer like desert jewelry. Slow-growing and regal, it’s one of nature’s optical illusions — blending the form of a succulent with the soul of a cactus. When it blooms, it sends forth greenish-white flowers from the crown, standing tall like a desert prince greeting the sun. Fun fact: This cactus is sometimes called the “Prickly Lily” — not just for its shape, but because its flowers open and close daily, just like lilies greeting the dawn!"
+  },
+  {
+    "id": "PLANT379",
+    "name": "Blind Prickly Pear / Red-Spined Prickly Pear",
+    "botanical_name": "Opuntia rufida",
+    "image_url": "assets/images/379.webp",
+    "description": "<strong>Botanical Name:</strong> Opuntia rufida<br><strong>Common Name:</strong> Blind Prickly Pear / Red-Spined Prickly Pear<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Northern Mexico<br><strong>Growth Habit:</strong> Shrubby, clumping cactus up to 2 m tall with bluish-green pads covered in reddish-brown glochids.<br><strong>Light Required:</strong> Full sunlight.<br><strong>Water Required:</strong> Low; allow soil to dry between watering.<br><strong>Soil Condition:</strong> Sandy or gritty, well-draining soil.<br><strong>Uses:</strong> Ornamental cactus and natural barrier plant.<br><strong>Special Features:</strong> Reddish glochids, yellow flowers, and edible fruits.<br><strong>Age:</strong> 80 years",
+    "details": "Last but never least, meet the fiery Opuntia rufida, the Red-Spined Prickly Pear — a cactus that wears the desert’s sunset on its skin. Its bluish-green pads are dusted with tiny rust-colored glochids, glowing red in the light like embers of a fading fire. It grows wide and proud, forming dense hedges that both beautify and protect. In spring, it blooms with bright yellow flowers, followed by edible fruits that shine like rubies. Rugged, wild, and fiercely beautiful — it’s the cactus that guards the desert’s edge. Fun fact: Despite its beauty, ranchers once called it the “blind prickly pear,” because its fine glochids could irritate animals’ eyes — a dramatic reminder that even beauty has its boundaries!"
+  },
+  {
+    "id": "PLANT380",
+    "name": "Drooping Prickly Pear / Cochineal Cactus",
+    "botanical_name": "Opuntia monacantha",
+    "image_url": "assets/images/380.webp",
+    "description": "<strong>Botanical Name:</strong> Opuntia monacantha<br><strong>Common Name:</strong> Drooping Prickly Pear / Cochineal Cactus<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> South America (Argentina, Uruguay, Brazil)<br><strong>Growth Habit:</strong> Shrubby cactus up to 3 m tall; bluish-green pads with sparse spines and drooping branches forming clusters.<br><strong>Light Required:</strong> Full sunlight.<br><strong>Water Required:</strong> Low; water only when soil is completely dry.<br><strong>Soil Condition:</strong> Sandy or gritty, well-draining mix.<br><strong>Uses:</strong> Ornamental cactus for rock gardens, hedges, and xeriscaping.<br><strong>Special Features:</strong> Yellow flowers, edible fruits, cascading pad growth.<br><strong>Age:</strong> 90 years",
+    "details": "Among the sunlit plains of South America grows a cactus with a touch of elegance — the Opuntia monacantha, fondly called the Drooping Prickly Pear. This tall, sprawling shrub can reach up to three meters, its oval, bluish-green pads cascading downward like a living chandelier of the desert. Over time, it forms dense thickets that sway gently in the wind, catching sunlight on their glossy surfaces. In spring, it bursts into golden-yellow blooms, a striking contrast to the green sea of its pads. Hardy, sculptural, and full of personality — it thrives on heat, light, and freedom. Fun fact: The cochineal insects that sometimes inhabit its pads were once used to create the world’s most valuable natural red dye — the same pigment that colored royal robes and ancient art!"
+  },
+  {
+    "id": "PLANT381",
+    "name": "Bunny Ear Cactus / Polka-Dot Cactus",
+    "botanical_name": "Opuntia microdasys",
+    "image_url": "assets/images/381.webp",
+    "description": "<strong>Botanical Name:</strong> Opuntia microdasys<br><strong>Common Name:</strong> Bunny Ear Cactus / Polka-Dot Cactus<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Central Mexico<br><strong>Growth Habit:</strong> Clumping cactus up to 60 cm tall with flat, oval pads covered in golden or white glochids forming dot patterns.<br><strong>Light Required:</strong> Full sunlight or bright indirect light.<br><strong>Water Required:</strong> Low; allow soil to dry fully between watering.<br><strong>Soil Condition:</strong> Gritty, fast-draining cactus mix.<br><strong>Uses:</strong> Decorative indoor/outdoor cactus for containers and rock gardens.<br><strong>Special Features:</strong> Bunny ear pad structure, yellow flowers, drought tolerance.<br><strong>Age:</strong> 60 years",
+    "details": "Charming, compact, and downright adorable — meet Opuntia microdasys, better known as the Bunny Ear Cactus. Native to Mexico, this little beauty grows in pairs of pads that look just like a rabbit’s ears, sprinkled with tiny golden or white dots of glochids that shimmer like starlight. Though it looks soft and fluffy, those little dots can sting — a playful trick by nature! It thrives in full sun, dry soil, and minimal water, perfect for a cozy windowsill garden. Fun fact: Its unique spotted look earned it the nickname “Polka-Dot Cactus,” and NASA even once studied it to understand how desert plants adapt to extreme dryness — this cute cactus is tougher than it looks!"
+  },
+  {
+    "id": "PLANT382",
+    "name": "Brazilian Prickly Pear / Brasiliensis Cactus",
+    "botanical_name": "Opuntia brasiliensis",
+    "image_url": "assets/images/382.webp",
+    "description": "<strong>Botanical Name:</strong> Opuntia brasiliensis<br><strong>Common Name:</strong> Brazilian Prickly Pear / Brasiliensis Cactus<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Brazil, Paraguay, Uruguay<br><strong>Growth Habit:</strong> Shrubby cactus 2–3 m tall; elongated bluish-green pads with short spines and glochids.<br><strong>Light Required:</strong> Full sunlight.<br><strong>Water Required:</strong> Low; water sparingly and allow drying between watering.<br><strong>Soil Condition:</strong> Sandy, well-draining mix.<br><strong>Uses:</strong> Ornamental and hedge cactus for xeriscaping.<br><strong>Special Features:</strong> Yellow flowers, edible fruits, dense growth habit.<br><strong>Age:</strong> 100 years",
+    "details": "From the rugged coasts of Brazil and Uruguay rises the resilient Opuntia brasiliensis, a cactus that loves to sprawl wide and wild. Its oval pads, tinged in blue-green hues, stretch across the landscape, forming dense green networks alive with sunlight. When spring comes, bright yellow flowers burst along its stems, turning the dry plains into a painter’s dream. Its fruits, small and edible, once served as a sweet treat for desert travelers. Hardy, low-maintenance, and unshakable — it’s a cactus that thrives where others fade. Fun fact: The brasiliensis has been used for centuries as a natural living fence — farmers discovered that its dense pads could keep both animals out and beauty in!"
+  },
+  {
+    "id": "PLANT383",
+    "name": "Eve’s Needle / Javelin Cactus",
+    "botanical_name": "Opuntia subulata",
+    "image_url": "assets/images/383.webp",
+    "description": "<strong>Botanical Name:</strong> Opuntia subulata<br><strong>Common Name:</strong> Eve’s Needle / Javelin Cactus<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Argentina<br><strong>Growth Habit:</strong> Tall, columnar cactus up to 5 m with cylindrical branches and long sharp spines.<br><strong>Light Required:</strong> Full sunlight.<br><strong>Water Required:</strong> Low; drought-tolerant.<br><strong>Soil Condition:</strong> Well-draining, gritty cactus soil.<br><strong>Uses:</strong> Ornamental cactus for rock gardens and barriers.<br><strong>Special Features:</strong> Yellow flowers near branch tips, striking vertical structure.<br><strong>Age:</strong> 120 years",
+    "details": "Standing tall and fearless in Argentina’s dry hills, Opuntia subulata, or Eve’s Needle, pierces the sky with long, sword-like spines that gleam under the sun. Its upright branches can grow over five meters, forming grand, columnar towers that guard the desert like spears of nature. Despite its fierce appearance, it’s a gentle giant — drought-tolerant, easy to grow, and adorned with sunny yellow blooms near its tips. It’s both a protector and a showpiece — powerful, sculptural, and timeless. Fun fact: In ancient folklore, the locals believed that placing an Eve’s Needle near your home would ward off evil spirits and attract strength, thanks to its sharp, sky-pointing spines!"
+  },
+  {
+    "id": "PLANT384",
+    "name": "Eve’s Needle / Columnar Javelin Cactus",
+    "botanical_name": "Opuntia subulata",
+    "image_url": "assets/images/384.webp",
+    "description": "<strong>Botanical Name:</strong> Opuntia subulata<br><strong>Common Name:</strong> Eve’s Needle / Columnar Javelin Cactus<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Argentina<br><strong>Growth Habit:</strong> Columnar cactus up to 5 m tall; upright spiny stems form basal clusters as it matures.<br><strong>Light Required:</strong> Full sunlight.<br><strong>Water Required:</strong> Low; allow soil to dry completely before watering.<br><strong>Soil Condition:</strong> Sandy, fast-draining mix.<br><strong>Uses:</strong> Ornamental cactus for landscaping and fencing.<br><strong>Special Features:</strong> Long protective spines, upright columnar shape, yellow blooms.<br><strong>Age:</strong> 100 years",
+    "details": "Behold the columnar Opuntia subulata, the bolder cousin of Eve’s Needle. Its upright, spiny stems stretch heavenward like pillars of strength, each one glinting with golden armor. A natural fortress in itself, it was born to thrive under fierce sunlight and endless drought. Come summer, it gifts the desert with delicate yellow blossoms that soften its bold frame — a perfect harmony of strength and grace. Fun fact: This cactus grows so tough and fast that it’s often used in eco-restoration projects to fight desert erosion — a true guardian of the land."
+  },
+  {
+    "id": "PLANT385",
+    "name": "Cylindrical Prickly Pear / Columnar Opuntia",
+    "botanical_name": "Opuntia cylindrica",
+    "image_url": "assets/images/385.webp",
+    "description": "<strong>Botanical Name:</strong> Opuntia cylindrica<br><strong>Common Name:</strong> Cylindrical Prickly Pear / Columnar Opuntia<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Mexico<br><strong>Growth Habit:</strong> Columnar cactus 2–3 m tall with bluish-green cylindrical stems and small glochids.<br><strong>Light Required:</strong> Full sunlight.<br><strong>Water Required:</strong> Low; water only when soil is dry.<br><strong>Soil Condition:</strong> Gritty, well-draining cactus mix.<br><strong>Uses:</strong> Ornamental cactus for rock gardens and containers.<br><strong>Special Features:</strong> Yellow to orange flowers, dense vertical growth.<br><strong>Age:</strong> 80 years",
+    "details": "The Opuntia cylindrica is nature’s take on desert architecture — slender, vertical, and sculpted by sunlight. Its cylindrical stems, covered in fine spines and golden glochids, rise like ancient totems from the sand. Over time, it forms dense thickets, each column catching the warm glow of dawn and dusk. Its blooms — yellow to orange — add a spark of fire to the landscape, proof that life always finds a way to flourish. Fun fact: In its native Mexico, this cactus is often planted along roadsides as a natural green fence, strong enough to deter animals yet stunning enough to steal the show!"
+  },
+  {
+    "id": "PLANT386",
+    "name": "Velvet Prickly Pear / Woolly Prickly Pear",
+    "botanical_name": "Opuntia vestita",
+    "image_url": "assets/images/386.webp",
+    "description": "<strong>Botanical Name:</strong> Opuntia vestita<br><strong>Common Name:</strong> Velvet Prickly Pear / Woolly Prickly Pear<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Northern Mexico<br><strong>Growth Habit:</strong> Shrubby, clumping cactus up to 2 m tall with bluish-green pads covered in white or gray hairs.<br><strong>Light Required:</strong> Full sunlight.<br><strong>Water Required:</strong> Low; water sparingly when soil is completely dry.<br><strong>Soil Condition:</strong> Sandy, well-drained soil mix.<br><strong>Uses:</strong> Ornamental cactus for rock gardens and containers.<br><strong>Special Features:</strong> Velvety pads, yellow flowers, soft-textured form.<br><strong>Age:</strong> 75 years",
+    "details": "Soft, silvery, and elegant — the Opuntia vestita, or Velvet Prickly Pear, looks like it’s wearing a coat spun from moonlight. Its pads shimmer with fine, white hairs, giving it a soft, touchable texture (though don’t be fooled — the spines still bite!). Under the blazing sun, it grows strong and compact, forming silvery clusters that look magical at sunset. When it blooms, golden-yellow flowers crown it like jewels. Fun fact: Those fuzzy hairs aren’t just for looks — they help the cactus trap cool air and reflect sunlight, acting like a natural desert air conditioner!"
+  },
+  {
+    "id": "PLANT387",
+    "name": "Variegated Drooping Prickly Pear / Variegated Cochineal Cactus",
+    "botanical_name": "Opuntia monacantha var. variegata",
+    "image_url": "assets/images/387.webp",
+    "description": "<strong>Botanical Name:</strong> Opuntia monacantha var. variegata<br><strong>Common Name:</strong> Variegated Drooping Prickly Pear / Variegated Cochineal Cactus<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> South America (Argentina, Uruguay, Brazil)<br><strong>Growth Habit:</strong> Shrubby cactus up to 3 m tall with variegated pads in green, cream, and yellow tones.<br><strong>Light Required:</strong> Full sunlight or bright light.<br><strong>Water Required:</strong> Low; water only when dry.<br><strong>Soil Condition:</strong> Gritty, fast-draining cactus mix.<br><strong>Uses:</strong> Ornamental variegated cactus for decorative landscapes.<br><strong>Special Features:</strong> Variegated pads, yellow flowers, cascading form.<br><strong>Age:</strong> 70 years",
+    "details": "Now here’s a cactus that could double as living art — the Variegated Drooping Prickly Pear. With its pads marbled in shades of green, cream, and yellow, it’s as if sunlight itself painted across its surface. Over time, its stems bend and cascade, creating a sculptural dance of color and texture. Its blooms are golden and bright, turning it into a symphony of warmth and light. Fun fact: Because of its brilliant colors, this cactus is known among collectors as “Nature’s Abstract Painting” — no two plants ever share the same pattern!"
+  },
+  {
+    "id": "PLANT388",
+    "name": "Crested Velvet Prickly Pear / Cristate Velvet Cactus",
+    "botanical_name": "Opuntia vestita f. cristata",
+    "image_url": "assets/images/388.webp",
+    "description": "<strong>Botanical Name:</strong> Opuntia vestita f. cristata<br><strong>Common Name:</strong> Crested Velvet Prickly Pear / Cristate Velvet Cactus<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Northern Mexico<br><strong>Growth Habit:</strong> Crested, fan-shaped pads forming sculptural clusters; bluish-green surface with white hairs.<br><strong>Light Required:</strong> Full sun or bright light.<br><strong>Water Required:</strong> Low; water sparingly and allow complete drying.<br><strong>Soil Condition:</strong> Sandy, gritty, well-drained soil.<br><strong>Uses:</strong> Ornamental collector’s cactus prized for its crested form.<br><strong>Special Features:</strong> Wavy crests, yellow blooms, soft woolly texture.<br><strong>Age:</strong> 60 years",
+    "details": "Prepare to be mesmerized — the Crested Velvet Prickly Pear is nature’s sculpture in motion. Unlike ordinary cacti, this one grows in wavy, fan-like forms, creating ripples that look almost alive. Its soft white hairs catch the sunlight, glowing silver against the desert’s gold. It’s a true showstopper — unique, artistic, and endlessly fascinating. Fun fact: “Cresting” happens when a plant’s growth tip mutates and starts dividing sideways — a rare and random event that turns ordinary cacti into living, growing sculptures!"
+  },
+  {
+    "id": "PLANT389",
+    "name": "Crested Cylindrical Prickly Pear / Cristate Opuntia",
+    "botanical_name": "Opuntia cylindrica f. cristata",
+    "image_url": "assets/images/389.webp",
+    "description": "<strong>Botanical Name:</strong> Opuntia cylindrica f. cristata<br><strong>Common Name:</strong> Crested Cylindrical Prickly Pear / Cristate Opuntia<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Mexico<br><strong>Growth Habit:</strong> Crested, columnar cactus up to 3 m tall with wavy, fan-like stems and small spines.<br><strong>Light Required:</strong> Full sunlight.<br><strong>Water Required:</strong> Low; drought-tolerant.<br><strong>Soil Condition:</strong> Gritty, well-draining cactus mix.<br><strong>Uses:</strong> Ornamental cactus for collectors and artistic landscapes.<br><strong>Special Features:</strong> Unique crested stem pattern and yellow-orange flowers.<br><strong>Age:</strong> 80 years",
+    "details": "Meet the Crested Cylindrical Prickly Pear, a cactus that looks like the desert decided to make waves! Its cylindrical stems twist and fan in mesmerizing shapes, every curve a masterpiece of motion frozen in time. The blue-green body and golden spines add texture and brilliance to its graceful, cresting form. It’s hardy, elegant, and a conversation piece wherever it grows. Fun fact: Garden designers often call this cactus “the Picasso of plants,” because every crested specimen grows into a completely unique shape — no two are ever alike!"
+  },
+  {
+    "id": "PLANT390",
+    "name": "Herfeld’s Prickly Pear / Herfeld Cactus",
+    "botanical_name": "Opuntia herfeldii",
+    "image_url": "assets/images/390.webp",
+    "description": "<strong>Botanical Name:</strong> Opuntia herfeldii<br><strong>Common Name:</strong> Herfeld’s Prickly Pear / Herfeld Cactus<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Mexico<br><strong>Growth Habit:</strong> Shrubby, clumping cactus up to 2 m tall with oval, bluish-green pads covered with small spines and glochids.<br><strong>Light Required:</strong> Full sunlight.<br><strong>Water Required:</strong> Low; water only when soil is dry.<br><strong>Soil Condition:</strong> Gritty, well-draining mix with sand and pumice.<br><strong>Uses:</strong> Ornamental cactus for rock gardens and xeriscaping.<br><strong>Special Features:</strong> Yellow spring flowers, clustered pads, drought tolerance.<br><strong>Age:</strong> 80 years",
+    "details": "From the arid lands of Mexico comes the humble yet beautiful Opuntia herfeldii. With its oval, blue-green pads and tiny golden spines, it forms dense, glowing clusters that spread like nature’s own carpet. In spring, it awakens with yellow blossoms, soft as sunlight and bright as joy. This cactus is compact, charming, and wonderfully reliable — the kind that thrives quietly but leaves a lasting impression. Fun fact: Opuntia herfeldii pads are so adaptive that even when one falls off, it can root itself into the soil and grow a brand-new plant — talk about resilience!"
+  },
+  {
+    "id": "PLANT391",
+    "name": "Dwarf Blind Prickly Pear / Minor Red-Spined Prickly Pear",
+    "botanical_name": "Opuntia rufida var. minor",
+    "image_url": "assets/images/391.webp",
+    "description": "<strong>Botanical Name:</strong> Opuntia rufida var. minor<br><strong>Common Name:</strong> Dwarf Blind Prickly Pear / Minor Red-Spined Prickly Pear<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Northern Mexico<br><strong>Growth Habit:</strong> Compact, clumping cactus 50–80 cm tall with small pads densely covered in reddish-brown glochids.<br><strong>Light Required:</strong> Full sunlight.<br><strong>Water Required:</strong> Low; allow complete drying between waterings.<br><strong>Soil Condition:</strong> Sandy or gritty, fast-draining cactus mix.<br><strong>Uses:</strong> Ornamental cactus for small gardens and containers.<br><strong>Special Features:</strong> Red glochids, yellow flowers, compact habit.<br><strong>Age:</strong> 70 years",
+    "details": "Small in size but fiery in spirit — the Opuntia rufida minor, or Dwarf Red-Spined Prickly Pear, is the spark of the desert! Its compact bluish-green pads glow with tiny, red-brown glochids, making it look like it’s blushing under the sun. Perfect for small gardens and containers, it stands proud despite its petite frame, often bursting into yellow blooms in early summer. Fun fact: Its fiery glochids inspired its nickname “the cactus with freckles of fire” — a true symbol of beauty and strength in miniature form!"
+  },
+  {
+    "id": "PLANT392",
+    "name": "Crested Bunny Ear Cactus / Cristate Polka-Dot Cactus",
+    "botanical_name": "Opuntia microdasys f. cristata",
+    "image_url": "assets/images/392.webp",
+    "description": "<strong>Botanical Name:</strong> Opuntia microdasys f. cristata<br><strong>Common Name:</strong> Crested Bunny Ear Cactus / Cristate Polka-Dot Cactus<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Mexico<br><strong>Growth Habit:</strong> Crested, clumping cactus 45–60 cm tall with wavy, fan-like pads covered in golden or white glochids.<br><strong>Light Required:</strong> Full sunlight.<br><strong>Water Required:</strong> Low; water sparingly, allow full drying.<br><strong>Soil Condition:</strong> Gritty, well-draining cactus mix.<br><strong>Uses:</strong> Ornamental cactus for collections and display pieces.<br><strong>Special Features:</strong> Fan-shaped pads, compact crested growth, yellow flowers.<br><strong>Age:</strong> 65 years",
+    "details": "Now imagine your classic Bunny Ear Cactus, but with a twist — literally! The Crested Opuntia microdasys takes the familiar polka-dot pads and warps them into graceful, fan-like waves, each one different and alive. Covered in soft white glochids, it’s a blend of cuteness and sophistication, a showpiece in any cactus collection. Fun fact: Gardeners say this cactus is “born from a glitch and blessed with beauty” — because cresting is a rare natural mutation that turns ordinary growth into extraordinary art."
+  },
+  {
+    "id": "PLANT393",
+    "name": "Dwarf Crested Cylindrical Prickly Pear / Minor Cristate Opuntia",
+    "botanical_name": "Opuntia cylindrica var. minor f. cristata",
+    "image_url": "assets/images/393.webp",
+    "description": "<strong>Botanical Name:</strong> Opuntia cylindrica var. minor f. cristata<br><strong>Common Name:</strong> Dwarf Crested Cylindrical Prickly Pear / Minor Cristate Opuntia<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Mexico<br><strong>Growth Habit:</strong> Dwarf, crested cactus up to 1.5 m tall with wavy cylindrical stems covered with fine glochids and spines.<br><strong>Light Required:</strong> Full sunlight.<br><strong>Water Required:</strong> Low; water only when soil is dry.<br><strong>Soil Condition:</strong> Gritty, porous, well-drained cactus mix.<br><strong>Uses:</strong> Collector’s cactus and sculptural ornamental specimen.<br><strong>Special Features:</strong> Compact crested stems, yellow-orange flowers, drought tolerance.<br><strong>Age:</strong> 70 years",
+    "details": "Small, elegant, and mesmerizing — the Dwarf Crested Cylindrical Prickly Pear is proof that art can bloom even in the harshest desert. Its blue-green stems curve and fold like ribbons of stone, each topped with golden spines that shimmer in sunlight. It’s compact yet majestic, ideal for containers or rocky gardens where its sculptural form truly shines. Fun fact: Every crest tells a story — experts say each ripple records a shift in the plant’s growth rhythm, like tree rings showing the cactus’s life history."
+  },
+  {
+    "id": "PLANT394",
+    "name": "Moeller’s Tephrocactus / Bunny Cone Cactus",
+    "botanical_name": "Tephrocactus moelleriana",
+    "image_url": "assets/images/394.webp",
+    "description": "<strong>Botanical Name:</strong> Tephrocactus moelleriana<br><strong>Common Name:</strong> Moeller’s Tephrocactus / Bunny Cone Cactus<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Argentina<br><strong>Growth Habit:</strong> Small segmented cactus up to 50 cm tall; cylindrical segments forming compact clusters.<br><strong>Light Required:</strong> Full sunlight.<br><strong>Water Required:</strong> Low; water only when dry.<br><strong>Soil Condition:</strong> Sandy, well-draining soil with perlite or pumice.<br><strong>Uses:</strong> Ornamental cactus for containers and rock gardens.<br><strong>Special Features:</strong> Segmented body, small yellow flowers, jointed form.<br><strong>Age:</strong> 50 years",
+    "details": "Cute, quirky, and full of charm — meet Tephrocactus moelleriana, a small cactus from Argentina that looks like a pile of stacked green cones! Its segments are detachable — one bump falls, another begins, creating endless new life. Despite its small stature, it’s a survivor of the driest lands, and in summer, it crowns itself with delicate yellow blooms. Fun fact: This cactus’s joints can detach and roll with the wind, rooting wherever they land — it’s nature’s way of saying, “If you can’t walk, roll!”"
+  },
+  {
+    "id": "PLANT395",
+    "name": "Paper Spine Cactus / Jointed Tephrocactus",
+    "botanical_name": "Tephrocactus articulatus var. inermis",
+    "image_url": "assets/images/395.webp",
+    "description": "<strong>Botanical Name:</strong> Tephrocactus articulatus var. inermis<br><strong>Common Name:</strong> Paper Spine Cactus / Jointed Tephrocactus<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Argentina<br><strong>Growth Habit:</strong> Segmented cactus up to 50 cm tall; bluish-green cylindrical joints, spineless or with short papery spines.<br><strong>Light Required:</strong> Full sunlight.<br><strong>Water Required:</strong> Low; drought-tolerant, minimal watering.<br><strong>Soil Condition:</strong> Gritty, fast-draining soil.<br><strong>Uses:</strong> Ornamental cactus for rock gardens and pots.<br><strong>Special Features:</strong> Smooth jointed form and yellow flowers at tips.<br><strong>Age:</strong> 55 years",
+    "details": "Smooth, elegant, and slightly mysterious, the Paper Spine Cactus stands apart with its nearly spineless joints, each shaped like green beads strung together. Native to Argentina, it grows in clusters, its silvery skin glowing in the sunlight. In spring, it blooms with tiny golden flowers, delicate against its sculptural form. Fun fact: The name “articulatus” means “jointed,” and yes — each segment easily detaches to start a new cactus elsewhere, making this plant a true traveler of the sands."
+  },
+  {
+    "id": "PLANT396",
+    "name": "Paper-Spined Tephrocactus / Jointed Paper Spine Cactus",
+    "botanical_name": "Tephrocactus articulatus ssp. papyracanthus",
+    "image_url": "assets/images/396.webp",
+    "description": "<strong>Botanical Name:</strong> Tephrocactus articulatus ssp. papyracanthus<br><strong>Common Name:</strong> Paper-Spined Tephrocactus / Jointed Paper Spine Cactus<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Argentina<br><strong>Growth Habit:</strong> Segmented, clumping cactus up to 50 cm tall; joints covered with white to yellow papery spines.<br><strong>Light Required:</strong> Full sunlight.<br><strong>Water Required:</strong> Low; water only when dry.<br><strong>Soil Condition:</strong> Gritty, well-draining cactus mix.<br><strong>Uses:</strong> Ornamental and collector’s cactus.<br><strong>Special Features:</strong> Decorative papery spines and small yellow flowers.<br><strong>Age:</strong> 60 years",
+    "details": "Imagine a cactus covered not in spines, but in papery, translucent ribbons that flutter in the wind — that’s Tephrocactus papyracanthus, the Paper-Spined Cactus. Its joints are stacked like smooth stones, each one topped with delicate white “spines” that look like parchment wings. In the breeze, it seems to shimmer — fragile yet enduring. Fun fact: Those feather-like spines are actually modified defensive tools, designed to break off easily and distract grazing animals — beauty with a brilliant purpose!"
+  },
+  {
+    "id": "PLANT397",
+    "name": "White Bunny Ear Cactus / Albida Polka-Dot Cactus",
+    "botanical_name": "Opuntia microdasys var. albida",
+    "image_url": "assets/images/397.webp",
+    "description": "<strong>Botanical Name:</strong> Opuntia microdasys var. albida<br><strong>Common Name:</strong> White Bunny Ear Cactus / Albida Polka-Dot Cactus<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Mexico<br><strong>Growth Habit:</strong> Clumping cactus 45–60 cm tall with oval pads covered in dense white glochids.<br><strong>Light Required:</strong> Full sunlight or bright indirect light.<br><strong>Water Required:</strong> Low; water sparingly when soil is dry.<br><strong>Soil Condition:</strong> Gritty, well-draining cactus mix.<br><strong>Uses:</strong> Ornamental indoor/outdoor cactus for displays.<br><strong>Special Features:</strong> Dense white glochids, yellow flowers, compact growth.<br><strong>Age:</strong> 60 years",
+    "details": "Soft as snow and twice as charming — the Opuntia microdasys albida, or White Bunny Ear Cactus, is a miniature marvel. Its oval pads are dusted with white, silky glochids that sparkle under the sun, creating a frosted, wintery illusion even in blazing heat. Its form is compact, its blooms golden — pure desert magic in miniature. Fun fact: Despite its gentle, snowy look, it thrives in some of the hottest, driest places on Earth, proving once again — never judge resilience by appearance!"
+  },
+  {
+    "id": "PLANT398",
+    "name": "Blue Melon Cactus / Azure Melocactus",
+    "botanical_name": "Melocactus azureus",
+    "image_url": "assets/images/398.webp",
+    "description": "<strong>Botanical Name:</strong> Melocactus azureus<br><strong>Common Name:</strong> Blue Melon Cactus / Azure Melocactus<br><strong>Family:</strong> Cactaceae<br><strong>Origin:</strong> Brazil (Bahia region)<br><strong>Growth Habit:</strong> Globular cactus 15–25 cm wide; bluish-green ribs with small spines and a reddish-brown cephalium at maturity.<br><strong>Light Required:</strong> Full sun or bright light.<br><strong>Water Required:</strong> Low; water only when dry.<br><strong>Soil Condition:</strong> Gritty, fast-draining cactus soil.<br><strong>Uses:</strong> Ornamental and collector’s cactus for pots and rock gardens.<br><strong>Special Features:</strong> Blue stem, red cephalium, pink-red flowers.<br><strong>Age:</strong> 70 years",
+    "details": "Deep in Brazil’s rocky landscapes, a rare beauty glows like a gemstone — the Melocactus azureus, or Blue Melon Cactus. Its round, bluish body is ribbed like a melon, topped with a reddish woolly crown called a cephalium, from which bright pink flowers emerge like jewels. It’s as if the desert gave birth to royalty itself — regal, radiant, and enduring. Fun fact: Once the cephalium forms, the cactus stops growing taller — all its energy goes into producing flowers and seeds, making this “crowned stage” the final, most glorious chapter of its life."
+  },
+  {
+    "id": "PLANT399",
+    "name": "Violet Squill / Purple Squill",
+    "botanical_name": "Scilla violacea",
+    "image_url": "assets/images/399.webp",
+    "description": "<strong>Botanical Name:</strong> Scilla violacea<br><strong>Common Name:</strong> Violet Squill / Purple Squill<br><strong>Family:</strong> Asparagaceae<br><strong>Origin:</strong> Southern Africa<br><strong>Growth Habit:</strong> Small bulbous plant 15–20 cm tall with strap-like leaves and violet-blue star-shaped flowers in clusters.<br><strong>Light Required:</strong> Full sun to partial shade.<br><strong>Water Required:</strong> Moderate; keep slightly moist during growth, drier in dormancy.<br><strong>Soil Condition:</strong> Well-draining soil with sand or grit.<br><strong>Uses:</strong> Ornamental bulb for borders, pots, and rock gardens.<br><strong>Special Features:</strong> Violet blooms, compact bulb growth, easy care.<br><strong>Age:</strong> 10 years",
+    "details": "And now, from cacti to color — the radiant Scilla violacea, or Violet Squill. Unlike its desert cousins, this little bulb plant thrives in warmth and light, sending up clusters of violet-blue, star-shaped flowers that sparkle like the night sky in bloom. Its narrow green leaves cradle the blossoms like nature’s own bouquet. Elegant, simple, and full of grace, it brightens any corner it graces. Fun fact: Each bulb can bloom for decades, resting quietly after each flowering season — a reminder that beauty, like patience, always returns with time."
+  },
+  {
+    "id": "PLANT400",
+    "name": "Zebra Plant",
+    "botanical_name": "Haworthia attenuata",
+    "image_url": "assets/images/400.webp",
+    "description": "<strong>Botanical Name:</strong> Haworthia attenuata<br><strong>Common Name:</strong> Zebra Plant<br><strong>Family:</strong> Asphodelaceae<br><strong>Origin:</strong> Eastern Cape, South Africa<br><strong>Growth Habit:</strong> Stemless, rosette-forming succulent up to 15 cm tall with pointed green leaves marked by white tubercles on both surfaces.<br><strong>Light Required:</strong> Bright, indirect sunlight.<br><strong>Water Required:</strong> Low; water only when soil is completely dry.<br><strong>Soil Condition:</strong> Sandy, well-draining succulent mix.<br><strong>Uses:</strong> Ornamental indoor succulent for desks and terrariums.<br><strong>Special Features:</strong> Distinct white striping, clumping habit, drought resistance.<br><strong>Age:</strong> 25 years",
+    "details": "Meet the fierce yet adorable Haworthia attenuata, better known as the Zebra Plant. Deep in the Eastern Cape of South Africa, this small but mighty succulent thrives in rocky soil and blazing sunlight — proof that beauty can survive even in the harshest corners of nature. Its dark green leaves, pointed and strong, are decorated with perfect bands of white, bumpy tubercles that look like zebra stripes. Each leaf rises from a tight rosette, forming a pattern so flawless that it almost seems designed by an artist rather than grown by nature. Over time, the plant multiplies, forming little families of “pups” around its base — a living colony of mini zebras! When it blooms, slender stalks shoot upward, carrying delicate white flowers veined with green, a quiet but elegant celebration of survival. Fun fact: Those white bumps aren’t just for looks — they reflect sunlight like natural sunscreen, helping the plant stay cool under the blazing African sun. Stylish and smart — that’s the Zebra Plant for you!"
+  },
+  {
+    "id": "PLANT401",
+    "name": "Zebra Haworthia / Zebra Cactus",
+    "botanical_name": "Haworthia fasciata",
+    "image_url": "assets/images/401.webp",
+    "description": "<strong>Botanical Name:</strong> Haworthia fasciata<br><strong>Common Name:</strong> Zebra Haworthia / Zebra Cactus<br><strong>Family:</strong> Asphodelaceae<br><strong>Origin:</strong> Eastern Cape, South Africa<br><strong>Growth Habit:</strong> Compact rosette succulent up to 10 cm tall with dark green leaves and white ridges on outer surfaces.<br><strong>Light Required:</strong> Bright, filtered light or partial shade.<br><strong>Water Required:</strong> Low; allow full drying between watering.<br><strong>Soil Condition:</strong> Gritty, fast-draining mix.<br><strong>Uses:</strong> Indoor decorative plant for low-light areas.<br><strong>Special Features:</strong> Smooth inner leaves, striped outer ridges, low maintenance.<br><strong>Age:</strong> 20 years",
+    "details": "Elegant, compact, and effortlessly stylish — the Haworthia fasciata, also known as the Zebra Haworthia, is a true icon of minimal beauty. Its glossy, dark green leaves form perfect rosettes, and those crisp white horizontal stripes give it that zebra-like allure that has captured plant lovers around the world. But unlike its cousin, Haworthia attenuata, this one has smooth inner leaves, giving it a sleek, modern finish. It’s a plant that loves balance — not too much sun, not too much water — just the right rhythm of care. Whether it’s basking by a sunny window or glowing under a soft lamp, it adds sophistication to any space. And when it sends up its thin flower stalk, dotted with tiny white blooms, it feels like a desert whisper in bloom. Fun fact: Believe it or not, the Zebra Haworthia’s ability to thrive with minimal water inspired NASA’s plant research experiments in microgravity — proving it’s not just decorative, it’s space-worthy!"
+  },
+  {
+    "id": "PLANT402",
+    "name": "Jade Plant / Money Plant / Friendship Tree",
+    "botanical_name": "Crassula ovata",
+    "image_url": "assets/images/402.webp",
+    "description": "<strong>Botanical Name:</strong> Crassula ovata<br><strong>Common Name:</strong> Jade Plant / Money Plant / Friendship Tree<br><strong>Family:</strong> Crassulaceae<br><strong>Origin:</strong> South Africa and Mozambique<br><strong>Growth Habit:</strong> Shrubby succulent up to 2 m tall with thick stems and glossy oval leaves that redden under sunlight.<br><strong>Light Required:</strong> Bright, indirect light or full sun.<br><strong>Water Required:</strong> Low; water only when dry.<br><strong>Soil Condition:</strong> Well-draining cactus or succulent soil.<br><strong>Uses:</strong> Ornamental houseplant symbolizing prosperity.<br><strong>Special Features:</strong> Star-shaped white flowers and extreme longevity.<br><strong>Age:</strong> 100 years",
+    "details": "Step aside, lucky charms — the Crassula ovata, or Jade Plant, is the living symbol of prosperity itself. Native to South Africa and Mozambique, this sturdy succulent grows like a tiny tree, its thick, glossy green leaves shaped like coins that shimmer with good fortune. Under sunlight, their edges blush red — a gentle reminder that even in heat, beauty thrives. The Jade Plant grows slowly, gracefully shaping itself into a miniature bonsai-like form, exuding calm and endurance. And just when winter comes, it surprises everyone with clusters of tiny white, star-shaped flowers, filling the air with a delicate sweetness. It’s no wonder it’s known as the Money Plant or Friendship Tree — it brings serenity wherever it grows. Fun fact: According to Feng Shui, placing a Jade Plant near your entrance is said to attract wealth and positive energy, making it one of the most gifted houseplants in the world!"
+  },
+  {
+    "id": "PLANT403",
+    "name": "Green Coral Jade Plant",
+    "botanical_name": "Crassula ovata ‘Green Coral’",
+    "image_url": "assets/images/403.webp",
+    "description": "<strong>Botanical Name:</strong> Crassula ovata ‘Green Coral’<br><strong>Common Name:</strong> Green Coral Jade Plant<br><strong>Family:</strong> Crassulaceae<br><strong>Origin:</strong> Cultivar of Crassula ovata (South Africa)<br><strong>Growth Habit:</strong> Succulent shrub 30–60 cm tall with tubular, coral-like bright green leaves and woody stems.<br><strong>Light Required:</strong> Bright, indirect sunlight or full sun.<br><strong>Water Required:</strong> Low; water sparingly and let soil dry.<br><strong>Soil Condition:</strong> Sandy, well-drained succulent mix.<br><strong>Uses:</strong> Decorative indoor/outdoor plant for bonsai and arrangements.<br><strong>Special Features:</strong> Coral-shaped leaves, white flowers, drought tolerance.<br><strong>Age:</strong> 60 years",
+    "details": "Nature must have been in a playful mood when it created Crassula ovata ‘Green Coral’ — a plant that looks like it came straight out of the ocean! With its bright green, tubular leaves curving and twisting like coral branches, this succulent turns any space into a miniature underwater world. It’s a slow grower, patient and graceful, developing into a bushy rosette of vibrant texture. When the sun kisses its tips, the leaves sometimes blush with a faint pink hue — subtle, elegant, and endlessly fascinating. Despite its exotic look, it’s tough as stone — drought-tolerant, long-living, and practically unkillable. Come winter, it gifts you with clusters of tiny star-like white flowers, a reminder that even the toughest souls can bloom softly. Fun fact: Its coral-like leaves aren’t just for show — they help the plant trap morning dew, giving it an extra sip of water straight from the air!"
+  },
+  {
+    "id": "PLANT404",
+    "name": "Zebra Haworthia / Zebrina Haworthia",
+    "botanical_name": "Haworthia reinwardtii ‘Zebrina’",
+    "image_url": "assets/images/404.webp",
+    "description": "<strong>Botanical Name:</strong> Haworthia reinwardtii ‘Zebrina’<br><strong>Common Name:</strong> Zebra Haworthia / Zebrina Haworthia<br><strong>Family:</strong> Asphodelaceae<br><strong>Origin:</strong> Eastern Cape, South Africa<br><strong>Growth Habit:</strong> Small rosette succulent up to 10 cm tall with dark green leaves covered in white horizontal ridges.<br><strong>Light Required:</strong> Bright, indirect light or partial shade.<br><strong>Water Required:</strong> Low; allow soil to dry completely.<br><strong>Soil Condition:</strong> Gritty, well-draining succulent mix.<br><strong>Uses:</strong> Compact indoor plant for containers and terrariums.<br><strong>Special Features:</strong> Striped foliage, easy growth, cluster-forming habit.<br><strong>Age:</strong> 25 years",
+    "details": "If strength had a pattern, it would look like the Haworthia reinwardtii ‘Zebrina’. Picture a tiny green tower covered in white ridges — each leaf stacked in perfect spiral formation, giving the plant an armored yet elegant appearance. This succulent doesn’t just grow; it builds itself, leaf by leaf, with military precision. Native to South Africa’s rugged cliffs, it thrives where rain is rare and sun is fierce. Indoors, it’s a bold accent — a living sculpture that thrives on little care. Give it bright light and time, and it will thank you with tall, graceful flower stalks, each dotted with delicate white blooms. Fun fact: Its spiraled leaf arrangement follows the Fibonacci sequence, a natural pattern found in seashells, galaxies, and even human DNA — proof that math and beauty coexist perfectly in nature!"
+  },
+  {
+    "id": "PLANT405",
+    "name": "Haworthia / Zebra Plant / Pearl Plant",
+    "botanical_name": "Haworthia (genus)",
+    "image_url": "assets/images/405.webp",
+    "description": "<strong>Botanical Name:</strong> Haworthia (genus)<br><strong>Common Name:</strong> Haworthia / Zebra Plant / Pearl Plant<br><strong>Family:</strong> Asphodelaceae<br><strong>Origin:</strong> Southern Africa<br><strong>Growth Habit:</strong> Small rosette succulents under 10 cm tall; thick patterned leaves, often translucent.<br><strong>Light Required:</strong> Bright, indirect light; tolerates partial shade.<br><strong>Water Required:</strong> Low; minimal watering required.<br><strong>Soil Condition:</strong> Gritty, porous soil with excellent drainage.<br><strong>Uses:</strong> Ornamental succulents for pots, terrariums, and décor.<br><strong>Special Features:</strong> Low maintenance, patterned foliage, small white flowers.<br><strong>Age:</strong> 30 years",
+    "details": "Welcome to the miniature world of Haworthias, a genus so varied and mesmerizing that it feels like nature’s jewelry collection. Some have glass-like windows on their leaves, others are striped like zebras, and a few shimmer with tiny pearls. Native to South Africa, these succulents are survival artists — thriving in shade, sipping water sparingly, and forming perfect rosettes that look like art. They come in endless shapes and textures, each more fascinating than the last. In bloom, their slender stalks rise gracefully, bearing tiny tubular flowers, subtle but enchanting. Whether sitting on a desk or tucked into a terrarium, Haworthias add calm, balance, and quiet beauty to any corner. Fun fact: Some Haworthia species have transparent leaf tips that act like solar panels — focusing sunlight deep into the leaf for photosynthesis, even in the dimmest light!"
+  },
+  {
+    "id": "PLANT406",
+    "name": "Zebra Haworthia / Clustered Haworthia",
+    "botanical_name": "Haworthia attenuata ‘Caespitosa’",
+    "image_url": "assets/images/406.webp",
+    "description": "<strong>Botanical Name:</strong> Haworthia attenuata ‘Caespitosa’<br><strong>Common Name:</strong> Zebra Haworthia / Clustered Haworthia<br><strong>Family:</strong> Asphodelaceae<br><strong>Origin:</strong> South Africa<br><strong>Growth Habit:</strong> Rosette succulent forming dense clusters up to 15 cm wide with dark green leaves striped with white tubercles.<br><strong>Light Required:</strong> Bright, indirect light.<br><strong>Water Required:</strong> Low; water only when soil is dry.<br><strong>Soil Condition:</strong> Well-draining, sandy succulent mix.<br><strong>Uses:</strong> Indoor ornamental for clusters and dish gardens.<br><strong>Special Features:</strong> Dense rosettes, white flower stalks, drought tolerant.<br><strong>Age:</strong> 25 years",
+    "details": "If one zebra plant is charming, imagine an entire herd! The Haworthia attenuata ‘Caespitosa’ is a lush, clustered form that grows like a family — tightly packed rosettes of dark green, white-striped leaves spreading outward like a natural mosaic. Each rosette mirrors its neighbor, creating a textured wave of beauty that fills pots and terrariums alike. This plant doesn’t just survive; it multiplies — thriving with bright light, dry soil, and almost no maintenance. And when spring arrives, it sends up delicate flower stalks, soft white blooms dancing above its spiky base. Fun fact: The name “Caespitosa” literally means forming dense clusters — this variety can grow into hundreds of mini rosettes over time, turning a single plant into a stunning living colony!"
+  },
+  {
+    "id": "PLANT407",
+    "name": "Small Haworthia / Mini Haworthia",
+    "botanical_name": "Haworthia minima",
+    "image_url": "assets/images/407.webp",
+    "description": "<strong>Botanical Name:</strong> Haworthia minima<br><strong>Common Name:</strong> Small Haworthia / Mini Haworthia<br><strong>Family:</strong> Asphodelaceae<br><strong>Origin:</strong> Eastern Cape, South Africa<br><strong>Growth Habit:</strong> Tiny rosette succulent 5 cm tall; dark green translucent leaves forming compact clusters.<br><strong>Light Required:</strong> Bright, indirect sunlight.<br><strong>Water Required:</strong> Low; allow drying between watering.<br><strong>Soil Condition:</strong> Gritty, fast-draining soil mix.<br><strong>Uses:</strong> Ideal for terrariums, miniature gardens, small pots.<br><strong>Special Features:</strong> Tiny symmetrical rosettes, soft leaf translucence.<br><strong>Age:</strong> 20 years",
+    "details": "Small in size, massive in personality — that’s the Haworthia minima. Standing just a few centimeters tall, it looks like a polished emerald gemstone nestled in the soil. Its tight rosettes of fleshy green leaves, sometimes glowing translucent at the tips, make it a perfect accent for small pots and terrariums. It’s humble yet confident — thriving in low light, asking for little, but rewarding endlessly. When it blooms, its tiny white flowers rise gracefully like elegant whispers. Fun fact: Those semi-transparent leaf tips aren’t just pretty — they refract sunlight deep into the plant’s core, letting it photosynthesize even in shady corners where other plants give up!"
+  },
+  {
+    "id": "PLANT408",
+    "name": "Bates’ Haworthia / Zebra-like Haworthia",
+    "botanical_name": "Haworthia batesiana",
+    "image_url": "assets/images/408.webp",
+    "description": "<strong>Botanical Name:</strong> Haworthia batesiana<br><strong>Common Name:</strong> Bates’ Haworthia / Zebra-like Haworthia<br><strong>Family:</strong> Asphodelaceae<br><strong>Origin:</strong> South Africa<br><strong>Growth Habit:</strong> Small rosette succulent 8 cm tall with dark green translucent leaves marked by faint stripes.<br><strong>Light Required:</strong> Bright, indirect light.<br><strong>Water Required:</strong> Low; water only when soil is dry.<br><strong>Soil Condition:</strong> Sandy, well-draining mix.<br><strong>Uses:</strong> Compact decorative succulent for small pots and terrariums.<br><strong>Special Features:</strong> Translucent striped leaves, symmetrical rosette form.<br><strong>Age:</strong> 25 years",
+    "details": "Among the many Haworthias, Haworthia batesiana is the quiet dreamer — subtle, patterned, and graceful. Its dark green rosettes are streaked with translucent lines that catch the light like fine crystal. Up close, it’s mesmerizing; from afar, it’s mysterious. It prefers the calm — indirect sunlight, dry air, and a touch of love now and then. In spring, slender flower stalks emerge, carrying tiny white, tubular blooms, a soft display of endurance. This is the plant for people who love elegance in simplicity. Fun fact: Those translucent streaks aren’t random — they act as natural light guides, channeling sunshine deep into the plant like fiber-optic cables from the desert sky!"
+  },
+  {
+    "id": "PLANT409",
+    "name": "Bristly Haworthia / Setata Haworthia",
+    "botanical_name": "Haworthia setata",
+    "image_url": "assets/images/409.webp",
+    "description": "<strong>Botanical Name:</strong> Haworthia setata<br><strong>Common Name:</strong> Bristly Haworthia / Setata Haworthia<br><strong>Family:</strong> Asphodelaceae<br><strong>Origin:</strong> Eastern Cape, South Africa<br><strong>Growth Habit:</strong> Small rosette succulent 8 cm tall with fleshy dark green leaves covered with fine white bristles.<br><strong>Light Required:</strong> Bright, indirect sunlight.<br><strong>Water Required:</strong> Low; water sparingly when soil dries.<br><strong>Soil Condition:</strong> Gritty, fast-draining soil.<br><strong>Uses:</strong> Ornamental plant for containers and succulent gardens.<br><strong>Special Features:</strong> Fine white bristles, translucent leaf tips, compact growth.<br><strong>Age:</strong> 25 years",
+    "details": "Glistening under light, Haworthia setata looks like a tiny green star covered in frost. Each dark green leaf ends in a delicate white bristle, giving the plant a soft, glowing texture that feels almost magical. In its natural habitat of South Africa’s rocky slopes, those hairs help it trap dew, turning morning mist into a drink of life. Over time, it grows into neat clusters, a constellation of living jewels that shine brightest in sunlight. When it blooms, slender stems lift tiny white flowers high above the rosettes — humble yet hypnotic. Fun fact: Those silky bristles act like natural moisture collectors, catching droplets from fog and dew so the plant can hydrate even when rain never falls. Desert survival — done in style!"
   }
 ]
